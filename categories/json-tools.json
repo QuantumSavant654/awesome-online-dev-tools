@@ -137,6 +137,19 @@
       "opensource": false
     },
     {
+      "name": "JSON Formatter",
+      "url": "https://jsonformatter.org/json",
+      "description": "Popular online JSON formatter and viewer with tree mode.",
+      "tags": [
+        "json",
+        "formatter",
+        "viewer"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "JSON Formatter & Validator",
       "url": "https://jsonformatter.org",
       "description": "Format, validate, and beautify JSON data.",

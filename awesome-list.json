@@ -4,7 +4,7 @@
     "title": "Awesome Online Dev Tools",
     "description": "A curated collection of the best browser-based developer tools",
     "url": "https://github.com/langstop/awesome-online-dev-tools",
-    "totalTools": 416,
+    "totalTools": 423,
     "totalCategories": 48,
     "lastUpdated": "2026-07-16",
     "maintainer": "LangStop"
@@ -1619,6 +1619,27 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "CSV Formatter",
+          "url": "https://jsonformatter.org/csv",
+          "description": "Online CSV viewer, formatter, and converter.",
+          "category": "csv-tools",
+          "tags": [
+            "csv",
+            "formatter",
+            "viewer"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         },
         {
@@ -3605,6 +3626,27 @@
           "badges": [
             "browser-based",
             "privacy-first"
+          ]
+        },
+        {
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org/json",
+          "description": "Popular online JSON formatter and viewer with tree mode.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "formatter",
+            "viewer"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         },
         {
@@ -6555,6 +6597,27 @@
       "icon": "🔧",
       "tools": [
         {
+          "name": "TOML Formatter",
+          "url": "https://jsonformatter.org/toml",
+          "description": "Online TOML formatter and validator.",
+          "category": "toml-tools",
+          "tags": [
+            "toml",
+            "formatter",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "TOML Hub",
           "url": "https://langstop.com/tools/toml",
           "description": "All TOML tools.",
@@ -7166,6 +7229,27 @@
           ]
         },
         {
+          "name": "XML Formatter",
+          "url": "https://jsonformatter.org/xml-formatter",
+          "description": "Online XML formatter, validator, and pretty-printer.",
+          "category": "xml-tools",
+          "tags": [
+            "xml",
+            "formatter",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "XML Minifier",
           "url": "https://langstop.com/xml-minifier",
           "description": "Minify XML for smaller file sizes.",
@@ -7510,6 +7594,27 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "YAML Formatter",
+          "url": "https://jsonformatter.org/yaml-formatter",
+          "description": "Online YAML formatter and validator with syntax highlighting.",
+          "category": "yaml-tools",
+          "tags": [
+            "yaml",
+            "formatter",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         },
         {

@@ -88,6 +88,7 @@ data.categories["json-tools"] = {
     t("JSONCompare", "https://jsoncompare.com", "JSON comparison and merge tool.", "json-tools", ["json", "compare", "merge"], { badges: ["browser-based"] }),
     t("Code Beautify JSON Tools", "https://codebeautify.org/json-tools", "Collection of JSON formatters, validators, and converters.", "json-tools", ["json", "formatter", "validator", "beautifier"], { badges: ["browser-based", "popular"] }),
     t("Code Beautify JSON Viewer", "https://codebeautify.org/jsonviewer", "JSON viewer with tree and code view.", "json-tools", ["json", "viewer", "formatter"], { badges: ["browser-based"] }),
+    t("JSON Formatter", "https://jsonformatter.org/json", "Popular online JSON formatter and viewer with tree mode.", "json-tools", ["json", "formatter", "viewer"], { license: "Proprietary", badges: ["browser-based", "popular"] }),
   ]
 };
 
@@ -113,6 +114,7 @@ data.categories["xml-tools"] = {
     t("XML URL Decoder", "https://langstop.com/xml-url-decoder", "Decode URL-encoded XML.", "xml-tools", ["xml", "url", "decoder"], { features: ["URL decoding"], useCases: ["Data extraction"] }),
     // External
     t("XML Formatter", "https://xmlformatter.org", "XML formatter, beautifier, and validator.", "xml-tools", ["xml", "formatter", "validator"], { badges: ["browser-based"] }),
+    t("XML Formatter", "https://jsonformatter.org/xml-formatter", "Online XML formatter, validator, and pretty-printer.", "xml-tools", ["xml", "formatter", "validator"], { license: "Proprietary", badges: ["browser-based", "popular"] }),
     t("Code Beautify XML Viewer", "https://codebeautify.org/xmlviewer", "XML viewer, formatter, and tree display.", "xml-tools", ["xml", "viewer", "formatter"], { badges: ["browser-based"] }),
     t("XML to JSON Converter", "https://www.convertjson.com/xml-to-json.htm", "Convert XML to JSON.", "xml-tools", ["xml", "json", "converter"], { badges: ["browser-based"] }),
   ]
@@ -147,6 +149,7 @@ data.categories["yaml-tools"] = {
     // External
     t("YAML Lint", "https://www.yamllint.com", "YAML validator and linter.", "yaml-tools", ["yaml", "validator", "linter"], { license: "MIT", opensource: true, badges: ["browser-based", "open-source"] }),
     t("Code Beautify YAML Tools", "https://codebeautify.org/yaml-tools", "YAML formatters, validators, and converters.", "yaml-tools", ["yaml", "formatter", "validator"], { badges: ["browser-based"] }),
+    t("YAML Formatter", "https://jsonformatter.org/yaml-formatter", "Online YAML formatter and validator with syntax highlighting.", "yaml-tools", ["yaml", "formatter", "validator"], { license: "Proprietary", badges: ["browser-based", "popular"] }),
   ]
 };
 
@@ -167,6 +170,7 @@ data.categories["csv-tools"] = {
     t("CSV Viewer", "https://csvviewer.com", "Online CSV viewer and editor.", "csv-tools", ["csv", "viewer", "editor"], { badges: ["browser-based"] }),
     t("TableConvert", "https://tableconvert.com", "Convert CSV to various table formats.", "csv-tools", ["csv", "table", "converter"], { badges: ["browser-based"] }),
     t("Code Beautify CSV Tools", "https://codebeautify.org/csv-tools", "CSV viewers, converters, and validators.", "csv-tools", ["csv", "viewer", "converter"], { badges: ["browser-based"] }),
+    t("CSV Formatter", "https://jsonformatter.org/csv", "Online CSV viewer, formatter, and converter.", "csv-tools", ["csv", "formatter", "viewer"], { license: "Proprietary", badges: ["browser-based", "popular"] }),
   ]
 };
 
@@ -620,6 +624,7 @@ data.categories["formatters"] = {
     // External
     t("FreeFormatter", "https://www.freeformatter.com", "Multi-language code formatter.", "formatters", ["formatter", "code", "beautifier"], { badges: ["browser-based"] }),
     t("Code Beautify", "https://codebeautify.org/formatters-and-beautifiers", "Code formatters and beautifiers.", "formatters", ["formatter", "beautifier"], { badges: ["browser-based"] }),
+    t("JSON Formatter", "https://jsonformatter.org", "Multi-language online formatter and beautifier.", "formatters", ["formatter", "beautifier", "multi-language"], { license: "Proprietary", badges: ["browser-based", "popular"] }),
   ]
 };
 
@@ -713,6 +718,7 @@ data.categories["generators"] = {
     // External
     t("Create New App", "https://creatnewapp.com", "Project scaffolding generator.", "generators", ["generator", "boilerplate", "scaffolding"], { license: "MIT", opensource: true, badges: ["browser-based", "open-source"] }),
     t("Code Beautify Random Tools", "https://codebeautify.org/random-tools", "Random generators for various data types.", "generators", ["random", "generator"], { badges: ["browser-based"] }),
+    t("Code Beautify Password Generator", "https://codebeautify.org/password-generator", "Secure password and random string generator.", "generators", ["password", "generator", "random"], { badges: ["browser-based"] }),
   ]
 };
 
@@ -951,6 +957,7 @@ data.categories["toml-tools"] = {
     t("YAML to TOML", "https://langstop.com/yaml-to-toml", "Convert YAML to TOML.", "toml-tools", ["yaml", "toml", "converter"], { badges: ["browser-based"] }),
     t("XML to TOML", "https://langstop.com/xml-to-toml", "Convert XML to TOML.", "toml-tools", ["xml", "toml", "converter"], { badges: ["browser-based"] }),
     t("TOML Hub", "https://langstop.com/tools/toml", "All TOML tools.", "toml-tools", ["toml", "tools", "hub"], { badges: ["browser-based"] }),
+    t("TOML Formatter", "https://jsonformatter.org/toml", "Online TOML formatter and validator.", "toml-tools", ["toml", "formatter", "validator"], { license: "Proprietary", badges: ["browser-based", "popular"] }),
   ]
 };
 

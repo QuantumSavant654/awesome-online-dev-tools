@@ -9,7 +9,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/QuantumSavant654/awesome-online-dev-tools)](https://github.com/QuantumSavant654/awesome-online-dev-tools/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/QuantumSavant654/awesome-online-dev-tools?style=social)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Tools Count](https://img.shields.io/badge/tools-328-blue)](#)
+[![Tools Count](https://img.shields.io/badge/tools-333-blue)](#)
 [![Categories](https://img.shields.io/badge/categories-48-green)](#)
 [![Validate](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml/badge.svg)](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml)
 [![Open Source](https://img.shields.io/badge/open%20source-contributions%20welcome-success)](#)
@@ -237,6 +237,7 @@ CSS formatters, validators, and preprocessor tools
 CSV editors, converters, and generators
 
 - 🌐 [Code Beautify CSV Tools](https://codebeautify.org/csv-tools) — CSV viewers, converters, and validators.
+- 🌐 [CSV Formatter](https://jsonformatter.org/csv) — Online CSV viewer, formatter, and converter.
 - 🌐 [CSV Mock Data Generator](https://langstop.com/csv-mock-data-generator) — Generate realistic CSV mock data.
 - 🌐 [CSV to JSON](https://langstop.com/csv-to-json) — Convert CSV rows to structured JSON.
 - 🌐 [CSV to XML](https://langstop.com/csv-to-xml) — Convert CSV to structured XML.
@@ -425,6 +426,7 @@ JSON formatters, validators, converters, minifiers, and code generators
 - 🌐 [JSON Fix](https://langstop.com/json-fix) — Auto-correct malformed JSON with one click.
 - 🌐 [JSON Flatten / Unflatten](https://langstop.com/json-flatten) — Flatten nested JSON or unflatten key-value pairs.
 - 🌐 [JSON Formatter](https://langstop.com/json-formatter) — Format, validate, and beautify JSON with multi-tab support. `privacy-first`
+- 🌐 [JSON Formatter](https://jsonformatter.org/json) — Popular online JSON formatter and viewer with tree mode.
 - 🌐 [JSON Formatter & Validator](https://jsonformatter.org) — Format, validate, and beautify JSON data.
 - 🌐 [JSON Hero](https://jsonhero.io) — JSON viewer with schema inference. `open-source`
 - 🌐 [JSON Minifier](https://langstop.com/json-minifier) — Minify JSON to reduce file size for production.
@@ -657,6 +659,7 @@ Timestamp converters, cron helpers, and date utilities
 
 TOML parsers, converters, and validators
 
+- 🌐 [TOML Formatter](https://jsonformatter.org/toml) — Online TOML formatter and validator.
 - 🌐 [TOML Hub](https://langstop.com/tools/toml) — All TOML tools.
 
 ---
@@ -717,6 +720,7 @@ XML editors, formatters, validators, and converters
 - 🌐 [XML Editor](https://langstop.com/xml-editor) — Edit XML with interactive tree view.
 - 🌐 [XML Formatter](https://langstop.com/xml-formatter) — Format and beautify XML documents.
 - 🌐 [XML Formatter](https://xmlformatter.org) — XML formatter, beautifier, and validator.
+- 🌐 [XML Formatter](https://jsonformatter.org/xml-formatter) — Online XML formatter, validator, and pretty-printer.
 - 🌐 [XML Minifier](https://langstop.com/xml-minifier) — Minify XML for smaller file sizes.
 - 🌐 [XML Mock Data Generator](https://langstop.com/xml-mock-data-generator) — Generate mock XML data for testing.
 - 🌐 [XML to Code Generator](https://langstop.com/xml-to-code) — Generate code from XML for multiple languages.
@@ -738,6 +742,7 @@ YAML parsers, validators, converters, and code generators
 - 🌐 [Code Beautify YAML Tools](https://codebeautify.org/yaml-tools) — YAML formatters, validators, and converters.
 - 🌐 [YAML Editor](https://langstop.com/yaml-editor) — Edit YAML with interactive tree view.
 - 🌐 [YAML Formatter](https://langstop.com/yaml-formatter) — Format and beautify YAML files.
+- 🌐 [YAML Formatter](https://jsonformatter.org/yaml-formatter) — Online YAML formatter and validator with syntax highlighting.
 - 🌐 [YAML Lint](https://www.yamllint.com) — YAML validator and linter. `open-source`
 - 🌐 [YAML Minifier](https://langstop.com/yaml-minifier) — Minify YAML for compressed output.
 - 🌐 [YAML to .env](https://langstop.com/yaml-to-env) — Convert YAML to .env format.
@@ -764,7 +769,7 @@ YAML parsers, validators, converters, and code generators
 
 | Metric | Count |
 |--------|-------|
-| 🛠 Tools | 328 |
+| 🛠 Tools | 333 |
 | 📂 Categories | 48 |
 | ⭐ Open Source | n/a% |
 | 🔒 Privacy-First | n/a% |

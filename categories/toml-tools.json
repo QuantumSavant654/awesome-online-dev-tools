@@ -5,6 +5,19 @@
   "icon": "🔧",
   "tools": [
     {
+      "name": "TOML Formatter",
+      "url": "https://jsonformatter.org/toml",
+      "description": "Online TOML formatter and validator.",
+      "tags": [
+        "toml",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "TOML Hub",
       "url": "https://langstop.com/tools/toml",
       "description": "All TOML tools.",

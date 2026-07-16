@@ -44,6 +44,19 @@
       "opensource": false
     },
     {
+      "name": "YAML Formatter",
+      "url": "https://jsonformatter.org/yaml-formatter",
+      "description": "Online YAML formatter and validator with syntax highlighting.",
+      "tags": [
+        "yaml",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "YAML Lint",
       "url": "https://www.yamllint.com",
       "description": "YAML validator and linter.",

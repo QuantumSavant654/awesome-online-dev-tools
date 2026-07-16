@@ -18,6 +18,19 @@
       "opensource": false
     },
     {
+      "name": "CSV Formatter",
+      "url": "https://jsonformatter.org/csv",
+      "description": "Online CSV viewer, formatter, and converter.",
+      "tags": [
+        "csv",
+        "formatter",
+        "viewer"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "CSV Mock Data Generator",
       "url": "https://langstop.com/csv-mock-data-generator",
       "description": "Generate realistic CSV mock data.",

@@ -57,6 +57,19 @@
       "opensource": false
     },
     {
+      "name": "XML Formatter",
+      "url": "https://jsonformatter.org/xml-formatter",
+      "description": "Online XML formatter, validator, and pretty-printer.",
+      "tags": [
+        "xml",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "XML Minifier",
       "url": "https://langstop.com/xml-minifier",
       "description": "Minify XML for smaller file sizes.",

@@ -14,9 +14,10 @@
     "generate:index": "node scripts/generate-index.js",
     "generate:categories": "node scripts/generate-index.js",
     "generate:readme": "node scripts/generate-readme.js",
+    "generate": "node scripts/stats.js && node scripts/sort.js && node scripts/generate-index.js && node scripts/generate-readme.js",
     "format:check": "node -e \"JSON.parse(require('fs').readFileSync('awesome-list.json','utf8'))\" && echo 'Format OK'",
     "lint:md": "npx markdownlint README.md CONTRIBUTING.md CODE_OF_CONDUCT.md SECURITY.md",
-    "prepare": "node scripts/generate-index.js"
+    "prepare": "node scripts/generate-index.js && node scripts/generate-readme.js"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.39.0"

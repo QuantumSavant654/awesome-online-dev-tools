@@ -1,0 +1,47 @@
+{
+  "category": "openapi",
+  "name": "OpenAPI Tools",
+  "description": "OpenAPI/Swagger specification editors and viewers",
+  "icon": "📖",
+  "tools": [
+    {
+      "name": "Redocly",
+      "url": "https://redocly.com/redoc",
+      "description": "OpenAPI documentation generator.",
+      "tags": [
+        "openapi",
+        "documentation",
+        "redoc"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Swagger Editor",
+      "url": "https://editor.swagger.io",
+      "description": "Official Swagger/OpenAPI editor.",
+      "tags": [
+        "openapi",
+        "swagger",
+        "editor"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "SwaggerHub",
+      "url": "https://swagger.io/tools/swaggerhub",
+      "description": "API design platform.",
+      "tags": [
+        "openapi",
+        "api",
+        "design"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

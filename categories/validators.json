@@ -1,0 +1,33 @@
+{
+  "category": "validators",
+  "name": "Validators",
+  "description": "Code and data validators for multiple formats",
+  "icon": "✅",
+  "tools": [
+    {
+      "name": "Code Beautify Validators",
+      "url": "https://codebeautify.org/validator-tools",
+      "description": "Code validation tools for multiple formats.",
+      "tags": [
+        "validator",
+        "checker"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "W3C Validator",
+      "url": "https://validator.w3.org",
+      "description": "Official W3C HTML validator.",
+      "tags": [
+        "html",
+        "validator",
+        "w3c"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

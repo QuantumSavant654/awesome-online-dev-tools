@@ -1,0 +1,61 @@
+{
+  "category": "productivity",
+  "name": "Developer Productivity",
+  "description": "Online IDEs, editors, and productivity tools",
+  "icon": "⚡",
+  "tools": [
+    {
+      "name": "Gitpod",
+      "url": "https://www.gitpod.io",
+      "description": "Cloud development environment.",
+      "tags": [
+        "ide",
+        "cloud",
+        "development"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Replit",
+      "url": "https://replit.com",
+      "description": "Online IDE with collaboration.",
+      "tags": [
+        "ide",
+        "collaboration",
+        "deployment"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Resume Builder",
+      "url": "https://langstop.com/resume-builder",
+      "description": "Build your developer resume online.",
+      "tags": [
+        "resume",
+        "builder",
+        "career"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "StackBlitz",
+      "url": "https://stackblitz.com",
+      "description": "Online IDE for web apps.",
+      "tags": [
+        "ide",
+        "web",
+        "angular",
+        "react"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

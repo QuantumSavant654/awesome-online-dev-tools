@@ -1,0 +1,112 @@
+{
+  "category": "javascript-tools",
+  "name": "JavaScript Tools",
+  "description": "JavaScript playgrounds, formatters, and minifiers",
+  "icon": "⚡",
+  "tools": [
+    {
+      "name": "Code Beautify JavaScript Tools",
+      "url": "https://codebeautify.org/javascript-tools",
+      "description": "JavaScript formatters, validators, and minifiers.",
+      "tags": [
+        "javascript",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Formatters Hub",
+      "url": "https://langstop.com/formatters/javascript-formatter",
+      "description": "Format JavaScript and many other languages.",
+      "tags": [
+        "javascript",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CodeSandbox",
+      "url": "https://codesandbox.io",
+      "description": "Online IDE for web apps.",
+      "tags": [
+        "javascript",
+        "ide",
+        "react"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "JavaScript Minifier",
+      "url": "https://langstop.com/javascript-minifier",
+      "description": "Minify JavaScript by removing whitespace and comments.",
+      "tags": [
+        "javascript",
+        "minifier",
+        "compress"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to JavaScript",
+      "url": "https://langstop.com/json-to-javascript",
+      "description": "Convert JSON to JavaScript objects.",
+      "tags": [
+        "json",
+        "javascript",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to JavaScript PropTypes",
+      "url": "https://langstop.com/json-to-javascript-prop-types",
+      "description": "Generate PropTypes from JSON.",
+      "tags": [
+        "json",
+        "javascript",
+        "proptypes"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PlayCode",
+      "url": "https://playcode.io",
+      "description": "JavaScript playground.",
+      "tags": [
+        "javascript",
+        "playground",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Prettier Playground",
+      "url": "https://prettier.io/playground",
+      "description": "Opinionated code formatter.",
+      "tags": [
+        "javascript",
+        "formatter",
+        "prettier"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

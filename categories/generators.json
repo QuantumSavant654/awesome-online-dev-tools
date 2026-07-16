@@ -1,0 +1,46 @@
+{
+  "category": "generators",
+  "name": "Generators",
+  "description": "Code, data, and content generators",
+  "icon": "⚙️",
+  "tools": [
+    {
+      "name": "Code Beautify Random Tools",
+      "url": "https://codebeautify.org/random-tools",
+      "description": "Random generators for various data types.",
+      "tags": [
+        "random",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Create New App",
+      "url": "https://creatnewapp.com",
+      "description": "Project scaffolding generator.",
+      "tags": [
+        "generator",
+        "boilerplate",
+        "scaffolding"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "VS Code Snippet Generator",
+      "url": "https://langstop.com/vscode-snippet-generator",
+      "description": "Create VS Code snippets visually.",
+      "tags": [
+        "vscode",
+        "snippet",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

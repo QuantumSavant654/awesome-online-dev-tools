@@ -1,0 +1,34 @@
+{
+  "category": "kubernetes-tools",
+  "name": "Kubernetes Tools",
+  "description": "Kubernetes management and monitoring tools",
+  "icon": "☸️",
+  "tools": [
+    {
+      "name": "K9s",
+      "url": "https://k9scli.io",
+      "description": "Terminal K8s manager.",
+      "tags": [
+        "kubernetes",
+        "cli",
+        "management"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Lens",
+      "url": "https://k8slens.dev",
+      "description": "Kubernetes IDE.",
+      "tags": [
+        "kubernetes",
+        "ide",
+        "management"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

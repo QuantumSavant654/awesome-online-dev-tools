@@ -1,0 +1,47 @@
+{
+  "category": "jwt-tools",
+  "name": "JWT Tools",
+  "description": "JWT encoders, decoders, and debuggers",
+  "icon": "🔐",
+  "tools": [
+    {
+      "name": "JWT Decoder",
+      "url": "https://langstop.com/jwt-decoder",
+      "description": "Decode JWTs safely — client-side only.",
+      "tags": [
+        "jwt",
+        "decoder",
+        "debugger"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JWT Encoder",
+      "url": "https://langstop.com/jwt-encoder",
+      "description": "Create and sign JWTs with algorithm support.",
+      "tags": [
+        "jwt",
+        "encoder",
+        "sign"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JWT.io",
+      "url": "https://jwt.io",
+      "description": "JWT debugger with algorithm support.",
+      "tags": [
+        "jwt",
+        "debugger",
+        "token"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

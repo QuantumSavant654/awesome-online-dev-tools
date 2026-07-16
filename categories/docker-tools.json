@@ -1,0 +1,21 @@
+{
+  "category": "docker-tools",
+  "name": "Docker Tools",
+  "description": "Docker compose builders and container tools",
+  "icon": "🐳",
+  "tools": [
+    {
+      "name": "Composerize",
+      "url": "https://www.composerize.com",
+      "description": "Convert docker run to compose.",
+      "tags": [
+        "docker",
+        "compose",
+        "converter"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

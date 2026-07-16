@@ -1,0 +1,34 @@
+{
+  "category": "workflow-tools",
+  "name": "Workflow & Pipeline Tools",
+  "description": "MCP config generators, data pipelines, and automation tools",
+  "icon": "🔧",
+  "tools": [
+    {
+      "name": "MCP Config Generator",
+      "url": "https://langstop.com/mcp-generator",
+      "description": "Generate MCP server configuration files.",
+      "tags": [
+        "mcp",
+        "config",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Workflow Hub",
+      "url": "https://langstop.com/tools/workflow",
+      "description": "All workflow and pipeline tools.",
+      "tags": [
+        "workflow",
+        "pipeline",
+        "tools"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "category": "color-tools",
+  "name": "Color Tools",
+  "description": "Color pickers, palettes, and workbenches",
+  "icon": "🎨",
+  "tools": [
+    {
+      "name": "Adobe Color",
+      "url": "https://color.adobe.com",
+      "description": "Color wheel and palette creator.",
+      "tags": [
+        "color",
+        "wheel",
+        "palette"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Beautify Color Tools",
+      "url": "https://codebeautify.org/color-tools",
+      "description": "Color converters and palette tools.",
+      "tags": [
+        "color",
+        "converter",
+        "palette"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Color Workbench",
+      "url": "https://langstop.com/color-workbench",
+      "description": "Interactive color palette and harmony workbench.",
+      "tags": [
+        "color",
+        "palette",
+        "harmony"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Coolors",
+      "url": "https://coolors.co",
+      "description": "Color palette generator.",
+      "tags": [
+        "color",
+        "palette",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

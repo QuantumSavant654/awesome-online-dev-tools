@@ -1,0 +1,33 @@
+{
+  "category": "devops",
+  "name": "DevOps Tools",
+  "description": "Monitoring, incident management, and automation",
+  "icon": "🔄",
+  "tools": [
+    {
+      "name": "Better Uptime",
+      "url": "https://betteruptime.com",
+      "description": "Uptime monitoring.",
+      "tags": [
+        "monitoring",
+        "uptime",
+        "incident"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Uptime Robot",
+      "url": "https://uptimerobot.com",
+      "description": "Free website monitoring.",
+      "tags": [
+        "monitoring",
+        "uptime"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

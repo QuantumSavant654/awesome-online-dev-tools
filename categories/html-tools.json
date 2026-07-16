@@ -1,0 +1,88 @@
+{
+  "category": "html-tools",
+  "name": "HTML Tools",
+  "description": "HTML editors, formatters, and validators",
+  "icon": "🌐",
+  "tools": [
+    {
+      "name": "Code Beautify HTML Tools",
+      "url": "https://codebeautify.org/html-tools",
+      "description": "HTML formatters, editors, and generators.",
+      "tags": [
+        "html",
+        "formatter",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CodePen",
+      "url": "https://codepen.io",
+      "description": "HTML/CSS/JS playground.",
+      "tags": [
+        "html",
+        "css",
+        "js",
+        "playground"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "HTML Entity Decoder",
+      "url": "https://langstop.com/html-entity-decoder",
+      "description": "Decode HTML entities back to text.",
+      "tags": [
+        "html",
+        "entities",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "HTML Entity Encoder",
+      "url": "https://langstop.com/html-entity-encoder",
+      "description": "Encode special characters to HTML entities.",
+      "tags": [
+        "html",
+        "entities",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "HTML Formatter",
+      "url": "https://langstop.com/html-formatter",
+      "description": "Format and beautify HTML code.",
+      "tags": [
+        "html",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSFiddle",
+      "url": "https://jsfiddle.net",
+      "description": "Online code editor.",
+      "tags": [
+        "html",
+        "css",
+        "js",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

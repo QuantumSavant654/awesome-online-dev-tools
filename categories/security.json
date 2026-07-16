@@ -1,0 +1,71 @@
+{
+  "category": "security",
+  "name": "Security Tools",
+  "description": "SSL, password, and security analysis tools",
+  "icon": "🛡️",
+  "tools": [
+    {
+      "name": "Bitwarden Password Generator",
+      "url": "https://bitwarden.com/password-generator",
+      "description": "Open source password generator.",
+      "tags": [
+        "password",
+        "generator"
+      ],
+      "license": "GPL-3.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Code Beautify Password Generator",
+      "url": "https://codebeautify.org/password-generator",
+      "description": "Secure password generator.",
+      "tags": [
+        "password",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Password Generator",
+      "url": "https://langstop.com/password-generator",
+      "description": "Generate strong passwords with customizable options.",
+      "tags": [
+        "security",
+        "password",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Security Headers",
+      "url": "https://securityheaders.com",
+      "description": "HTTP security headers analysis.",
+      "tags": [
+        "security",
+        "headers",
+        "analysis"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SSL Labs",
+      "url": "https://www.ssllabs.com/ssltest",
+      "description": "SSL/TLS server configuration test.",
+      "tags": [
+        "ssl",
+        "tls",
+        "security"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

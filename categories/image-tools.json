@@ -1,0 +1,73 @@
+{
+  "category": "image-tools",
+  "name": "Image Tools",
+  "description": "Image editors, optimizers, and converters",
+  "icon": "🖼️",
+  "tools": [
+    {
+      "name": "Code Beautify Image Tools",
+      "url": "https://codebeautify.org/image-converter-tools",
+      "description": "Image conversion and optimization tools.",
+      "tags": [
+        "image",
+        "converter",
+        "optimizer"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Photopea",
+      "url": "https://www.photopea.com",
+      "description": "Advanced online image editor.",
+      "tags": [
+        "image",
+        "editor",
+        "psd"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Squoosh",
+      "url": "https://squoosh.app",
+      "description": "Google's image optimizer.",
+      "tags": [
+        "image",
+        "optimizer",
+        "compression"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "SVGOMG",
+      "url": "https://jakearchibald.github.io/svgomg",
+      "description": "SVG optimizer.",
+      "tags": [
+        "svg",
+        "optimizer",
+        "minifier"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "TinyPNG",
+      "url": "https://tinypng.com",
+      "description": "PNG and JPEG compression.",
+      "tags": [
+        "image",
+        "compression",
+        "png"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

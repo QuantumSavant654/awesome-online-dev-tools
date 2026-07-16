@@ -1,0 +1,138 @@
+{
+  "category": "uuid-generators",
+  "name": "UUID Generators",
+  "description": "UUID/GUID/ULID generators for all versions",
+  "icon": "🆔",
+  "tools": [
+    {
+      "name": "GUID Generator",
+      "url": "https://langstop.com/uuid-generator/guid",
+      "description": "Generate Microsoft-style GUIDs.",
+      "tags": [
+        "guid",
+        "uuid",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "ULID Generator",
+      "url": "https://langstop.com/uuid-generator/ulid",
+      "description": "Generate lexicographically sortable ULIDs.",
+      "tags": [
+        "ulid",
+        "sortable",
+        "id"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID Generator",
+      "url": "https://www.uuidgenerator.net",
+      "description": "UUID/GUID generator for all versions.",
+      "tags": [
+        "uuid",
+        "guid",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID Tools",
+      "url": "https://www.uuidtools.com",
+      "description": "UUID generation and validation.",
+      "tags": [
+        "uuid",
+        "tools",
+        "validation"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID Tools Hub",
+      "url": "https://langstop.com/uuid-generator",
+      "description": "All UUID and ID generators in one place.",
+      "tags": [
+        "uuid",
+        "generator",
+        "hub"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID v1 Generator",
+      "url": "https://langstop.com/uuid-generator/v1",
+      "description": "Generate time-based UUID v1.",
+      "tags": [
+        "uuid",
+        "v1",
+        "time-based"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID v3 Generator",
+      "url": "https://langstop.com/uuid-generator/v3",
+      "description": "Generate name-based UUID v3 (MD5).",
+      "tags": [
+        "uuid",
+        "v3",
+        "name-based"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID v4 Generator",
+      "url": "https://langstop.com/uuid-generator/v4",
+      "description": "Generate random UUID v4.",
+      "tags": [
+        "uuid",
+        "v4",
+        "random"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID v5 Generator",
+      "url": "https://langstop.com/uuid-generator/v5",
+      "description": "Generate name-based UUID v5 (SHA-1).",
+      "tags": [
+        "uuid",
+        "v5",
+        "name-based"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID v7 Generator",
+      "url": "https://langstop.com/uuid-generator/v7",
+      "description": "Generate time-ordered UUID v7 for databases.",
+      "tags": [
+        "uuid",
+        "v7",
+        "time-ordered"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

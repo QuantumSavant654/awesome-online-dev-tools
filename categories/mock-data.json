@@ -1,0 +1,47 @@
+{
+  "category": "mock-data",
+  "name": "Mock Data Generators",
+  "description": "Fake data generators for development and testing",
+  "icon": "🎭",
+  "tools": [
+    {
+      "name": "JSON Generator",
+      "url": "https://www.json-generator.com",
+      "description": "Generate JSON from templates.",
+      "tags": [
+        "json",
+        "generator",
+        "mock"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Mockaroo",
+      "url": "https://www.mockaroo.com",
+      "description": "Realistic data generator.",
+      "tags": [
+        "mock",
+        "data",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Mockoon",
+      "url": "https://mockoon.com",
+      "description": "Mock API server.",
+      "tags": [
+        "mock",
+        "api",
+        "server"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

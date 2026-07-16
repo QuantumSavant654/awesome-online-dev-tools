@@ -1,0 +1,569 @@
+{
+  "category": "json-tools",
+  "name": "JSON Tools",
+  "description": "JSON formatters, validators, converters, minifiers, and code generators",
+  "icon": "📋",
+  "tools": [
+    {
+      "name": "Code Beautify JSON Tools",
+      "url": "https://codebeautify.org/json-tools",
+      "description": "Collection of JSON formatters, validators, and converters.",
+      "tags": [
+        "json",
+        "formatter",
+        "validator",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Beautify JSON Viewer",
+      "url": "https://codebeautify.org/jsonviewer",
+      "description": "JSON viewer with tree and code view.",
+      "tags": [
+        "json",
+        "viewer",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Diff",
+      "url": "https://langstop.com/json-diff",
+      "description": "Compare two JSON objects side by side with color highlighting.",
+      "tags": [
+        "json",
+        "diff",
+        "compare"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Diff",
+      "url": "https://jsondiff.com",
+      "description": "Compare two JSON documents side-by-side.",
+      "tags": [
+        "json",
+        "diff",
+        "comparison"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Editor",
+      "url": "https://langstop.com/json-editor",
+      "description": "Edit JSON with interactive tree view and Monaco code editor.",
+      "tags": [
+        "json",
+        "editor",
+        "tree-view"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Editor Online",
+      "url": "https://jsoneditoronline.org",
+      "description": "Tree editor for JSON documents.",
+      "tags": [
+        "json",
+        "editor",
+        "tree-view"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "JSON Escape / Unescape",
+      "url": "https://langstop.com/json-escape-unescape",
+      "description": "Escape or unescape JSON special characters.",
+      "tags": [
+        "json",
+        "escape",
+        "unescape"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Fix",
+      "url": "https://langstop.com/json-fix",
+      "description": "Auto-correct malformed JSON with one click.",
+      "tags": [
+        "json",
+        "fix",
+        "repair"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Flatten / Unflatten",
+      "url": "https://langstop.com/json-flatten",
+      "description": "Flatten nested JSON or unflatten key-value pairs.",
+      "tags": [
+        "json",
+        "flatten",
+        "unflatten"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Formatter",
+      "url": "https://langstop.com/json-formatter",
+      "description": "Format, validate, and beautify JSON with multi-tab support.",
+      "tags": [
+        "json",
+        "formatter",
+        "validator",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Formatter & Validator",
+      "url": "https://jsonformatter.org",
+      "description": "Format, validate, and beautify JSON data.",
+      "tags": [
+        "json",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Hero",
+      "url": "https://jsonhero.io",
+      "description": "JSON viewer with schema inference.",
+      "tags": [
+        "json",
+        "viewer",
+        "explorer"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "JSON Minifier",
+      "url": "https://langstop.com/json-minifier",
+      "description": "Minify JSON to reduce file size for production.",
+      "tags": [
+        "json",
+        "minifier",
+        "compress"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Mock Data Generator",
+      "url": "https://langstop.com/json-mock-data-generator",
+      "description": "Generate realistic mock JSON data for testing.",
+      "tags": [
+        "json",
+        "mock",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Pipeline Builder",
+      "url": "https://langstop.com/pipeline-builder",
+      "description": "Compose JSON tools into reusable processing pipelines.",
+      "tags": [
+        "json",
+        "pipeline",
+        "workflow"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Schema GUI Builder",
+      "url": "https://langstop.com/json-schema-gui-builder",
+      "description": "Visually build JSON Schema with an intuitive GUI.",
+      "tags": [
+        "json",
+        "schema",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Schema to TypeScript",
+      "url": "https://langstop.com/json-schema-to-typescript",
+      "description": "Convert JSON Schema to TypeScript interfaces.",
+      "tags": [
+        "json",
+        "typescript",
+        "schema"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Schema to Zod",
+      "url": "https://langstop.com/json-schema-to-zod",
+      "description": "Convert JSON Schema to Zod validation schemas.",
+      "tags": [
+        "json",
+        "zod",
+        "schema"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Sorter",
+      "url": "https://langstop.com/json-sorter",
+      "description": "Sort JSON keys alphabetically with recursive nesting.",
+      "tags": [
+        "json",
+        "sorter",
+        "sort-keys"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to .env",
+      "url": "https://langstop.com/json-to-env",
+      "description": "Convert JSON to Node.js .env format.",
+      "tags": [
+        "json",
+        "env",
+        "dotenv"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Bash",
+      "url": "https://langstop.com/json-to-bash",
+      "description": "Convert JSON to Bash export statements.",
+      "tags": [
+        "json",
+        "bash",
+        "shell"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Code Generator",
+      "url": "https://langstop.com/json-to-code",
+      "description": "Convert JSON into strongly-typed code for 22+ languages.",
+      "tags": [
+        "json",
+        "code-gen",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to CSV",
+      "url": "https://langstop.com/json-to-csv",
+      "description": "Convert JSON arrays to CSV for spreadsheets.",
+      "tags": [
+        "json",
+        "csv",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to INI (Python)",
+      "url": "https://langstop.com/json-to-ini",
+      "description": "Convert JSON to INI config file format.",
+      "tags": [
+        "json",
+        "ini",
+        "configparser"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Java Properties",
+      "url": "https://langstop.com/json-to-java-properties",
+      "description": "Convert JSON to Java .properties file format.",
+      "tags": [
+        "json",
+        "java",
+        "properties"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to PHP Array",
+      "url": "https://langstop.com/json-to-php-array",
+      "description": "Convert JSON to PHP array config format.",
+      "tags": [
+        "json",
+        "php",
+        "array"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to PHP INI",
+      "url": "https://langstop.com/json-to-php-ini",
+      "description": "Convert JSON to PHP INI config format.",
+      "tags": [
+        "json",
+        "php",
+        "ini"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Pydantic",
+      "url": "https://langstop.com/json-to-pydantic",
+      "description": "Convert JSON to Pydantic BaseModel classes.",
+      "tags": [
+        "json",
+        "pydantic",
+        "python"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Python Dict",
+      "url": "https://langstop.com/json-to-python-dict",
+      "description": "Convert JSON to Python dict literal format.",
+      "tags": [
+        "json",
+        "python",
+        "dict"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to String",
+      "url": "https://langstop.com/json-to-string",
+      "description": "Convert JSON objects to escaped string literals.",
+      "tags": [
+        "json",
+        "string",
+        "stringify"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to TOML",
+      "url": "https://langstop.com/json-to-toml",
+      "description": "Convert JSON to TOML config format.",
+      "tags": [
+        "json",
+        "toml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to TSV",
+      "url": "https://langstop.com/json-to-tsv",
+      "description": "Convert JSON arrays to tab-separated values.",
+      "tags": [
+        "json",
+        "tsv",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to XML",
+      "url": "https://langstop.com/json-to-xml",
+      "description": "Convert JSON to well-structured XML.",
+      "tags": [
+        "json",
+        "xml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to YAML",
+      "url": "https://langstop.com/json-to-yaml",
+      "description": "Convert JSON to human-friendly YAML.",
+      "tags": [
+        "json",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Tools Hub",
+      "url": "https://langstop.com/json-tools",
+      "description": "Browse all 50+ JSON tools from LangStop.",
+      "tags": [
+        "json",
+        "tools",
+        "hub"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Transform",
+      "url": "https://langstop.com/json-transform",
+      "description": "Transform JSON data with custom rules.",
+      "tags": [
+        "json",
+        "transform",
+        "convert"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON URL Decoder",
+      "url": "https://langstop.com/json-url-decoder",
+      "description": "Decode URL-encoded strings back to JSON.",
+      "tags": [
+        "json",
+        "url",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON URL Encoder",
+      "url": "https://langstop.com/json-url-encoder",
+      "description": "Encode JSON objects to URL-safe strings.",
+      "tags": [
+        "json",
+        "url",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Validator",
+      "url": "https://langstop.com/json-validator",
+      "description": "Validate JSON syntax with real-time error highlighting.",
+      "tags": [
+        "json",
+        "validator",
+        "checker"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSONCompare",
+      "url": "https://jsoncompare.com",
+      "description": "JSON comparison and merge tool.",
+      "tags": [
+        "json",
+        "compare",
+        "merge"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSONLint",
+      "url": "https://jsonlint.com",
+      "description": "JSON validator and reformatter.",
+      "tags": [
+        "json",
+        "validator",
+        "linter"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "JSONPath Explorer",
+      "url": "https://langstop.com/json-path-query",
+      "description": "Query JSON data using JSONPath expressions.",
+      "tags": [
+        "json",
+        "jsonpath",
+        "query"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "String to JSON",
+      "url": "https://langstop.com/string-to-json",
+      "description": "Convert plain text strings into valid JSON.",
+      "tags": [
+        "json",
+        "string",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "category": "cicd-tools",
+  "name": "CI/CD Tools",
+  "description": "Continuous integration and deployment platforms",
+  "icon": "🔄",
+  "tools": [
+    {
+      "name": "CircleCI",
+      "url": "https://circleci.com",
+      "description": "Cloud CI/CD platform.",
+      "tags": [
+        "ci",
+        "cd",
+        "testing"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "GitHub Actions",
+      "url": "https://github.com/features/actions",
+      "description": "GitHub CI/CD platform.",
+      "tags": [
+        "ci",
+        "cd",
+        "automation"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Jenkins",
+      "url": "https://www.jenkins.io",
+      "description": "Open source automation server.",
+      "tags": [
+        "ci",
+        "cd",
+        "automation"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

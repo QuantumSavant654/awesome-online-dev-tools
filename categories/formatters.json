@@ -1,0 +1,238 @@
+{
+  "category": "formatters",
+  "name": "Formatters",
+  "description": "Multi-language code formatters and beautifiers",
+  "icon": "✨",
+  "tools": [
+    {
+      "name": "C# Formatter",
+      "url": "https://langstop.com/formatters/csharp-formatter",
+      "description": "Format C# code.",
+      "tags": [
+        "csharp",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "C++ Formatter",
+      "url": "https://langstop.com/formatters/cpp-formatter",
+      "description": "Format C++ code.",
+      "tags": [
+        "cpp",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Beautify",
+      "url": "https://codebeautify.org/formatters-and-beautifiers",
+      "description": "Code formatters and beautifiers.",
+      "tags": [
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Dart Formatter",
+      "url": "https://langstop.com/formatters/dart-formatter",
+      "description": "Format Dart code.",
+      "tags": [
+        "dart",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Elm Formatter",
+      "url": "https://langstop.com/formatters/elm-formatter",
+      "description": "Format Elm code.",
+      "tags": [
+        "elm",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Flow Formatter",
+      "url": "https://langstop.com/formatters/flow-formatter",
+      "description": "Format Flow code.",
+      "tags": [
+        "flow",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "FreeFormatter",
+      "url": "https://www.freeformatter.com",
+      "description": "Multi-language code formatter.",
+      "tags": [
+        "formatter",
+        "code",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Go Formatter",
+      "url": "https://langstop.com/formatters/go-formatter",
+      "description": "Format Go code.",
+      "tags": [
+        "go",
+        "formatter",
+        "golang"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Haskell Formatter",
+      "url": "https://langstop.com/formatters/haskell-formatter",
+      "description": "Format Haskell code.",
+      "tags": [
+        "haskell",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Java Formatter",
+      "url": "https://langstop.com/formatters/java-formatter",
+      "description": "Format Java code.",
+      "tags": [
+        "java",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Kotlin Formatter",
+      "url": "https://langstop.com/formatters/kotlin-formatter",
+      "description": "Format Kotlin code.",
+      "tags": [
+        "kotlin",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Objective-C Formatter",
+      "url": "https://langstop.com/formatters/objective-c-formatter",
+      "description": "Format Objective-C code.",
+      "tags": [
+        "objective-c",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PHP Formatter",
+      "url": "https://langstop.com/formatters/php-formatter",
+      "description": "Format PHP code.",
+      "tags": [
+        "php",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Pike Formatter",
+      "url": "https://langstop.com/formatters/pike-formatter",
+      "description": "Format Pike code.",
+      "tags": [
+        "pike",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Python Formatter",
+      "url": "https://langstop.com/formatters/python-formatter",
+      "description": "Format Python code.",
+      "tags": [
+        "python",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Ruby Formatter",
+      "url": "https://langstop.com/formatters/ruby-formatter",
+      "description": "Format Ruby code.",
+      "tags": [
+        "ruby",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Rust Formatter",
+      "url": "https://langstop.com/formatters/rust-formatter",
+      "description": "Format Rust code.",
+      "tags": [
+        "rust",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Scala Formatter",
+      "url": "https://langstop.com/formatters/scala-formatter",
+      "description": "Format Scala code.",
+      "tags": [
+        "scala",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Swift Formatter",
+      "url": "https://langstop.com/formatters/swift-formatter",
+      "description": "Format Swift code.",
+      "tags": [
+        "swift",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

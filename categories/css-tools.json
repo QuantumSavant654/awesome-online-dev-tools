@@ -1,0 +1,270 @@
+{
+  "category": "css-tools",
+  "name": "CSS Tools",
+  "description": "CSS formatters, validators, and preprocessor tools",
+  "icon": "💅",
+  "tools": [
+    {
+      "name": "Animista",
+      "url": "https://animista.net",
+      "description": "CSS animation library.",
+      "tags": [
+        "css",
+        "animation",
+        "library"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Code Beautify CSS Tools",
+      "url": "https://codebeautify.org/css-tools",
+      "description": "CSS formatters, generators, and validators.",
+      "tags": [
+        "css",
+        "formatter",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Color Extractor",
+      "url": "https://langstop.com/css-colors",
+      "description": "Extract all colors from CSS.",
+      "tags": [
+        "css",
+        "colors",
+        "extractor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Diff",
+      "url": "https://langstop.com/css-diff",
+      "description": "Compare two CSS blocks side by side.",
+      "tags": [
+        "css",
+        "diff",
+        "compare"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Formatter",
+      "url": "https://langstop.com/css-formatter",
+      "description": "Format and beautify CSS code.",
+      "tags": [
+        "css",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Gradient",
+      "url": "https://cssgradient.io",
+      "description": "CSS gradient generator.",
+      "tags": [
+        "css",
+        "gradient",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Minifier",
+      "url": "https://langstop.com/css-minifier",
+      "description": "Compress CSS with size statistics.",
+      "tags": [
+        "css",
+        "minifier",
+        "compress"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Preprocessor Converters",
+      "url": "https://langstop.com/css-to-scss",
+      "description": "Convert between CSS, SCSS, SASS, LESS, and Stylus.",
+      "tags": [
+        "css",
+        "scss",
+        "sass",
+        "less",
+        "stylus"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Pretty Print",
+      "url": "https://langstop.com/css-pretty-print",
+      "description": "Pretty print CSS with customizable formatting.",
+      "tags": [
+        "css",
+        "pretty-print",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Selector Tester",
+      "url": "https://langstop.com/css-selector-tester",
+      "description": "Test CSS selectors with scoring.",
+      "tags": [
+        "css",
+        "selector",
+        "tester"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Specificity Calculator",
+      "url": "https://langstop.com/css-specificity",
+      "description": "Calculate CSS selector specificity.",
+      "tags": [
+        "css",
+        "specificity",
+        "selector"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Tools Hub",
+      "url": "https://langstop.com/tools/css",
+      "description": "Browse all CSS tools.",
+      "tags": [
+        "css",
+        "tools",
+        "hub"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Validator",
+      "url": "https://langstop.com/css-validator",
+      "description": "Validate CSS syntax with detailed reports.",
+      "tags": [
+        "css",
+        "validator",
+        "checker"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Variable Explorer",
+      "url": "https://langstop.com/css-variables",
+      "description": "Discover and analyze CSS custom properties.",
+      "tags": [
+        "css",
+        "variables",
+        "explorer"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "LESS Formatter",
+      "url": "https://langstop.com/less-formatter",
+      "description": "Format and beautify LESS code.",
+      "tags": [
+        "less",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "LESS to CSS Converter",
+      "url": "https://langstop.com/less-to-css",
+      "description": "Compile LESS files to CSS.",
+      "tags": [
+        "less",
+        "css",
+        "compiler"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SASS to CSS Converter",
+      "url": "https://langstop.com/sass-to-css",
+      "description": "Compile SASS to CSS.",
+      "tags": [
+        "sass",
+        "css",
+        "compiler"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SCSS Formatter",
+      "url": "https://langstop.com/scss-formatter",
+      "description": "Format and beautify SCSS code.",
+      "tags": [
+        "scss",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SCSS to CSS Compiler",
+      "url": "https://langstop.com/scss-to-css",
+      "description": "Compile SCSS to browser-ready CSS.",
+      "tags": [
+        "scss",
+        "css",
+        "compiler"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Stylus to CSS Converter",
+      "url": "https://langstop.com/stylus-to-css",
+      "description": "Compile Stylus to CSS.",
+      "tags": [
+        "stylus",
+        "css",
+        "compiler"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

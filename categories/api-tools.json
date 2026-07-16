@@ -1,0 +1,73 @@
+{
+  "category": "api-tools",
+  "name": "API Tools",
+  "description": "API clients, testers, and builders",
+  "icon": "🔌",
+  "tools": [
+    {
+      "name": "API Tools Hub",
+      "url": "https://langstop.com/api-tools",
+      "description": "All API tools in one place.",
+      "tags": [
+        "api",
+        "tools",
+        "hub"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Beeceptor",
+      "url": "https://beeceptor.com",
+      "description": "API mock server and inspector.",
+      "tags": [
+        "api",
+        "mock",
+        "inspect"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Hoppscotch",
+      "url": "https://hoppscotch.io",
+      "description": "Open source API development tool.",
+      "tags": [
+        "api",
+        "testing",
+        "open-source"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Insomnia",
+      "url": "https://insomnia.rest",
+      "description": "API client with GraphQL support.",
+      "tags": [
+        "api",
+        "client",
+        "graphql"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Postman",
+      "url": "https://www.postman.com",
+      "description": "API platform for building and testing APIs.",
+      "tags": [
+        "api",
+        "testing",
+        "client"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

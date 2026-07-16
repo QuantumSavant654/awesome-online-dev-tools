@@ -1,0 +1,87 @@
+{
+  "category": "ai-tools",
+  "name": "AI Tools",
+  "description": "AI-powered developer tools and prompt engineering",
+  "icon": "🤖",
+  "tools": [
+    {
+      "name": "AI Prompt Engineering Hub",
+      "url": "https://langstop.com/ai-prompt-engineering",
+      "description": "Prompt engineering guides and tools.",
+      "tags": [
+        "ai",
+        "prompt",
+        "engineering"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "AI Prompt Generator",
+      "url": "https://langstop.com/ai-prompt-generator",
+      "description": "Create dynamic AI prompts with templates.",
+      "tags": [
+        "ai",
+        "prompt",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "description": "AI assistant for code.",
+      "tags": [
+        "ai",
+        "assistant",
+        "code"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Generation Hub",
+      "url": "https://langstop.com/code-generation",
+      "description": "Generate code from JSON/XML/YAML for 22+ languages.",
+      "tags": [
+        "ai",
+        "code-gen",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Cursor",
+      "url": "https://cursor.sh",
+      "description": "AI-first code editor.",
+      "tags": [
+        "ai",
+        "code",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "LLM Token Counter",
+      "url": "https://langstop.com/text-utils/llm-token-counter",
+      "description": "Count tokens for GPT-4, Claude, Gemini.",
+      "tags": [
+        "ai",
+        "tokens",
+        "llm",
+        "counter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

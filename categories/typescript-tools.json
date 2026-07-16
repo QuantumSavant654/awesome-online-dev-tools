@@ -1,0 +1,86 @@
+{
+  "category": "typescript-tools",
+  "name": "TypeScript Tools",
+  "description": "TypeScript playgrounds and code generators",
+  "icon": "📘",
+  "tools": [
+    {
+      "name": "JSON to TypeScript",
+      "url": "https://langstop.com/json-to-typescript",
+      "description": "Generate TypeScript interfaces from JSON.",
+      "tags": [
+        "typescript",
+        "json",
+        "interfaces"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to TypeScript Effect Schema",
+      "url": "https://langstop.com/json-to-typescript-effect-schema",
+      "description": "Generate Effect TS schemas from JSON.",
+      "tags": [
+        "typescript",
+        "effect",
+        "schema"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to TypeScript Zod",
+      "url": "https://langstop.com/json-to-typescript-zod",
+      "description": "Generate Zod schemas from JSON.",
+      "tags": [
+        "typescript",
+        "zod",
+        "json"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Total TypeScript Playground",
+      "url": "https://www.totaltypescript.com/playground",
+      "description": "TypeScript type challenges.",
+      "tags": [
+        "typescript",
+        "playground",
+        "types"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TypeScript Formatter",
+      "url": "https://langstop.com/formatters/typescript-formatter",
+      "description": "Format TypeScript code.",
+      "tags": [
+        "typescript",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TypeScript Playground",
+      "url": "https://www.typescriptlang.org/play",
+      "description": "Official TypeScript playground.",
+      "tags": [
+        "typescript",
+        "playground",
+        "compiler"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

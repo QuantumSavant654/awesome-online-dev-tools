@@ -1,0 +1,73 @@
+{
+  "category": "converters",
+  "name": "Converters",
+  "description": "Data format and code converters",
+  "icon": "🔄",
+  "tools": [
+    {
+      "name": "Compiler Explorer",
+      "url": "https://godbolt.org",
+      "description": "Compiler exploration tool.",
+      "tags": [
+        "compiler",
+        "explorer",
+        "assembly"
+      ],
+      "license": "BSL-1.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "TOML to JSON",
+      "url": "https://langstop.com/toml-to-json",
+      "description": "Convert TOML to JSON.",
+      "tags": [
+        "toml",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TOML to XML",
+      "url": "https://langstop.com/toml-to-xml",
+      "description": "Convert TOML to XML.",
+      "tags": [
+        "toml",
+        "xml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TOML to YAML",
+      "url": "https://langstop.com/toml-to-yaml",
+      "description": "Convert TOML to YAML.",
+      "tags": [
+        "toml",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Transform",
+      "url": "https://transform.tools",
+      "description": "Code converter between languages.",
+      "tags": [
+        "converter",
+        "code",
+        "transpiler"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

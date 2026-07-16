@@ -1,0 +1,21 @@
+{
+  "category": "cli-tools",
+  "name": "CLI Tools",
+  "description": "Online terminal emulators and command references",
+  "icon": "💻",
+  "tools": [
+    {
+      "name": "JSLinux",
+      "url": "https://bellard.org/jslinux",
+      "description": "Linux emulator in browser.",
+      "tags": [
+        "linux",
+        "emulator",
+        "terminal"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "category": "diff-tools",
+  "name": "Diff Tools",
+  "description": "Text, code, and data comparison tools",
+  "icon": "🔀",
+  "tools": [
+    {
+      "name": "Code Beautify File Diff",
+      "url": "https://codebeautify.org/file-diff",
+      "description": "File and text comparison tool.",
+      "tags": [
+        "diff",
+        "file",
+        "comparison"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "DiffNow",
+      "url": "https://www.diffnow.com",
+      "description": "Text and file comparison.",
+      "tags": [
+        "diff",
+        "comparison",
+        "text"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Mergely",
+      "url": "https://mergely.com",
+      "description": "Online diff and merge editor.",
+      "tags": [
+        "diff",
+        "merge",
+        "editor"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

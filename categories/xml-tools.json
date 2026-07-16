@@ -1,0 +1,203 @@
+{
+  "category": "xml-tools",
+  "name": "XML Tools",
+  "description": "XML editors, formatters, validators, and converters",
+  "icon": "📄",
+  "tools": [
+    {
+      "name": "Code Beautify XML Viewer",
+      "url": "https://codebeautify.org/xmlviewer",
+      "description": "XML viewer, formatter, and tree display.",
+      "tags": [
+        "xml",
+        "viewer",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Editor",
+      "url": "https://langstop.com/xml-editor",
+      "description": "Edit XML with interactive tree view.",
+      "tags": [
+        "xml",
+        "editor",
+        "tree-view"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Formatter",
+      "url": "https://langstop.com/xml-formatter",
+      "description": "Format and beautify XML documents.",
+      "tags": [
+        "xml",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Formatter",
+      "url": "https://xmlformatter.org",
+      "description": "XML formatter, beautifier, and validator.",
+      "tags": [
+        "xml",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Minifier",
+      "url": "https://langstop.com/xml-minifier",
+      "description": "Minify XML for smaller file sizes.",
+      "tags": [
+        "xml",
+        "minifier",
+        "compress"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Mock Data Generator",
+      "url": "https://langstop.com/xml-mock-data-generator",
+      "description": "Generate mock XML data for testing.",
+      "tags": [
+        "xml",
+        "mock",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML to Code Generator",
+      "url": "https://langstop.com/xml-to-code",
+      "description": "Generate code from XML for multiple languages.",
+      "tags": [
+        "xml",
+        "code-gen",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML to CSV",
+      "url": "https://langstop.com/xml-to-csv",
+      "description": "Convert XML data to CSV format.",
+      "tags": [
+        "xml",
+        "csv",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML to JSON",
+      "url": "https://langstop.com/xml-to-json",
+      "description": "Convert XML to JSON format.",
+      "tags": [
+        "xml",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML to JSON Converter",
+      "url": "https://www.convertjson.com/xml-to-json.htm",
+      "description": "Convert XML to JSON.",
+      "tags": [
+        "xml",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML to TOML",
+      "url": "https://langstop.com/xml-to-toml",
+      "description": "Convert XML to TOML config format.",
+      "tags": [
+        "xml",
+        "toml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML to YAML",
+      "url": "https://langstop.com/xml-to-yaml",
+      "description": "Convert XML to YAML format.",
+      "tags": [
+        "xml",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML URL Decoder",
+      "url": "https://langstop.com/xml-url-decoder",
+      "description": "Decode URL-encoded XML.",
+      "tags": [
+        "xml",
+        "url",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML URL Encoder",
+      "url": "https://langstop.com/xml-url-encoder",
+      "description": "Encode XML to URL-safe strings.",
+      "tags": [
+        "xml",
+        "url",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Validator",
+      "url": "https://langstop.com/xml-validator",
+      "description": "Validate XML syntax for well-formedness.",
+      "tags": [
+        "xml",
+        "validator",
+        "checker"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

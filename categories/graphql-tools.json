@@ -1,0 +1,47 @@
+{
+  "category": "graphql-tools",
+  "name": "GraphQL Tools",
+  "description": "GraphQL IDEs, explorers, and schema tools",
+  "icon": "◈",
+  "tools": [
+    {
+      "name": "Altair GraphQL",
+      "url": "https://altairgraphql.dev",
+      "description": "GraphQL client.",
+      "tags": [
+        "graphql",
+        "client",
+        "explorer"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Apollo Studio",
+      "url": "https://studio.apollographql.com",
+      "description": "GraphQL management platform.",
+      "tags": [
+        "graphql",
+        "explorer",
+        "management"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "GraphQL Voyager",
+      "url": "https://apis.guru/graphql-voyager",
+      "description": "GraphQL schema visualization.",
+      "tags": [
+        "graphql",
+        "schema",
+        "visualization"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

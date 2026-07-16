@@ -1,0 +1,96 @@
+{
+  "category": "base64-encoding",
+  "name": "Base64 Encoding",
+  "description": "Base64 encoders, decoders, and converters",
+  "icon": "🔡",
+  "tools": [
+    {
+      "name": "Base64 Converter",
+      "url": "https://langstop.com/base64-converter",
+      "description": "Switch between Base64 and other formats.",
+      "tags": [
+        "base64",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Base64 Decoder",
+      "url": "https://langstop.com/base64-decoder",
+      "description": "Decode Base64 to plain text.",
+      "tags": [
+        "base64",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Base64 Encoder",
+      "url": "https://langstop.com/base64-encoder",
+      "description": "Encode text to Base64.",
+      "tags": [
+        "base64",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Base64 Guru",
+      "url": "https://base64.guru",
+      "description": "Base64 encoder/decoder with learning resources.",
+      "tags": [
+        "base64",
+        "encoder",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Base64 to Image",
+      "url": "https://langstop.com/base64-to-image",
+      "description": "Convert Base64 to downloadable images.",
+      "tags": [
+        "base64",
+        "image",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Beautify Base64 Tools",
+      "url": "https://codebeautify.org/base64-encode",
+      "description": "Base64 encode, decode, and convert tools.",
+      "tags": [
+        "base64",
+        "encoder",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Image to Base64",
+      "url": "https://langstop.com/image-to-base64",
+      "description": "Convert images to Base64 strings.",
+      "tags": [
+        "base64",
+        "image",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

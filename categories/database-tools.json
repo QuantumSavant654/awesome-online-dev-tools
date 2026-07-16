@@ -1,0 +1,74 @@
+{
+  "category": "database-tools",
+  "name": "Database Tools",
+  "description": "Database schema designers, ER diagram tools, and connection builders",
+  "icon": "🗄️",
+  "tools": [
+    {
+      "name": "Connection String Builder",
+      "url": "https://langstop.com/connection-string-builder",
+      "description": "Build database connection strings for 14+ databases.",
+      "tags": [
+        "database",
+        "connection-string",
+        "url"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "dbdiagram.io",
+      "url": "https://dbdiagram.io",
+      "description": "Database diagram designer.",
+      "tags": [
+        "database",
+        "diagram",
+        "schema"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "DrawSQL",
+      "url": "https://drawsql.app",
+      "description": "Database schema visualizer.",
+      "tags": [
+        "database",
+        "schema",
+        "visualization"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "ER Diagram Generator",
+      "url": "https://langstop.com/erd-generator",
+      "description": "Generate ER diagrams from SQL/DBML.",
+      "tags": [
+        "erd",
+        "database",
+        "diagram",
+        "schema"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SchemaCode ER Diagram",
+      "url": "https://langstop.com/schemacode/erd-generator",
+      "description": "Generate ER diagrams from SchemaCode.",
+      "tags": [
+        "erd",
+        "schemacode",
+        "diagram"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

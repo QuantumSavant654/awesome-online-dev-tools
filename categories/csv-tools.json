@@ -1,0 +1,99 @@
+{
+  "category": "csv-tools",
+  "name": "CSV Tools",
+  "description": "CSV editors, converters, and generators",
+  "icon": "📊",
+  "tools": [
+    {
+      "name": "Code Beautify CSV Tools",
+      "url": "https://codebeautify.org/csv-tools",
+      "description": "CSV viewers, converters, and validators.",
+      "tags": [
+        "csv",
+        "viewer",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSV Mock Data Generator",
+      "url": "https://langstop.com/csv-mock-data-generator",
+      "description": "Generate realistic CSV mock data.",
+      "tags": [
+        "csv",
+        "mock",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSV to JSON",
+      "url": "https://langstop.com/csv-to-json",
+      "description": "Convert CSV rows to structured JSON.",
+      "tags": [
+        "csv",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSV to XML",
+      "url": "https://langstop.com/csv-to-xml",
+      "description": "Convert CSV to structured XML.",
+      "tags": [
+        "csv",
+        "xml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSV to YAML",
+      "url": "https://langstop.com/csv-to-yaml",
+      "description": "Convert CSV to clean YAML.",
+      "tags": [
+        "csv",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSV Viewer",
+      "url": "https://csvviewer.com",
+      "description": "Online CSV viewer and editor.",
+      "tags": [
+        "csv",
+        "viewer",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TableConvert",
+      "url": "https://tableconvert.com",
+      "description": "Convert CSV to various table formats.",
+      "tags": [
+        "csv",
+        "table",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

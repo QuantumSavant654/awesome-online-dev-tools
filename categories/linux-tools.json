@@ -1,0 +1,268 @@
+{
+  "category": "linux-tools",
+  "name": "Linux Tools",
+  "description": "Linux command builders and references",
+  "icon": "🐧",
+  "tools": [
+    {
+      "name": "Awk Command Builder",
+      "url": "https://langstop.com/linux-tools/awk-command-builder",
+      "description": "Build awk commands for text processing.",
+      "tags": [
+        "linux",
+        "awk",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Cheat.sh",
+      "url": "https://cheat.sh",
+      "description": "Community-driven cheatsheets.",
+      "tags": [
+        "cheatsheet",
+        "command",
+        "reference"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Common Cron Expressions",
+      "url": "https://langstop.com/cron-expressions",
+      "description": "Browse common cron schedule patterns.",
+      "tags": [
+        "cron",
+        "expressions",
+        "reference"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Cron Helper",
+      "url": "https://langstop.com/cron-helper",
+      "description": "Build and validate cron expressions visually.",
+      "tags": [
+        "cron",
+        "scheduler",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Cut Command Builder",
+      "url": "https://langstop.com/linux-tools/cut-command-builder",
+      "description": "Build cut field extraction commands.",
+      "tags": [
+        "linux",
+        "cut",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "ExplainShell",
+      "url": "https://explainshell.com",
+      "description": "Explain shell commands.",
+      "tags": [
+        "shell",
+        "command",
+        "explainer"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Find Command Builder",
+      "url": "https://langstop.com/linux-tools/find-command-builder",
+      "description": "Build find commands visually.",
+      "tags": [
+        "linux",
+        "find",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Grep Command Builder",
+      "url": "https://langstop.com/linux-tools/grep-command-builder",
+      "description": "Build grep commands for text search.",
+      "tags": [
+        "linux",
+        "grep",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Linux Tools Hub",
+      "url": "https://langstop.com/linux-tools",
+      "description": "All Linux command builders.",
+      "tags": [
+        "linux",
+        "tools",
+        "hub"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Locate Command Builder",
+      "url": "https://langstop.com/linux-tools/locate-command-builder",
+      "description": "Build locate file search commands.",
+      "tags": [
+        "linux",
+        "locate",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Ls Command Builder",
+      "url": "https://langstop.com/linux-tools/ls-command-builder",
+      "description": "Build ls commands visually.",
+      "tags": [
+        "linux",
+        "ls",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Nmap Command Builder",
+      "url": "https://langstop.com/linux-tools/nmap-command-builder",
+      "description": "Build nmap network scanning commands.",
+      "tags": [
+        "linux",
+        "nmap",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Ping Command Builder",
+      "url": "https://langstop.com/linux-tools/ping-command-builder",
+      "description": "Build ping test commands.",
+      "tags": [
+        "linux",
+        "ping",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PS Command Builder",
+      "url": "https://langstop.com/linux-tools/ps-command-builder",
+      "description": "Build ps process listing commands.",
+      "tags": [
+        "linux",
+        "ps",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Sed Command Builder",
+      "url": "https://langstop.com/linux-tools/sed-command-builder",
+      "description": "Build sed commands for stream editing.",
+      "tags": [
+        "linux",
+        "sed",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Sort Command Builder",
+      "url": "https://langstop.com/linux-tools/sort-command-builder",
+      "description": "Build sort commands.",
+      "tags": [
+        "linux",
+        "sort",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SS Command Builder",
+      "url": "https://langstop.com/linux-tools/ss-command-builder",
+      "description": "Build ss socket statistics commands.",
+      "tags": [
+        "linux",
+        "ss",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SSH Command Builder",
+      "url": "https://langstop.com/linux-tools/ssh-command-builder",
+      "description": "Build SSH connection commands.",
+      "tags": [
+        "linux",
+        "ssh",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Tar Command Builder",
+      "url": "https://langstop.com/linux-tools/tar-command-builder",
+      "description": "Build tar archive commands.",
+      "tags": [
+        "linux",
+        "tar",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TLDR Pages",
+      "url": "https://tldr.sh",
+      "description": "Simplified man pages with examples.",
+      "tags": [
+        "linux",
+        "command",
+        "reference"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

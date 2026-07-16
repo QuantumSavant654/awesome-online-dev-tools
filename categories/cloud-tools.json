@@ -1,0 +1,47 @@
+{
+  "category": "cloud-tools",
+  "name": "Cloud Tools",
+  "description": "Cloud provider tools, calculators, and platforms",
+  "icon": "☁️",
+  "tools": [
+    {
+      "name": "AWS Calculator",
+      "url": "https://calculator.aws",
+      "description": "AWS pricing calculator.",
+      "tags": [
+        "aws",
+        "calculator",
+        "pricing"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Netlify",
+      "url": "https://www.netlify.com",
+      "description": "Cloud hosting platform.",
+      "tags": [
+        "cloud",
+        "hosting",
+        "serverless"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com",
+      "description": "Frontend cloud platform.",
+      "tags": [
+        "cloud",
+        "hosting",
+        "serverless"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

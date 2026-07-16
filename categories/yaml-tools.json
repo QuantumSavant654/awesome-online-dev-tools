@@ -1,0 +1,268 @@
+{
+  "category": "yaml-tools",
+  "name": "YAML Tools",
+  "description": "YAML parsers, validators, converters, and code generators",
+  "icon": "📐",
+  "tools": [
+    {
+      "name": "Code Beautify YAML Tools",
+      "url": "https://codebeautify.org/yaml-tools",
+      "description": "YAML formatters, validators, and converters.",
+      "tags": [
+        "yaml",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML Editor",
+      "url": "https://langstop.com/yaml-editor",
+      "description": "Edit YAML with interactive tree view.",
+      "tags": [
+        "yaml",
+        "editor",
+        "tree-view"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML Formatter",
+      "url": "https://langstop.com/yaml-formatter",
+      "description": "Format and beautify YAML files.",
+      "tags": [
+        "yaml",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML Lint",
+      "url": "https://www.yamllint.com",
+      "description": "YAML validator and linter.",
+      "tags": [
+        "yaml",
+        "validator",
+        "linter"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "YAML Minifier",
+      "url": "https://langstop.com/yaml-minifier",
+      "description": "Minify YAML for compressed output.",
+      "tags": [
+        "yaml",
+        "minifier",
+        "compress"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to .env",
+      "url": "https://langstop.com/yaml-to-env",
+      "description": "Convert YAML to .env format.",
+      "tags": [
+        "yaml",
+        "env",
+        "dotenv"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Bash",
+      "url": "https://langstop.com/yaml-to-bash",
+      "description": "Convert YAML to Bash export statements.",
+      "tags": [
+        "yaml",
+        "bash",
+        "shell"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Code Generator",
+      "url": "https://langstop.com/yaml-to-code",
+      "description": "Generate code from YAML for 22+ languages.",
+      "tags": [
+        "yaml",
+        "code-gen",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to CSV",
+      "url": "https://langstop.com/yaml-to-csv",
+      "description": "Convert YAML documents to CSV.",
+      "tags": [
+        "yaml",
+        "csv",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to INI (Python)",
+      "url": "https://langstop.com/yaml-to-ini",
+      "description": "Convert YAML to Python INI.",
+      "tags": [
+        "yaml",
+        "ini",
+        "configparser"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Java Properties",
+      "url": "https://langstop.com/yaml-to-java-properties",
+      "description": "Convert YAML to Java .properties.",
+      "tags": [
+        "yaml",
+        "java",
+        "properties"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to JSON",
+      "url": "https://langstop.com/yaml-to-json",
+      "description": "Convert YAML to structured JSON.",
+      "tags": [
+        "yaml",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to PHP Array",
+      "url": "https://langstop.com/yaml-to-php-array",
+      "description": "Convert YAML to PHP array.",
+      "tags": [
+        "yaml",
+        "php",
+        "array"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to PHP INI",
+      "url": "https://langstop.com/yaml-to-php-ini",
+      "description": "Convert YAML to PHP INI.",
+      "tags": [
+        "yaml",
+        "php",
+        "ini"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Python Dict",
+      "url": "https://langstop.com/yaml-to-python-dict",
+      "description": "Convert YAML to Python dict literal.",
+      "tags": [
+        "yaml",
+        "python",
+        "dict"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to TOML",
+      "url": "https://langstop.com/yaml-to-toml",
+      "description": "Convert YAML to TOML config format.",
+      "tags": [
+        "yaml",
+        "toml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to XML",
+      "url": "https://langstop.com/yaml-to-xml",
+      "description": "Convert YAML to XML format.",
+      "tags": [
+        "yaml",
+        "xml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML URL Decoder",
+      "url": "https://langstop.com/yaml-url-decoder",
+      "description": "Decode URL-encoded YAML.",
+      "tags": [
+        "yaml",
+        "url",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML URL Encoder",
+      "url": "https://langstop.com/yaml-url-encoder",
+      "description": "Encode YAML to URL-safe strings.",
+      "tags": [
+        "yaml",
+        "url",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML Validator",
+      "url": "https://langstop.com/yaml-validator",
+      "description": "Validate YAML syntax with error detection.",
+      "tags": [
+        "yaml",
+        "validator",
+        "linter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

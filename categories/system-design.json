@@ -1,0 +1,61 @@
+{
+  "category": "system-design",
+  "name": "System Design Tools",
+  "description": "Architecture and system design diagram tools",
+  "icon": "📐",
+  "tools": [
+    {
+      "name": "Draw.io",
+      "url": "https://app.diagrams.net",
+      "description": "Free diagram editor.",
+      "tags": [
+        "diagram",
+        "editor",
+        "flowchart"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Excalidraw",
+      "url": "https://excalidraw.com",
+      "description": "Virtual whiteboard for diagrams.",
+      "tags": [
+        "diagram",
+        "whiteboard",
+        "architecture"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Mermaid Live Editor",
+      "url": "https://mermaid.live",
+      "description": "Generate diagrams from Markdown-like text.",
+      "tags": [
+        "diagram",
+        "mermaid",
+        "markdown"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Mermaid Sequence Diagram Editor",
+      "url": "https://langstop.com/sequence-diagram",
+      "description": "Create sequence diagrams with Mermaid syntax.",
+      "tags": [
+        "mermaid",
+        "sequence",
+        "diagram",
+        "uml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "category": "regex",
+  "name": "Regex Tools",
+  "description": "Regex testers, builders, and pattern references",
+  "icon": "🔍",
+  "tools": [
+    {
+      "name": "Common Regex Patterns",
+      "url": "https://langstop.com/regex-patterns",
+      "description": "Browse 30+ common regex patterns with examples.",
+      "tags": [
+        "regex",
+        "patterns",
+        "reference"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Debuggex",
+      "url": "https://www.debuggex.com",
+      "description": "Regex visual debugger with railroad diagrams.",
+      "tags": [
+        "regex",
+        "debugger",
+        "visualization"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "iHateRegex",
+      "url": "https://ihateregex.io",
+      "description": "Regex cheatsheet and visualizer.",
+      "tags": [
+        "regex",
+        "cheatsheet",
+        "visualizer"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Regex Tester",
+      "url": "https://langstop.com/regex-tester",
+      "description": "Test regex with live highlighting and multi-tab sessions.",
+      "tags": [
+        "regex",
+        "tester",
+        "debugger"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Regex101",
+      "url": "https://regex101.com",
+      "description": "Regex tester with explanation engine.",
+      "tags": [
+        "regex",
+        "tester",
+        "debugger"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Regexper",
+      "url": "https://regexper.com",
+      "description": "Regex visualization with railroad diagrams.",
+      "tags": [
+        "regex",
+        "visualizer",
+        "diagram"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Regexr",
+      "url": "https://regexr.com",
+      "description": "Learn and test regex with real-time feedback.",
+      "tags": [
+        "regex",
+        "tester",
+        "learning"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

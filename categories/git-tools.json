@@ -1,0 +1,47 @@
+{
+  "category": "git-tools",
+  "name": "Git Tools",
+  "description": "Git explorers, generators, and visualizers",
+  "icon": "🔀",
+  "tools": [
+    {
+      "name": "Git Explorer",
+      "url": "https://gitexplorer.com",
+      "description": "Find the right Git commands.",
+      "tags": [
+        "git",
+        "explorer",
+        "commands"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "gitignore.io",
+      "url": "https://www.toptal.com/developers/gitignore",
+      "description": ".gitignore file generator.",
+      "tags": [
+        "git",
+        "gitignore",
+        "generator"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Learn Git Branching",
+      "url": "https://learngitbranching.js.org",
+      "description": "Interactive Git branching tutorial.",
+      "tags": [
+        "git",
+        "learning",
+        "branching"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

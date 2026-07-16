@@ -1,0 +1,60 @@
+{
+  "category": "sql-tools",
+  "name": "SQL Tools",
+  "description": "SQL editors, formatters, and generators",
+  "icon": "🗄️",
+  "tools": [
+    {
+      "name": "Code Beautify SQL Tools",
+      "url": "https://codebeautify.org/sql-tools",
+      "description": "SQL formatters, validators, and generators.",
+      "tags": [
+        "sql",
+        "formatter",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "DB Fiddle",
+      "url": "https://www.db-fiddle.com",
+      "description": "SQL playground with multiple engines.",
+      "tags": [
+        "sql",
+        "playground",
+        "database"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SQL Formatter",
+      "url": "https://langstop.com/sql-formatter",
+      "description": "Format SQL queries for 21+ dialects.",
+      "tags": [
+        "sql",
+        "formatter",
+        "beautifier"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "SQLite Online",
+      "url": "https://sqliteonline.com",
+      "description": "Online SQLite editor.",
+      "tags": [
+        "sql",
+        "sqlite",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

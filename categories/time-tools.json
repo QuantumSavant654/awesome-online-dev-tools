@@ -1,0 +1,48 @@
+{
+  "category": "time-tools",
+  "name": "Time & Date Tools",
+  "description": "Timestamp converters, cron helpers, and date utilities",
+  "icon": "⏰",
+  "tools": [
+    {
+      "name": "Age Calculator",
+      "url": "https://langstop.com/age-calculator",
+      "description": "Calculate age in years, months, and days.",
+      "tags": [
+        "age",
+        "calculator",
+        "date"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Time Hub",
+      "url": "https://langstop.com/tools/time",
+      "description": "All time and date tools.",
+      "tags": [
+        "time",
+        "date",
+        "tools"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Timestamp Converter",
+      "url": "https://langstop.com/epoch-timestamp-converter",
+      "description": "Convert UNIX timestamps to human-readable dates.",
+      "tags": [
+        "timestamp",
+        "unix",
+        "epoch",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "category": "hashing",
+  "name": "Hashing Tools",
+  "description": "Hash generators and cryptographic tools",
+  "icon": "🔑",
+  "tools": [
+    {
+      "name": "Code Beautify Hash Tools",
+      "url": "https://codebeautify.org/cryptography-tools",
+      "description": "Hash generators and cryptography tools.",
+      "tags": [
+        "hash",
+        "sha",
+        "md5",
+        "crypto"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CyberChef",
+      "url": "https://gchq.github.io/CyberChef",
+      "description": "Cyber Swiss Army Knife for encryption, encoding, and analysis.",
+      "tags": [
+        "hash",
+        "encryption",
+        "encoding"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Hash Generator",
+      "url": "https://langstop.com/hash-generator",
+      "description": "Generate hashes with multiple algorithms.",
+      "tags": [
+        "hash",
+        "generator",
+        "sha",
+        "md5"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

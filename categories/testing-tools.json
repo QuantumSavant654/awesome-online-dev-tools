@@ -1,0 +1,34 @@
+{
+  "category": "testing-tools",
+  "name": "Testing Tools",
+  "description": "Testing utilities, playgrounds, and auditing tools",
+  "icon": "🧪",
+  "tools": [
+    {
+      "name": "Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse",
+      "description": "Web page auditing tool.",
+      "tags": [
+        "testing",
+        "performance",
+        "seo"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "PageSpeed Insights",
+      "url": "https://pagespeed.web.dev",
+      "description": "Page speed analysis.",
+      "tags": [
+        "performance",
+        "speed",
+        "analysis"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

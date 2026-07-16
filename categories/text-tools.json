@@ -1,0 +1,190 @@
+{
+  "category": "text-tools",
+  "name": "Text Tools",
+  "description": "Text utilities, counters, and manipulators",
+  "icon": "✏️",
+  "tools": [
+    {
+      "name": "Character Counter",
+      "url": "https://langstop.com/text-utils/character-counter",
+      "description": "Count characters in your text.",
+      "tags": [
+        "text",
+        "counter",
+        "characters"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Beautify Text Tools",
+      "url": "https://codebeautify.org/text-formatter",
+      "description": "Text formatting and manipulation tools.",
+      "tags": [
+        "text",
+        "formatter",
+        "cleaner"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Convert Case",
+      "url": "https://convertcase.net",
+      "description": "Text case converter.",
+      "tags": [
+        "text",
+        "case",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Diff Checker",
+      "url": "https://www.diffchecker.com",
+      "description": "Online text diff tool.",
+      "tags": [
+        "diff",
+        "text",
+        "comparison"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Duplicate Counter",
+      "url": "https://langstop.com/text-utils/duplicate-counter",
+      "description": "Count duplicate lines in text.",
+      "tags": [
+        "text",
+        "duplicates",
+        "counter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Line Counter",
+      "url": "https://langstop.com/text-utils/line-counter",
+      "description": "Count lines in your text.",
+      "tags": [
+        "text",
+        "counter",
+        "lines"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Remove Duplicates",
+      "url": "https://langstop.com/text-utils/remove-duplicates",
+      "description": "Remove duplicate lines from text.",
+      "tags": [
+        "text",
+        "deduplicate",
+        "unique"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Sort Lines",
+      "url": "https://langstop.com/text-utils/sort-lines",
+      "description": "Sort lines alphabetically or numerically.",
+      "tags": [
+        "text",
+        "sort",
+        "lines"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Sort Words",
+      "url": "https://langstop.com/text-utils/sort-words",
+      "description": "Sort words alphabetically.",
+      "tags": [
+        "text",
+        "sort",
+        "words"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Spaces to Newlines",
+      "url": "https://langstop.com/text-utils/spaces-to-newlines",
+      "description": "Convert spaces to newlines and vice versa.",
+      "tags": [
+        "text",
+        "spaces",
+        "newlines"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "String Case Converter",
+      "url": "https://langstop.com/text-utils/string-case-converter",
+      "description": "Convert between camelCase, snake_case, kebab-case, and more.",
+      "tags": [
+        "text",
+        "case",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Text Diff",
+      "url": "https://langstop.com/text-diff",
+      "description": "Compare text differences side by side.",
+      "tags": [
+        "text",
+        "diff",
+        "comparison"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Text Mechanic",
+      "url": "https://textmechanic.com",
+      "description": "Text manipulation tools.",
+      "tags": [
+        "text",
+        "manipulation",
+        "tools"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Word Counter",
+      "url": "https://langstop.com/text-utils/word-counter",
+      "description": "Count words in your text.",
+      "tags": [
+        "text",
+        "counter",
+        "words"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

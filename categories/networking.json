@@ -1,0 +1,126 @@
+{
+  "category": "networking",
+  "name": "Networking Tools",
+  "description": "Network diagnostic, DNS, and IP tools",
+  "icon": "🌍",
+  "tools": [
+    {
+      "name": "Code Beautify IP Tools",
+      "url": "https://codebeautify.org/ip-tools",
+      "description": "IP lookup, DNS, and network tools.",
+      "tags": [
+        "ip",
+        "dns",
+        "network"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Curl Command Builder",
+      "url": "https://langstop.com/linux-tools/curl-command-builder",
+      "description": "Build curl commands visually.",
+      "tags": [
+        "curl",
+        "http",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "DNSChecker",
+      "url": "https://dnschecker.org",
+      "description": "DNS propagation checker.",
+      "tags": [
+        "dns",
+        "network",
+        "propagation"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "IPinfo",
+      "url": "https://ipinfo.io",
+      "description": "IP address and geolocation data.",
+      "tags": [
+        "ip",
+        "geolocation",
+        "network"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "MXToolbox",
+      "url": "https://mxtoolbox.com",
+      "description": "DNS and network diagnostics.",
+      "tags": [
+        "dns",
+        "network",
+        "diagnostic"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "OpenAPI Diff",
+      "url": "https://langstop.com/openapi-diff",
+      "description": "Compare two OpenAPI specs side by side.",
+      "tags": [
+        "openapi",
+        "diff",
+        "compare"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "OpenAPI Editor",
+      "url": "https://langstop.com/openapi-editor",
+      "description": "Design and validate OpenAPI 3.x specs.",
+      "tags": [
+        "openapi",
+        "swagger",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "REST API Client",
+      "url": "https://langstop.com/rest-api-client",
+      "description": "Send HTTP requests directly from your browser.",
+      "tags": [
+        "api",
+        "client",
+        "rest",
+        "http"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "WebSocket Client",
+      "url": "https://langstop.com/websocket-client",
+      "description": "Test WebSocket connections from your browser.",
+      "tags": [
+        "websocket",
+        "client",
+        "realtime"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

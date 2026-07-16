@@ -1,0 +1,60 @@
+{
+  "category": "markdown",
+  "name": "Markdown Tools",
+  "description": "Markdown editors and previewers",
+  "icon": "📝",
+  "tools": [
+    {
+      "name": "Code Beautify Markdown Editor",
+      "url": "https://codebeautify.org/markdown-editor",
+      "description": "Markdown editor with live preview.",
+      "tags": [
+        "markdown",
+        "editor",
+        "preview"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Dillinger",
+      "url": "https://dillinger.io",
+      "description": "Cloud-enabled Markdown editor.",
+      "tags": [
+        "markdown",
+        "editor",
+        "cloud"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Markdown Editor",
+      "url": "https://langstop.com/markdown-editor",
+      "description": "Write and preview Markdown with live rendering.",
+      "tags": [
+        "markdown",
+        "editor",
+        "preview"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "StackEdit",
+      "url": "https://stackedit.io",
+      "description": "In-browser Markdown editor.",
+      "tags": [
+        "markdown",
+        "editor",
+        "preview"
+      ],
+      "license": "Apache-2.0",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

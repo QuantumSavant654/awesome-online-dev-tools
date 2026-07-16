@@ -1,0 +1,46 @@
+{
+  "category": "documentation",
+  "name": "Documentation Tools",
+  "description": "Documentation generators and hosting platforms",
+  "icon": "📚",
+  "tools": [
+    {
+      "name": "Docusaurus",
+      "url": "https://docusaurus.io",
+      "description": "Documentation website builder.",
+      "tags": [
+        "documentation",
+        "website",
+        "react"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "MkDocs",
+      "url": "https://www.mkdocs.org",
+      "description": "Project documentation with Markdown.",
+      "tags": [
+        "documentation",
+        "markdown",
+        "static-site"
+      ],
+      "license": "BSD-2-Clause",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Read the Docs",
+      "url": "https://readthedocs.org",
+      "description": "Documentation hosting.",
+      "tags": [
+        "documentation",
+        "hosting"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    }
+  ]
+}

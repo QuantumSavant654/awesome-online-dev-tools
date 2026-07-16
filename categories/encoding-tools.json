@@ -1,0 +1,47 @@
+{
+  "category": "encoding-tools",
+  "name": "Encoding Tools",
+  "description": "URL, HTML, and various encoding/decoding tools",
+  "icon": "🔤",
+  "tools": [
+    {
+      "name": "Code Beautify Encoding Tools",
+      "url": "https://codebeautify.org/escape-unescape-tools",
+      "description": "Escape and unescape tools for various formats.",
+      "tags": [
+        "escape",
+        "unescape",
+        "encoding"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "URL Decoder",
+      "url": "https://langstop.com/url-decoder",
+      "description": "Decode URL-encoded strings.",
+      "tags": [
+        "url",
+        "decoder",
+        "decoding"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "URL Encoder",
+      "url": "https://langstop.com/url-encoder",
+      "description": "Encode URLs to URL-safe format.",
+      "tags": [
+        "url",
+        "encoder",
+        "encoding"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

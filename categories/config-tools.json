@@ -1,0 +1,190 @@
+{
+  "category": "config-tools",
+  "name": "Configuration Tools",
+  "description": "Config format converters between JSON, YAML, XML, TOML, .env, and more",
+  "icon": "⚙️",
+  "tools": [
+    {
+      "name": "Bash Properties to JSON",
+      "url": "https://langstop.com/bash-properties-to-json",
+      "description": "Convert Bash exports to JSON.",
+      "tags": [
+        "bash",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Bash Properties to YAML",
+      "url": "https://langstop.com/bash-properties-to-yaml",
+      "description": "Convert Bash exports to YAML.",
+      "tags": [
+        "bash",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "ENV to JSON",
+      "url": "https://langstop.com/env-to-json",
+      "description": "Convert .env to JSON.",
+      "tags": [
+        "env",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "ENV to YAML",
+      "url": "https://langstop.com/env-to-yaml",
+      "description": "Convert .env to YAML.",
+      "tags": [
+        "env",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "INI (Python) to JSON",
+      "url": "https://langstop.com/ini-to-json",
+      "description": "Convert INI to JSON.",
+      "tags": [
+        "ini",
+        "json",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "INI (Python) to YAML",
+      "url": "https://langstop.com/ini-to-yaml",
+      "description": "Convert INI to YAML.",
+      "tags": [
+        "ini",
+        "yaml",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Java Properties to JSON",
+      "url": "https://langstop.com/java-properties-to-json",
+      "description": "Convert .properties to JSON.",
+      "tags": [
+        "java",
+        "properties",
+        "json"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Java Properties to YAML",
+      "url": "https://langstop.com/java-properties-to-yaml",
+      "description": "Convert .properties to YAML.",
+      "tags": [
+        "java",
+        "properties",
+        "yaml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PHP Array to JSON",
+      "url": "https://langstop.com/php-array-to-json",
+      "description": "Convert PHP array to JSON.",
+      "tags": [
+        "php",
+        "array",
+        "json"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PHP Array to YAML",
+      "url": "https://langstop.com/php-array-to-yaml",
+      "description": "Convert PHP array to YAML.",
+      "tags": [
+        "php",
+        "array",
+        "yaml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PHP INI to JSON",
+      "url": "https://langstop.com/php-ini-to-json",
+      "description": "Convert PHP INI to JSON.",
+      "tags": [
+        "php",
+        "ini",
+        "json"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "PHP INI to YAML",
+      "url": "https://langstop.com/php-ini-to-yaml",
+      "description": "Convert PHP INI to YAML.",
+      "tags": [
+        "php",
+        "ini",
+        "yaml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Python Dict to JSON",
+      "url": "https://langstop.com/python-dict-to-json",
+      "description": "Convert Python dict to JSON.",
+      "tags": [
+        "python",
+        "dict",
+        "json"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Python Dict to YAML",
+      "url": "https://langstop.com/python-dict-to-yaml",
+      "description": "Convert Python dict to YAML.",
+      "tags": [
+        "python",
+        "dict",
+        "yaml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    }
+  ]
+}

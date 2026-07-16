@@ -1,0 +1,3779 @@
+{
+  "$schema": "https://raw.githubusercontent.com/langstop/awesome-online-dev-tools/main/SCHEMA.md",
+  "meta": {
+    "title": "Awesome Online Dev Tools",
+    "description": "A curated collection of the best browser-based developer tools",
+    "url": "https://github.com/langstop/awesome-online-dev-tools",
+    "totalTools": 0,
+    "totalCategories": 46,
+    "lastUpdated": "2024-07-16",
+    "maintainer": "LangStop"
+  },
+  "categories": {
+    "ai-tools": {
+      "name": "AI Tools",
+      "description": "AI-powered developer tools including code assistants and generators",
+      "icon": "🤖",
+      "tools": [
+        {
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "AI assistant for code, analysis, and problem-solving.",
+          "category": "ai-tools",
+          "tags": [
+            "ai",
+            "assistant",
+            "code"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Code generation",
+            "Analysis",
+            "Reasoning"
+          ],
+          "useCases": [
+            "Code assistance",
+            "Architecture design"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "ai-powered"
+          ]
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.sh",
+          "description": "AI-first code editor for faster development.",
+          "category": "ai-tools",
+          "tags": [
+            "ai",
+            "code",
+            "editor"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "AI code gen",
+            "Context awareness",
+            "Chat"
+          ],
+          "useCases": [
+            "Code generation",
+            "Debugging assistance"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "desktop",
+            "ai-powered",
+            "trending"
+          ]
+        },
+        {
+          "name": "LangStop Prompt Builder",
+          "url": "https://langstop.com/prompt-builder",
+          "description": "AI prompt builder and template tool for developers.",
+          "category": "ai-tools",
+          "tags": [
+            "ai",
+            "prompt",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Prompt templates",
+            "Variable system",
+            "Export"
+          ],
+          "useCases": [
+            "Building AI prompts",
+            "Prompt engineering"
+          ],
+          "lastUpdated": "2024-07-01",
+          "badges": [
+            "browser-based",
+            "ai-powered",
+            "privacy-first"
+          ]
+        }
+      ]
+    },
+    "api-tools": {
+      "name": "API Tools",
+      "description": "API clients, testers, builders, and documentation tools",
+      "icon": "🔌",
+      "tools": [
+        {
+          "name": "Beeceptor",
+          "url": "https://beeceptor.com",
+          "description": "API mock server and HTTP request inspector.",
+          "category": "api-tools",
+          "tags": [
+            "api",
+            "mock",
+            "inspect"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Mock endpoints",
+            "Request logging",
+            "Delay simulation"
+          ],
+          "useCases": [
+            "API mocking",
+            "Debugging webhooks"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Hoppscotch",
+          "url": "https://hoppscotch.io",
+          "description": "Open source API development tool.",
+          "category": "api-tools",
+          "tags": [
+            "api",
+            "testing",
+            "open-source"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/hoppscotch/hoppscotch",
+          "features": [
+            "REST/GraphQL",
+            "WebSocket",
+            "SSE",
+            "Real-time"
+          ],
+          "useCases": [
+            "API testing",
+            "Development workflow"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Insomnia",
+          "url": "https://insomnia.rest",
+          "description": "API client and designer with GraphQL support.",
+          "category": "api-tools",
+          "tags": [
+            "api",
+            "client",
+            "graphql"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/Kong/insomnia",
+          "features": [
+            "REST/GraphQL",
+            "Environment variables",
+            "Plugins"
+          ],
+          "useCases": [
+            "API design",
+            "Testing",
+            "Documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "desktop",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Postman",
+          "url": "https://www.postman.com",
+          "description": "API platform for building and testing APIs.",
+          "category": "api-tools",
+          "tags": [
+            "api",
+            "testing",
+            "client"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Request builder",
+            "Collections",
+            "Automation",
+            "Collaboration"
+          ],
+          "useCases": [
+            "API development",
+            "Testing",
+            "Documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "architecture": {
+      "name": "Architecture Tools",
+      "description": "Cloud architecture and infrastructure diagram tools",
+      "icon": "🏗️",
+      "tools": [
+        {
+          "name": "Cloudcraft",
+          "url": "https://www.cloudcraft.co",
+          "description": "AWS architecture diagram visualization tool.",
+          "category": "architecture",
+          "tags": [
+            "aws",
+            "architecture",
+            "diagram"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "AWS icons",
+            "Live AWS scan",
+            "Cost estimation"
+          ],
+          "useCases": [
+            "AWS architecture design",
+            "Documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Lucidchart",
+          "url": "https://www.lucidchart.com",
+          "description": "Diagramming application with cloud architecture support.",
+          "category": "architecture",
+          "tags": [
+            "diagram",
+            "architecture",
+            "flowchart"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Cloud shapes",
+            "Collaboration",
+            "Integration"
+          ],
+          "useCases": [
+            "Architecture",
+            "Process flows",
+            "Network diagrams"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "base64-encoding": {
+      "name": "Base64 Encoding",
+      "description": "Base64 encoders, decoders, and file converters",
+      "icon": "🔡",
+      "tools": [
+        {
+          "name": "Base64 Decode",
+          "url": "https://www.base64decode.org",
+          "description": "Simple Base64 decoding tool.",
+          "category": "base64-encoding",
+          "tags": [
+            "base64",
+            "decode"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Decode",
+            "File output"
+          ],
+          "useCases": [
+            "Quick Base64 decoding"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Base64 Guru",
+          "url": "https://base64.guru",
+          "description": "Base64 encoder/decoder with learning resources.",
+          "category": "base64-encoding",
+          "tags": [
+            "base64",
+            "encoder",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Encode",
+            "Decode",
+            "File support",
+            "Learning resources"
+          ],
+          "useCases": [
+            "Data encoding",
+            "API payload preparation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "cicd-tools": {
+      "name": "CI/CD Tools",
+      "description": "Continuous integration and deployment platforms and utilities",
+      "icon": "🔄",
+      "tools": [
+        {
+          "name": "CircleCI",
+          "url": "https://circleci.com",
+          "description": "Cloud CI/CD platform for automated testing and deployment.",
+          "category": "cicd-tools",
+          "tags": [
+            "ci",
+            "cd",
+            "testing"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Parallelism",
+            "Cache",
+            "Orbs"
+          ],
+          "useCases": [
+            "CI/CD pipeline",
+            "Testing automation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "popular"
+          ]
+        },
+        {
+          "name": "GitHub Actions",
+          "url": "https://github.com/features/actions",
+          "description": "GitHub's built-in CI/CD automation platform.",
+          "category": "cicd-tools",
+          "tags": [
+            "ci",
+            "cd",
+            "automation",
+            "github"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Matrix builds",
+            "Marketplace",
+            "Self-hosted runners"
+          ],
+          "useCases": [
+            "CI/CD pipeline",
+            "Automation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "popular"
+          ]
+        },
+        {
+          "name": "Jenkins",
+          "url": "https://www.jenkins.io",
+          "description": "Open source automation server for CI/CD.",
+          "category": "cicd-tools",
+          "tags": [
+            "ci",
+            "cd",
+            "automation",
+            "jenkins"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/jenkinsci/jenkins",
+          "features": [
+            "Extensible",
+            "Pipeline as code",
+            "Plugin ecosystem"
+          ],
+          "useCases": [
+            "CI/CD pipeline",
+            "Automation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "open-source",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "cli-tools": {
+      "name": "CLI Tools",
+      "description": "Online terminal emulators and command reference tools",
+      "icon": "💻",
+      "tools": [
+        {
+          "name": "Cheat.sh",
+          "url": "https://cheat.sh",
+          "description": "Community-driven command cheatsheets.",
+          "category": "cli-tools",
+          "tags": [
+            "cheatsheet",
+            "command",
+            "reference"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Multi-language",
+            "Speed",
+            "Client tools"
+          ],
+          "useCases": [
+            "Quick command lookup",
+            "Learning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "ExplainShell",
+          "url": "https://explainshell.com",
+          "description": "Explain shell commands with man page references.",
+          "category": "cli-tools",
+          "tags": [
+            "shell",
+            "command",
+            "explainer"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Command parsing",
+            "Man page integration"
+          ],
+          "useCases": [
+            "Learning Linux",
+            "Understanding commands"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "JSLinux",
+          "url": "https://bellard.org/jslinux",
+          "description": "Linux emulator running in the browser.",
+          "category": "cli-tools",
+          "tags": [
+            "linux",
+            "emulator",
+            "terminal"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Full Linux",
+            "File system",
+            "Networking"
+          ],
+          "useCases": [
+            "Linux testing",
+            "Education"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "offline"
+          ]
+        }
+      ]
+    },
+    "cloud-tools": {
+      "name": "Cloud Tools",
+      "description": "Cloud provider consoles, calculators, and management tools",
+      "icon": "☁️",
+      "tools": [
+        {
+          "name": "AWS Calculator",
+          "url": "https://calculator.aws",
+          "description": "AWS pricing calculator for cost estimation.",
+          "category": "cloud-tools",
+          "tags": [
+            "aws",
+            "calculator",
+            "pricing"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Service estimation",
+            "Cost groups",
+            "Export"
+          ],
+          "useCases": [
+            "Cloud cost planning",
+            "Budget estimation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com",
+          "description": "Cloud hosting and serverless platform.",
+          "category": "cloud-tools",
+          "tags": [
+            "cloud",
+            "hosting",
+            "serverless"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Git deploy",
+            "Forms",
+            "Functions",
+            "Split testing"
+          ],
+          "useCases": [
+            "Web hosting",
+            "Jamstack"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "Cloud platform for frontend frameworks and static sites.",
+          "category": "cloud-tools",
+          "tags": [
+            "cloud",
+            "hosting",
+            "serverless",
+            "frontend"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Auto-deploy",
+            "Serverless functions",
+            "Analytics"
+          ],
+          "useCases": [
+            "Web hosting",
+            "Deployment"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "color-tools": {
+      "name": "Color Tools",
+      "description": "Color pickers, palette generators, and color converters",
+      "icon": "🎨",
+      "tools": [
+        {
+          "name": "Adobe Color",
+          "url": "https://color.adobe.com",
+          "description": "Color wheel and palette creator from Adobe.",
+          "category": "color-tools",
+          "tags": [
+            "color",
+            "wheel",
+            "palette"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Color wheel",
+            "Accessibility tools",
+            "Extract from image"
+          ],
+          "useCases": [
+            "Color scheme design",
+            "Accessibility checking"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "ColorHexa",
+          "url": "https://www.colorhexa.com",
+          "description": "Color encyclopedia with conversion and information.",
+          "category": "color-tools",
+          "tags": [
+            "color",
+            "hex",
+            "encyclopedia"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Color conversion",
+            "Color info",
+            "Similar colors"
+          ],
+          "useCases": [
+            "Color lookup",
+            "Format conversion"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Coolors",
+          "url": "https://coolors.co",
+          "description": "Color palette generator with exploration tools.",
+          "category": "color-tools",
+          "tags": [
+            "color",
+            "palette",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Palette generation",
+            "Color exploration",
+            "Export"
+          ],
+          "useCases": [
+            "Design",
+            "UI theming",
+            "Brand colors"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "converters": {
+      "name": "Converters",
+      "description": "Unit converters, code converters, and format transformers",
+      "icon": "🔄",
+      "tools": [
+        {
+          "name": "Compiler Explorer",
+          "url": "https://godbolt.org",
+          "description": "Compiler exploration and code conversion tool.",
+          "category": "converters",
+          "tags": [
+            "compiler",
+            "explorer",
+            "assembly"
+          ],
+          "license": "BSL-1.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/compiler-explorer/compiler-explorer",
+          "features": [
+            "Many compilers",
+            "ASM output",
+            "Libraries"
+          ],
+          "useCases": [
+            "Compiler research",
+            "Optimization analysis"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Transform",
+          "url": "https://transform.tools",
+          "description": "Code converter between programming languages.",
+          "category": "converters",
+          "tags": [
+            "converter",
+            "code",
+            "transpiler"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Multi-language",
+            "Live preview",
+            "Copy"
+          ],
+          "useCases": [
+            "Code migration",
+            "Learning new languages"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "css-tools": {
+      "name": "CSS Tools",
+      "description": "CSS formatters, generators, minifiers, and playgrounds",
+      "icon": "💅",
+      "tools": [
+        {
+          "name": "Animista",
+          "url": "https://animista.net",
+          "description": "CSS animation library with live preview.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "animation",
+            "library"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Animation presets",
+            "Customization",
+            "Export CSS"
+          ],
+          "useCases": [
+            "Adding animations",
+            "Prototyping"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "CSS Gradient",
+          "url": "https://cssgradient.io",
+          "description": "CSS gradient generator with visual editor.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "gradient",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Visual editor",
+            "Multiple gradients",
+            "CSS code output"
+          ],
+          "useCases": [
+            "Designing gradients",
+            "CSS styling"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "csv-tools": {
+      "name": "CSV Tools",
+      "description": "CSV editors, viewers, converters, and validators",
+      "icon": "📊",
+      "tools": [
+        {
+          "name": "CSV Viewer",
+          "url": "https://csvviewer.com",
+          "description": "Online CSV viewer and editor with filtering.",
+          "category": "csv-tools",
+          "tags": [
+            "csv",
+            "viewer",
+            "editor"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Sorting",
+            "Filtering",
+            "Search"
+          ],
+          "useCases": [
+            "Data inspection",
+            "CSV editing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "TableConvert",
+          "url": "https://tableconvert.com",
+          "description": "Convert CSV to various table formats.",
+          "category": "csv-tools",
+          "tags": [
+            "csv",
+            "table",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "CSV to Markdown",
+            "CSV to JSON",
+            "CSV to SQL"
+          ],
+          "useCases": [
+            "Data conversion",
+            "Documentation tables"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "database-tools": {
+      "name": "Database Tools",
+      "description": "Database managers, schema designers, and editors",
+      "icon": "🗄️",
+      "tools": [
+        {
+          "name": "dbdiagram.io",
+          "url": "https://dbdiagram.io",
+          "description": "Database diagram designer with SQL export.",
+          "category": "database-tools",
+          "tags": [
+            "database",
+            "diagram",
+            "schema",
+            "design"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Visual design",
+            "SQL export",
+            "Collaboration"
+          ],
+          "useCases": [
+            "Database design",
+            "Documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "DrawSQL",
+          "url": "https://drawsql.app",
+          "description": "Database schema visualization and design tool.",
+          "category": "database-tools",
+          "tags": [
+            "database",
+            "schema",
+            "visualization"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "ER diagrams",
+            "Team collaboration",
+            "Export"
+          ],
+          "useCases": [
+            "Schema design",
+            "Database documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "devops": {
+      "name": "DevOps Tools",
+      "description": "Monitoring, incident management, and DevOps automation tools",
+      "icon": "🔄",
+      "tools": [
+        {
+          "name": "Better Uptime",
+          "url": "https://betteruptime.com",
+          "description": "Uptime monitoring and incident management.",
+          "category": "devops",
+          "tags": [
+            "monitoring",
+            "uptime",
+            "incident"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Status pages",
+            "Heartbeat",
+            "SMS alerts"
+          ],
+          "useCases": [
+            "Website monitoring",
+            "Incident response"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Uptime Robot",
+          "url": "https://uptimerobot.com",
+          "description": "Free website monitoring service.",
+          "category": "devops",
+          "tags": [
+            "monitoring",
+            "uptime"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "50 monitors",
+            "5-min checks",
+            "Alerts"
+          ],
+          "useCases": [
+            "Website monitoring",
+            "Alerting"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "diff-tools": {
+      "name": "Diff Tools",
+      "description": "Text, code, and image comparison tools",
+      "icon": "🔀",
+      "tools": [
+        {
+          "name": "DiffNow",
+          "url": "https://www.diffnow.com",
+          "description": "Text and file comparison service.",
+          "category": "diff-tools",
+          "tags": [
+            "diff",
+            "comparison",
+            "text"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Side-by-side",
+            "Unified view",
+            "File upload"
+          ],
+          "useCases": [
+            "Code comparison",
+            "Document diffing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Mergely",
+          "url": "https://mergely.com",
+          "description": "Online diff and merge editor.",
+          "category": "diff-tools",
+          "tags": [
+            "diff",
+            "merge",
+            "editor"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/wickedest/Mergely",
+          "features": [
+            "Diff",
+            "Merge",
+            "Highlighting"
+          ],
+          "useCases": [
+            "Code merging",
+            "Text comparison"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "docker-tools": {
+      "name": "Docker Tools",
+      "description": "Docker and container management tools",
+      "icon": "🐳",
+      "tools": [
+        {
+          "name": "Composerize",
+          "url": "https://www.composerize.com",
+          "description": "Convert docker run commands to docker-compose files.",
+          "category": "docker-tools",
+          "tags": [
+            "docker",
+            "compose",
+            "converter"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/magicmark/composerize",
+          "features": [
+            "CLI to Compose",
+            "Validation"
+          ],
+          "useCases": [
+            "Docker migration",
+            "Compose creation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "name": "Documentation Tools",
+      "description": "Documentation generators, hosted docs, and API documentation tools",
+      "icon": "📚",
+      "tools": [
+        {
+          "name": "Docusaurus",
+          "url": "https://docusaurus.io",
+          "description": "Documentation website builder for open source projects.",
+          "category": "documentation",
+          "tags": [
+            "documentation",
+            "website",
+            "react"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/facebook/docusaurus",
+          "features": [
+            "Versioning",
+            "Search",
+            "Blog",
+            "i18n"
+          ],
+          "useCases": [
+            "Project docs",
+            "Knowledge base"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "MkDocs",
+          "url": "https://www.mkdocs.org",
+          "description": "Project documentation with Markdown.",
+          "category": "documentation",
+          "tags": [
+            "documentation",
+            "markdown",
+            "static-site"
+          ],
+          "license": "BSD-2-Clause",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/mkdocs/mkdocs",
+          "features": [
+            "Markdown",
+            "Themes",
+            "Search",
+            "Multi-version"
+          ],
+          "useCases": [
+            "Project documentation",
+            "Technical writing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Read the Docs",
+          "url": "https://readthedocs.org",
+          "description": "Documentation hosting platform with version control.",
+          "category": "documentation",
+          "tags": [
+            "documentation",
+            "hosting",
+            "versioned"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Auto-build",
+            "Versioning",
+            "Search"
+          ],
+          "useCases": [
+            "Hosting project docs",
+            "Open source documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "open-source",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "encoding-tools": {
+      "name": "Encoding Tools",
+      "description": "URL encoding, HTML entities, and character encoding tools",
+      "icon": "🔤",
+      "tools": [
+        {
+          "name": "Base64 Image Converter",
+          "url": "https://www.base64-image.de",
+          "description": "Convert images to Base64 strings.",
+          "category": "encoding-tools",
+          "tags": [
+            "base64",
+            "image",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Image to Base64",
+            "Base64 to image"
+          ],
+          "useCases": [
+            "HTML img embedding",
+            "CSS backgrounds"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "URL Encoder",
+          "url": "https://www.urlencoder.org",
+          "description": "URL encoding and decoding tool.",
+          "category": "encoding-tools",
+          "tags": [
+            "url",
+            "encoder",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Encode",
+            "Decode",
+            "Batch processing"
+          ],
+          "useCases": [
+            "URL parameter encoding",
+            "Data preparation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "formatters": {
+      "name": "Formatters",
+      "description": "Multi-language code formatters and beautifiers",
+      "icon": "✨",
+      "tools": [
+        {
+          "name": "Code Beautify",
+          "url": "https://codebeautify.org",
+          "description": "Code formatter and converter for many formats.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "beautifier",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Multi-format",
+            "Conversion",
+            "Minification"
+          ],
+          "useCases": [
+            "Code formatting",
+            "Data conversion"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "FreeFormatter",
+          "url": "https://www.freeformatter.com",
+          "description": "Collection of code formatters and validators.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "code",
+            "beautifier"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Multiple languages",
+            "Validation",
+            "Escaping"
+          ],
+          "useCases": [
+            "Code cleaning",
+            "Formatting"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "generators": {
+      "name": "Generators",
+      "description": "Code generators, boilerplates, and scaffolding tools",
+      "icon": "⚙️",
+      "tools": [
+        {
+          "name": "Create New App",
+          "url": "https://creatnewapp.com",
+          "description": "Project scaffolding and boilerplate generator.",
+          "category": "generators",
+          "tags": [
+            "generator",
+            "boilerplate",
+            "scaffolding"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Multiple frameworks",
+            "Configuration"
+          ],
+          "useCases": [
+            "Quick project setup",
+            "Learning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "git-tools": {
+      "name": "Git Tools",
+      "description": "Git explorers, generators, and visualizers",
+      "icon": "🔀",
+      "tools": [
+        {
+          "name": "Git Explorer",
+          "url": "https://gitexplorer.com",
+          "description": "Find the right Git commands for your workflow.",
+          "category": "git-tools",
+          "tags": [
+            "git",
+            "explorer",
+            "commands"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Command discovery",
+            "Scenario-based"
+          ],
+          "useCases": [
+            "Finding Git commands",
+            "Learning Git"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "gitignore.io",
+          "url": "https://www.toptal.com/developers/gitignore",
+          "description": ".gitignore file generator for any project.",
+          "category": "git-tools",
+          "tags": [
+            "git",
+            "gitignore",
+            "generator"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Template search",
+            "Multi-template",
+            "Copy to clipboard"
+          ],
+          "useCases": [
+            "Project setup",
+            "Git configuration"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Learn Git Branching",
+          "url": "https://learngitbranching.js.org",
+          "description": "Interactive Git branching tutorial and visualizer.",
+          "category": "git-tools",
+          "tags": [
+            "git",
+            "learning",
+            "branching",
+            "tutorial"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/pcottle/learnGitBranching",
+          "features": [
+            "Interactive",
+            "Visual",
+            "Challenges"
+          ],
+          "useCases": [
+            "Learning Git",
+            "Teaching branching"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "community-favorite"
+          ]
+        }
+      ]
+    },
+    "graphql-tools": {
+      "name": "GraphQL Tools",
+      "description": "GraphQL IDEs, explorers, and schema designers",
+      "icon": "◈",
+      "tools": [
+        {
+          "name": "Altair GraphQL",
+          "url": "https://altairgraphql.dev",
+          "description": "Feature-rich GraphQL client for all platforms.",
+          "category": "graphql-tools",
+          "tags": [
+            "graphql",
+            "client",
+            "explorer"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/altair-graphql/altair",
+          "features": [
+            "Query builder",
+            "Subscription support",
+            "Themes"
+          ],
+          "useCases": [
+            "GraphQL testing",
+            "API exploration"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Apollo Studio",
+          "url": "https://studio.apollographql.com",
+          "description": "GraphQL management and exploration platform.",
+          "category": "graphql-tools",
+          "tags": [
+            "graphql",
+            "explorer",
+            "management"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Schema explorer",
+            "Query planner",
+            "Metrics"
+          ],
+          "useCases": [
+            "GraphQL API management",
+            "Query development"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "GraphQL Voyager",
+          "url": "https://apis.guru/graphql-voyager",
+          "description": "Interactive GraphQL schema visualization tool.",
+          "category": "graphql-tools",
+          "tags": [
+            "graphql",
+            "schema",
+            "visualization"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Schema visualization",
+            "Interactive",
+            "Export"
+          ],
+          "useCases": [
+            "Schema exploration",
+            "Documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "hashing": {
+      "name": "Hashing Tools",
+      "description": "Hash generators, checkers, and cryptography tools",
+      "icon": "🔑",
+      "tools": [
+        {
+          "name": "CyberChef",
+          "url": "https://gchq.github.io/CyberChef",
+          "description": "Cyber Swiss Army Knife for encryption, encoding, and analysis.",
+          "category": "hashing",
+          "tags": [
+            "hash",
+            "encryption",
+            "encoding",
+            "analysis"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/gchq/CyberChef",
+          "features": [
+            "200+ operations",
+            "Recipes",
+            "File support",
+            "Magic mode"
+          ],
+          "useCases": [
+            "Data analysis",
+            "Encryption",
+            "Forensics"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular",
+            "offline"
+          ]
+        },
+        {
+          "name": "MD5 Hash Generator",
+          "url": "https://www.md5hashgenerator.com",
+          "description": "Online MD5 hash generator for strings.",
+          "category": "hashing",
+          "tags": [
+            "hash",
+            "md5",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "MD5 generation",
+            "Quick copy"
+          ],
+          "useCases": [
+            "Password hashing",
+            "Checksum generation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "html-tools": {
+      "name": "HTML Tools",
+      "description": "HTML formatters, validators, previewers, and minifiers",
+      "icon": "🌐",
+      "tools": [
+        {
+          "name": "CodePen",
+          "url": "https://codepen.io",
+          "description": "HTML/CSS/JS code playground and editor.",
+          "category": "html-tools",
+          "tags": [
+            "html",
+            "css",
+            "js",
+            "playground"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Live preview",
+            "Community",
+            "Assets"
+          ],
+          "useCases": [
+            "Prototyping",
+            "Sharing code",
+            "Learning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "JSFiddle",
+          "url": "https://jsfiddle.net",
+          "description": "Online code editor for HTML/CSS/JS testing.",
+          "category": "html-tools",
+          "tags": [
+            "html",
+            "css",
+            "js",
+            "editor"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Live rendering",
+            "Collaboration",
+            "External resources"
+          ],
+          "useCases": [
+            "Testing code",
+            "Debugging",
+            "Sharing snippets"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "image-tools": {
+      "name": "Image Tools",
+      "description": "Image editors, optimizers, converters, and SVG tools",
+      "icon": "🖼️",
+      "tools": [
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com",
+          "description": "Advanced online image editor similar to Photoshop.",
+          "category": "image-tools",
+          "tags": [
+            "image",
+            "editor",
+            "psd"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "PSD support",
+            "Layers",
+            "Filters",
+            "AI tools"
+          ],
+          "useCases": [
+            "Photo editing",
+            "Design"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app",
+          "description": "Google's image optimizer with WebAssembly compression.",
+          "category": "image-tools",
+          "tags": [
+            "image",
+            "optimizer",
+            "compression"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/GoogleChromeLabs/squoosh",
+          "features": [
+            "WebP/AVIF support",
+            "Size comparison",
+            "Batch processing"
+          ],
+          "useCases": [
+            "Image optimization",
+            "Web performance"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "offline",
+            "popular"
+          ]
+        },
+        {
+          "name": "SVGOMG",
+          "url": "https://jakearchibald.github.io/svgomg",
+          "description": "SVG optimizer based on SVGO.",
+          "category": "image-tools",
+          "tags": [
+            "svg",
+            "optimizer",
+            "minifier"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Precision control",
+            "Cleanup options",
+            "Preview"
+          ],
+          "useCases": [
+            "SVG optimization",
+            "Web graphics"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "Smart PNG and JPEG compression tool.",
+          "category": "image-tools",
+          "tags": [
+            "image",
+            "compression",
+            "png",
+            "jpg"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Lossy compression",
+            "Batch upload",
+            "API available"
+          ],
+          "useCases": [
+            "Website optimization",
+            "Image size reduction"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "javascript-tools": {
+      "name": "JavaScript Tools",
+      "description": "JavaScript playgrounds, formatters, and transpilers",
+      "icon": "⚡",
+      "tools": [
+        {
+          "name": "CodeSandbox",
+          "url": "https://codesandbox.io",
+          "description": "Online IDE for web application development.",
+          "category": "javascript-tools",
+          "tags": [
+            "javascript",
+            "ide",
+            "react",
+            "full-stack"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/codesandbox/codesandbox-client",
+          "features": [
+            "Full IDE",
+            "Template support",
+            "Deployment"
+          ],
+          "useCases": [
+            "Full-stack dev",
+            "Prototyping",
+            "Learning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "PlayCode",
+          "url": "https://playcode.io",
+          "description": "JavaScript playground with instant results.",
+          "category": "javascript-tools",
+          "tags": [
+            "javascript",
+            "playground",
+            "editor"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Instant preview",
+            "Console",
+            "Package support"
+          ],
+          "useCases": [
+            "Testing JS code",
+            "Prototyping"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Prettier Playground",
+          "url": "https://prettier.io/playground",
+          "description": "Opinionated code formatter with live playground.",
+          "category": "javascript-tools",
+          "tags": [
+            "javascript",
+            "formatter",
+            "prettier"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/prettier/prettier",
+          "features": [
+            "Multi-language",
+            "Config options",
+            "Live preview"
+          ],
+          "useCases": [
+            "Code formatting",
+            "Config experimentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "json-tools": {
+      "name": "JSON Tools",
+      "description": "JSON formatters, validators, converters, and diff tools",
+      "icon": "📋",
+      "tools": [
+        {
+          "name": "JSON Diff",
+          "url": "https://jsondiff.com",
+          "description": "Compare two JSON documents side-by-side.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "diff",
+            "comparison"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Side-by-side view",
+            "Delta highlighting"
+          ],
+          "useCases": [
+            "Code review",
+            "API response comparison"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Editor Online",
+          "url": "https://jsoneditoronline.org",
+          "description": "Tree editor for JSON documents with visualization.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "editor",
+            "tree-view",
+            "visualization"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/josdejong/jsoneditor",
+          "features": [
+            "Tree editor",
+            "Code editor",
+            "Search",
+            "Sort",
+            "Transform"
+          ],
+          "useCases": [
+            "Editing JSON files",
+            "Visualizing JSON structure"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "pwa"
+          ]
+        },
+        {
+          "name": "JSON Formatter & Validator",
+          "url": "https://jsonformatter.org",
+          "description": "Format, validate, and beautify JSON data with syntax highlighting.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "formatter",
+            "validator",
+            "beautifier"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Syntax highlighting",
+            "Error localization",
+            "Tree view",
+            "Minification"
+          ],
+          "useCases": [
+            "Debugging API responses",
+            "Formatting config files"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "JSON Hero",
+          "url": "https://jsonhero.io",
+          "description": "JSON viewer with schema inference and data exploration.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "viewer",
+            "explorer",
+            "schema"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/triggerdotdev/jsonhero",
+          "features": [
+            "Schema inference",
+            "Large file support",
+            "Search",
+            "Tree view"
+          ],
+          "useCases": [
+            "API response exploration",
+            "JSON data analysis"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "trending"
+          ]
+        },
+        {
+          "name": "JSONCompare",
+          "url": "https://jsoncompare.com",
+          "description": "JSON comparison and merge tool.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "compare",
+            "merge"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Comparison",
+            "Merge",
+            "Sorting"
+          ],
+          "useCases": [
+            "JSON file comparison",
+            "Config diffing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSONLint",
+          "url": "https://jsonlint.com",
+          "description": "JSON validator and reformatter with error messages.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "validator",
+            "linter"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/circlecell/jsonlint",
+          "features": [
+            "JSON validation",
+            "Auto-fix",
+            "Copy to clipboard"
+          ],
+          "useCases": [
+            "Validating JSON",
+            "Learning JSON syntax"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "LangStop JSON Tools",
+          "url": "https://langstop.com/json-formatter",
+          "description": "Browser-based JSON formatter, validator, and converter.",
+          "category": "json-tools",
+          "tags": [
+            "json",
+            "formatter",
+            "validator",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Formatting",
+            "Validation",
+            "Conversion",
+            "Minification"
+          ],
+          "useCases": [
+            "JSON formatting",
+            "Data conversion"
+          ],
+          "lastUpdated": "2024-07-01",
+          "badges": [
+            "browser-based",
+            "privacy-first"
+          ]
+        }
+      ]
+    },
+    "jwt-tools": {
+      "name": "JWT Tools",
+      "description": "JWT decoders, debuggers, generators, and validators",
+      "icon": "🔐",
+      "tools": [
+        {
+          "name": "JWT.io",
+          "url": "https://jwt.io",
+          "description": "JWT debugger with algorithm and library support.",
+          "category": "jwt-tools",
+          "tags": [
+            "jwt",
+            "debugger",
+            "token"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "JWT decode",
+            "Algorithm info",
+            "Library list"
+          ],
+          "useCases": [
+            "Debugging JWT tokens",
+            "Verifying signatures"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "LangStop JWT Tools",
+          "url": "https://langstop.com/jwt-tools",
+          "description": "JWT encoder, decoder, and debugger with signature verification.",
+          "category": "jwt-tools",
+          "tags": [
+            "jwt",
+            "encoder",
+            "decoder",
+            "debugger"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Encoding",
+            "Decoding",
+            "Signature verification"
+          ],
+          "useCases": [
+            "Token debugging",
+            "Authentication testing"
+          ],
+          "lastUpdated": "2024-07-01",
+          "badges": [
+            "browser-based",
+            "privacy-first"
+          ]
+        }
+      ]
+    },
+    "kubernetes-tools": {
+      "name": "Kubernetes Tools",
+      "description": "Kubernetes management, monitoring, and validation tools",
+      "icon": "☸️",
+      "tools": [
+        {
+          "name": "K9s",
+          "url": "https://k9scli.io",
+          "description": "Terminal-based Kubernetes cluster manager.",
+          "category": "kubernetes-tools",
+          "tags": [
+            "kubernetes",
+            "cli",
+            "management"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/derailed/k9s",
+          "features": [
+            "Vim-style",
+            "Real-time",
+            "Watch"
+          ],
+          "useCases": [
+            "Cluster administration",
+            "Debugging"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "cli",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Lens",
+          "url": "https://k8slens.dev",
+          "description": "Kubernetes IDE for cluster management.",
+          "category": "kubernetes-tools",
+          "tags": [
+            "kubernetes",
+            "ide",
+            "management"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/lensapp/lens",
+          "features": [
+            "Cluster management",
+            "Monitoring",
+            "Logs"
+          ],
+          "useCases": [
+            "K8s administration",
+            "Cluster monitoring"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "desktop",
+            "open-source",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "linux-tools": {
+      "name": "Linux Tools",
+      "description": "Linux command references, tutorials, and online terminals",
+      "icon": "🐧",
+      "tools": [
+        {
+          "name": "TLDR Pages",
+          "url": "https://tldr.sh",
+          "description": "Simplified man pages with practical examples.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "command",
+            "reference"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Examples",
+            "Multi-platform",
+            "Community-driven"
+          ],
+          "useCases": [
+            "Quick command reference",
+            "Learning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "markdown": {
+      "name": "Markdown Tools",
+      "description": "Markdown editors, previewers, and converters",
+      "icon": "📝",
+      "tools": [
+        {
+          "name": "Dillinger",
+          "url": "https://dillinger.io",
+          "description": "Cloud-enabled Markdown editor with export options.",
+          "category": "markdown",
+          "tags": [
+            "markdown",
+            "editor",
+            "cloud"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/joemccann/dillinger",
+          "features": [
+            "Live preview",
+            "Export HTML/PDF",
+            "Cloud storage"
+          ],
+          "useCases": [
+            "Markdown editing",
+            "Document creation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "StackEdit",
+          "url": "https://stackedit.io",
+          "description": "In-browser Markdown editor with sync support.",
+          "category": "markdown",
+          "tags": [
+            "markdown",
+            "editor",
+            "preview"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/benweet/stackedit",
+          "features": [
+            "Live preview",
+            "Cloud sync",
+            "Publish to blog"
+          ],
+          "useCases": [
+            "Writing Markdown",
+            "Documentation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "mock-data": {
+      "name": "Mock Data Generators",
+      "description": "Fake data generators and API mock servers",
+      "icon": "🎭",
+      "tools": [
+        {
+          "name": "JSON Generator",
+          "url": "https://www.json-generator.com",
+          "description": "Generate JSON data from repeatable templates.",
+          "category": "mock-data",
+          "tags": [
+            "json",
+            "generator",
+            "mock"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Templates",
+            "Repeat",
+            "Custom fields"
+          ],
+          "useCases": [
+            "API testing",
+            "Data seeding"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Mockaroo",
+          "url": "https://www.mockaroo.com",
+          "description": "Realistic data generator with many data types.",
+          "category": "mock-data",
+          "tags": [
+            "mock",
+            "data",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Custom schemas",
+            "Export formats",
+            "API"
+          ],
+          "useCases": [
+            "Test data creation",
+            "Development"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "Mockoon",
+          "url": "https://mockoon.com",
+          "description": "Mock API server for local development.",
+          "category": "mock-data",
+          "tags": [
+            "mock",
+            "api",
+            "server"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/mockoon/mockoon",
+          "features": [
+            "Route creation",
+            "Response templates",
+            "Logging"
+          ],
+          "useCases": [
+            "API mocking",
+            "Offline development"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "desktop",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "networking": {
+      "name": "Networking Tools",
+      "description": "DNS, IP, HTTP, and network diagnostic tools",
+      "icon": "🌍",
+      "tools": [
+        {
+          "name": "DNSChecker",
+          "url": "https://dnschecker.org",
+          "description": "DNS propagation checker with global servers.",
+          "category": "networking",
+          "tags": [
+            "dns",
+            "network",
+            "propagation"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Global DNS check",
+            "Record types",
+            "Visual map"
+          ],
+          "useCases": [
+            "DNS verification",
+            "Propagation checking"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "IPinfo",
+          "url": "https://ipinfo.io",
+          "description": "IP address data provider with geolocation.",
+          "category": "networking",
+          "tags": [
+            "ip",
+            "geolocation",
+            "network"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "IP lookup",
+            "ASN data",
+            "Privacy detection"
+          ],
+          "useCases": [
+            "IP investigation",
+            "Location data"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "MXToolbox",
+          "url": "https://mxtoolbox.com",
+          "description": "DNS and network diagnostic tools.",
+          "category": "networking",
+          "tags": [
+            "dns",
+            "network",
+            "diagnostic"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "DNS lookup",
+            "Blacklist check",
+            "Email server test"
+          ],
+          "useCases": [
+            "Network troubleshooting",
+            "Email configuration"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "openapi": {
+      "name": "OpenAPI Tools",
+      "description": "OpenAPI/Swagger specification editors and viewers",
+      "icon": "📖",
+      "tools": [
+        {
+          "name": "Redocly",
+          "url": "https://redocly.com/redoc",
+          "description": "OpenAPI documentation generator.",
+          "category": "openapi",
+          "tags": [
+            "openapi",
+            "documentation",
+            "redoc"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/Redocly/redoc",
+          "features": [
+            "Responsive",
+            "Try it console",
+            "Search"
+          ],
+          "useCases": [
+            "API docs",
+            "Developer portals"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Swagger Editor",
+          "url": "https://editor.swagger.io",
+          "description": "Official Swagger/OpenAPI specification editor.",
+          "category": "openapi",
+          "tags": [
+            "openapi",
+            "swagger",
+            "editor"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/swagger-api/swagger-editor",
+          "features": [
+            "Live preview",
+            "Validation",
+            "Code generation"
+          ],
+          "useCases": [
+            "API design",
+            "Spec creation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "SwaggerHub",
+          "url": "https://swagger.io/tools/swaggerhub",
+          "description": "API design and documentation platform.",
+          "category": "openapi",
+          "tags": [
+            "openapi",
+            "swagger",
+            "api",
+            "design"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Design",
+            "Documentation",
+            "Mock server"
+          ],
+          "useCases": [
+            "API lifecycle",
+            "Team collaboration"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "productivity": {
+      "name": "Developer Productivity",
+      "description": "Online IDEs, time tracking, and productivity tools",
+      "icon": "⚡",
+      "tools": [
+        {
+          "name": "Gitpod",
+          "url": "https://www.gitpod.io",
+          "description": "Cloud development environment for any project.",
+          "category": "productivity",
+          "tags": [
+            "ide",
+            "cloud",
+            "development"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/gitpod-io/gitpod",
+          "features": [
+            "VS Code in browser",
+            "Prebuilds",
+            "Collaboration"
+          ],
+          "useCases": [
+            "Remote development",
+            "Team workspaces"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Replit",
+          "url": "https://replit.com",
+          "description": "Online IDE with collaboration and deployment.",
+          "category": "productivity",
+          "tags": [
+            "ide",
+            "collaboration",
+            "deployment"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Multi-language",
+            "Collaboration",
+            "Deploy"
+          ],
+          "useCases": [
+            "Learning",
+            "Prototyping",
+            "Team projects"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "StackBlitz",
+          "url": "https://stackblitz.com",
+          "description": "Online IDE for web application development.",
+          "category": "productivity",
+          "tags": [
+            "ide",
+            "web",
+            "angular",
+            "react"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Full IDE",
+            "Package support",
+            "Instant preview"
+          ],
+          "useCases": [
+            "Web development",
+            "Prototyping"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "regex": {
+      "name": "Regex Tools",
+      "description": "Regex testers, builders, explainers, and visualizers",
+      "icon": "🔍",
+      "tools": [
+        {
+          "name": "Debuggex",
+          "url": "https://www.debuggex.com",
+          "description": "Regex visual debugger with railroad diagrams.",
+          "category": "regex",
+          "tags": [
+            "regex",
+            "debugger",
+            "visualization"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Railroad diagrams",
+            "Step-through",
+            "Flavor switching"
+          ],
+          "useCases": [
+            "Debugging complex regex",
+            "Visualizing patterns"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "iHateRegex",
+          "url": "https://ihateregex.io",
+          "description": "Regex cheatsheet and visualizer for common patterns.",
+          "category": "regex",
+          "tags": [
+            "regex",
+            "cheatsheet",
+            "visualizer"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/geongeorge/i-hate-regex",
+          "features": [
+            "Visual cheatsheet",
+            "Common patterns",
+            "Search"
+          ],
+          "useCases": [
+            "Quick reference",
+            "Finding regex patterns"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Regex Vis",
+          "url": "https://regex-vis.com",
+          "description": "Visual regex editor with graphical pattern builder.",
+          "category": "regex",
+          "tags": [
+            "regex",
+            "builder",
+            "visual"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Visual editor",
+            "Pattern generation",
+            "Export"
+          ],
+          "useCases": [
+            "Building regex visually",
+            "Learning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "Regex tester with syntax highlighting and explanation engine.",
+          "category": "regex",
+          "tags": [
+            "regex",
+            "tester",
+            "debugger"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/firasdib/Regex101",
+          "language": "JavaScript",
+          "features": [
+            "PCRE/JS/Python/Rust",
+            "Explanation engine",
+            "Unit tests",
+            "Quick reference"
+          ],
+          "useCases": [
+            "Debugging patterns",
+            "Learning regex",
+            "Cross-flavor testing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular",
+            "community-favorite"
+          ]
+        },
+        {
+          "name": "Regexper",
+          "url": "https://regexper.com",
+          "description": "Regex visualization tool with railroad diagram generation.",
+          "category": "regex",
+          "tags": [
+            "regex",
+            "visualizer",
+            "diagram"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Railroad diagrams",
+            "PNG export"
+          ],
+          "useCases": [
+            "Documenting regex",
+            "Visualizing complex patterns"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Regexr",
+          "url": "https://regexr.com",
+          "description": "Learn and test regular expressions with real-time feedback.",
+          "category": "regex",
+          "tags": [
+            "regex",
+            "tester",
+            "learning"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/gskinner/regexr",
+          "features": [
+            "Real-time matching",
+            "Reference guide",
+            "Community patterns"
+          ],
+          "useCases": [
+            "Learning regex",
+            "Building patterns",
+            "Teaching"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "community-favorite"
+          ]
+        }
+      ]
+    },
+    "security": {
+      "name": "Security Tools",
+      "description": "SSL checkers, password generators, and security scanners",
+      "icon": "🛡️",
+      "tools": [
+        {
+          "name": "Bitwarden Password Generator",
+          "url": "https://bitwarden.com/password-generator",
+          "description": "Open source password generator with customizable options.",
+          "category": "security",
+          "tags": [
+            "security",
+            "password",
+            "generator"
+          ],
+          "license": "GPL-3.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/bitwarden",
+          "features": [
+            "Custom length",
+            "Character types",
+            "Easy copy"
+          ],
+          "useCases": [
+            "Creating passwords",
+            "Security best practices"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Security Headers",
+          "url": "https://securityheaders.com",
+          "description": "HTTP security headers analysis and grading.",
+          "category": "security",
+          "tags": [
+            "security",
+            "headers",
+            "analysis"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Header scanning",
+            "Grade",
+            "Recommendations"
+          ],
+          "useCases": [
+            "Security hardening",
+            "Compliance checking"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "SSL Labs",
+          "url": "https://www.ssllabs.com/ssltest",
+          "description": "SSL/TLS server configuration test and analysis.",
+          "category": "security",
+          "tags": [
+            "ssl",
+            "tls",
+            "security",
+            "test"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Grade assessment",
+            "Certificate chain",
+            "Cipher details"
+          ],
+          "useCases": [
+            "SSL config testing",
+            "Security auditing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "sql-tools": {
+      "name": "SQL Tools",
+      "description": "SQL editors, formatters, generators, and playgrounds",
+      "icon": "🗄️",
+      "tools": [
+        {
+          "name": "DB Fiddle",
+          "url": "https://www.db-fiddle.com",
+          "description": "SQL database playground with multiple engines.",
+          "category": "sql-tools",
+          "tags": [
+            "sql",
+            "playground",
+            "database"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "MySQL/PostgreSQL/SQLite",
+            "Schema sharing",
+            "Bookmarking"
+          ],
+          "useCases": [
+            "SQL testing",
+            "Query optimization"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "SQL Format",
+          "url": "https://sqlformat.org",
+          "description": "Online SQL formatter with customization options.",
+          "category": "sql-tools",
+          "tags": [
+            "sql",
+            "formatter",
+            "beautifier"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "Indentation control",
+            "Upper/lower case",
+            "Keywords"
+          ],
+          "useCases": [
+            "Formatting SQL",
+            "Code review"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "SQLite Online",
+          "url": "https://sqliteonline.com",
+          "description": "Online SQLite editor and database viewer.",
+          "category": "sql-tools",
+          "tags": [
+            "sql",
+            "sqlite",
+            "editor"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "CSV import",
+            "SQL execution",
+            "Export"
+          ],
+          "useCases": [
+            "Working with SQLite",
+            "Data analysis"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "system-design": {
+      "name": "System Design Tools",
+      "description": "Architecture and system design diagram tools",
+      "icon": "📐",
+      "tools": [
+        {
+          "name": "Draw.io",
+          "url": "https://app.diagrams.net",
+          "description": "Free diagram editor for system diagrams.",
+          "category": "system-design",
+          "tags": [
+            "diagram",
+            "editor",
+            "flowchart"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/jgraph/drawio",
+          "features": [
+            "Templates",
+            "Integration",
+            "Export"
+          ],
+          "useCases": [
+            "System diagrams",
+            "Flowcharts",
+            "UML"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com",
+          "description": "Virtual whiteboard for architecture diagrams.",
+          "category": "system-design",
+          "tags": [
+            "diagram",
+            "whiteboard",
+            "architecture"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/excalidraw/excalidraw",
+          "features": [
+            "Hand-drawn style",
+            "Collaboration",
+            "Export"
+          ],
+          "useCases": [
+            "Architecture diagrams",
+            "System design",
+            "Whiteboarding"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "Mermaid Live Editor",
+          "url": "https://mermaid.live",
+          "description": "Generate diagrams from Markdown-like text.",
+          "category": "system-design",
+          "tags": [
+            "diagram",
+            "mermaid",
+            "markdown"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/mermaid-js/mermaid-live-editor",
+          "features": [
+            "Flowcharts",
+            "Sequence",
+            "Gantt",
+            "GitGraph"
+          ],
+          "useCases": [
+            "Documentation diagrams",
+            "Architecture"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        }
+      ]
+    },
+    "terraform-tools": {
+      "name": "Terraform Tools",
+      "description": "Terraform helpers, plan viewers, and registry tools",
+      "icon": "🏗️",
+      "tools": [
+        {
+          "name": "Infracost",
+          "url": "https://www.infracost.io",
+          "description": "Terraform cost estimation and management.",
+          "category": "terraform-tools",
+          "tags": [
+            "terraform",
+            "cost",
+            "estimation"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/infracost/infracost",
+          "features": [
+            "Cost breakdown",
+            "Diff",
+            "CI integration"
+          ],
+          "useCases": [
+            "Cloud cost estimation",
+            "FinOps"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "cli",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Terraform Registry",
+          "url": "https://registry.terraform.io",
+          "description": "Official Terraform provider and module registry.",
+          "category": "terraform-tools",
+          "tags": [
+            "terraform",
+            "registry",
+            "modules"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Provider search",
+            "Module browsing",
+            "Documentation"
+          ],
+          "useCases": [
+            "Finding modules",
+            "Provider docs"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "testing-tools": {
+      "name": "Testing Tools",
+      "description": "Testing utilities, playgrounds, and auditing tools",
+      "icon": "🧪",
+      "tools": [
+        {
+          "name": "Lighthouse",
+          "url": "https://developer.chrome.com/docs/lighthouse",
+          "description": "Google's web page auditing tool for performance, SEO, and accessibility.",
+          "category": "testing-tools",
+          "tags": [
+            "testing",
+            "performance",
+            "seo",
+            "accessibility"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/GoogleChrome/lighthouse",
+          "features": [
+            "Performance audit",
+            "Accessibility check",
+            "SEO audit",
+            "PWA check"
+          ],
+          "useCases": [
+            "Web performance",
+            "Quality assurance"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev",
+          "description": "Google's page speed analysis tool.",
+          "category": "testing-tools",
+          "tags": [
+            "performance",
+            "speed",
+            "analysis"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Lab data",
+            "Field data",
+            "Recommendations"
+          ],
+          "useCases": [
+            "Performance monitoring",
+            "Optimization"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "text-tools": {
+      "name": "Text Tools",
+      "description": "Text utilities, counters, diff, and manipulation tools",
+      "icon": "✏️",
+      "tools": [
+        {
+          "name": "Convert Case",
+          "url": "https://convertcase.net",
+          "description": "Convert text between different letter cases.",
+          "category": "text-tools",
+          "tags": [
+            "text",
+            "case",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Multiple cases",
+            "Copy to clipboard"
+          ],
+          "useCases": [
+            "Text formatting",
+            "Data normalization"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Diff Checker",
+          "url": "https://www.diffchecker.com",
+          "description": "Online text diff tool for comparing text and files.",
+          "category": "text-tools",
+          "tags": [
+            "diff",
+            "text",
+            "comparison"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Side-by-side",
+            "Inline diff",
+            "File upload"
+          ],
+          "useCases": [
+            "Code comparison",
+            "Document comparison"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "Text Mechanic",
+          "url": "https://textmechanic.com",
+          "description": "Collection of text manipulation tools.",
+          "category": "text-tools",
+          "tags": [
+            "text",
+            "manipulation",
+            "tools"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Remove duplicates",
+            "Sort text",
+            "Generate text"
+          ],
+          "useCases": [
+            "Text processing",
+            "Data cleaning"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "typescript-tools": {
+      "name": "TypeScript Tools",
+      "description": "TypeScript playgrounds, compilers, and type checkers",
+      "icon": "📘",
+      "tools": [
+        {
+          "name": "Total TypeScript Playground",
+          "url": "https://www.totaltypescript.com/playground",
+          "description": "TypeScript type challenges playground.",
+          "category": "typescript-tools",
+          "tags": [
+            "typescript",
+            "playground",
+            "types"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Type challenges",
+            "Error visualization"
+          ],
+          "useCases": [
+            "Learning advanced types",
+            "Practice"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "TypeScript Playground",
+          "url": "https://www.typescriptlang.org/play",
+          "description": "Official TypeScript playground with compiler options.",
+          "category": "typescript-tools",
+          "tags": [
+            "typescript",
+            "playground",
+            "compiler"
+          ],
+          "license": "Apache-2.0",
+          "pricing": "free",
+          "opensource": true,
+          "github": "https://github.com/microsoft/TypeScript",
+          "features": [
+            "Compiler options",
+            "Error checking",
+            "TS config"
+          ],
+          "useCases": [
+            "Testing TS code",
+            "Learning TypeScript"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "uuid-generators": {
+      "name": "UUID Generators",
+      "description": "UUID/GUID generators for all versions",
+      "icon": "🆔",
+      "tools": [
+        {
+          "name": "UUID Generator",
+          "url": "https://www.uuidgenerator.net",
+          "description": "UUID/GUID generator supporting versions 1, 3, 4, and 5.",
+          "category": "uuid-generators",
+          "tags": [
+            "uuid",
+            "guid",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Multiple versions",
+            "Bulk generation",
+            "Copy to clipboard"
+          ],
+          "useCases": [
+            "Database keys",
+            "Unique identifiers"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "UUID Tools",
+          "url": "https://www.uuidtools.com",
+          "description": "UUID generation and validation tools.",
+          "category": "uuid-generators",
+          "tags": [
+            "uuid",
+            "tools",
+            "validation"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Generation",
+            "Validation",
+            "Decoding"
+          ],
+          "useCases": [
+            "UUID creation",
+            "Timestamp extraction from UUIDv1"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "validators": {
+      "name": "Validators",
+      "description": "Code and data validators for multiple formats",
+      "icon": "✅",
+      "tools": [
+        {
+          "name": "GTmetrix",
+          "url": "https://gtmetrix.com",
+          "description": "Website performance testing and monitoring.",
+          "category": "validators",
+          "tags": [
+            "performance",
+            "testing",
+            "optimization"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "PageSpeed analysis",
+            "Waterfall chart",
+            "Recommendations"
+          ],
+          "useCases": [
+            "Performance optimization",
+            "Web auditing"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "W3C Validator",
+          "url": "https://validator.w3.org",
+          "description": "Official W3C HTML and CSS validator.",
+          "category": "validators",
+          "tags": [
+            "html",
+            "css",
+            "validator",
+            "w3c"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "HTML checking",
+            "CSS checking",
+            "Standards"
+          ],
+          "useCases": [
+            "Web standards compliance",
+            "Quality assurance"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
+        }
+      ]
+    },
+    "xml-tools": {
+      "name": "XML Tools",
+      "description": "XML editors, formatters, validators, and converters",
+      "icon": "📄",
+      "tools": [
+        {
+          "name": "Code Beautify XML Viewer",
+          "url": "https://codebeautify.org/xmlviewer",
+          "description": "XML viewer and formatter with tree display.",
+          "category": "xml-tools",
+          "tags": [
+            "xml",
+            "viewer",
+            "formatter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Tree view",
+            "CSV conversion",
+            "JSON conversion"
+          ],
+          "useCases": [
+            "Viewing XML data",
+            "Converting XML formats"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML Formatter",
+          "url": "https://xmlformatter.org",
+          "description": "XML formatter, beautifier, and validator.",
+          "category": "xml-tools",
+          "tags": [
+            "xml",
+            "formatter",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Formatting",
+            "Minification",
+            "Tree view"
+          ],
+          "useCases": [
+            "Formatting XML files",
+            "Debugging XML"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML to JSON Converter",
+          "url": "https://www.convertjson.com/xml-to-json.htm",
+          "description": "Convert XML documents to JSON format.",
+          "category": "xml-tools",
+          "tags": [
+            "xml",
+            "json",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "XML to JSON",
+            "JSON to XML",
+            "Syntax highlighting"
+          ],
+          "useCases": [
+            "Data format conversion",
+            "API integration"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    },
+    "yaml-tools": {
+      "name": "YAML Tools",
+      "description": "YAML parsers, validators, converters, and formatters",
+      "icon": "📐",
+      "tools": [
+        {
+          "name": "YAML Checker",
+          "url": "https://yamlchecker.com",
+          "description": "YAML syntax checker and validator.",
+          "category": "yaml-tools",
+          "tags": [
+            "yaml",
+            "checker",
+            "syntax"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Syntax checking",
+            "JSON conversion"
+          ],
+          "useCases": [
+            "Debugging YAML",
+            "Config file validation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML Lint",
+          "url": "https://www.yamllint.com",
+          "description": "YAML validator and linter with syntax checking.",
+          "category": "yaml-tools",
+          "tags": [
+            "yaml",
+            "validator",
+            "linter"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [
+            "YAML validation",
+            "Error messages",
+            "Auto-fix"
+          ],
+          "useCases": [
+            "Validating YAML files",
+            "CI/CD pipeline configs"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "YAML to JSON Converter",
+          "url": "https://www.convertjson.com/yaml-to-json.htm",
+          "description": "Convert between YAML and JSON formats.",
+          "category": "yaml-tools",
+          "tags": [
+            "yaml",
+            "json",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "YAML to JSON",
+            "JSON to YAML"
+          ],
+          "useCases": [
+            "Config migration",
+            "Data transformation"
+          ],
+          "lastUpdated": "2024-06-01",
+          "badges": [
+            "browser-based"
+          ]
+        }
+      ]
+    }
+  }
+}

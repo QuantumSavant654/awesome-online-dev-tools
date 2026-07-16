@@ -1,0 +1,35 @@
+name: Generate Search Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "awesome-list.json"
+  workflow_dispatch:
+
+jobs:
+  generate-index:
+    name: Generate Search Index
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate search index
+        run: npm run generate:index
+
+      - name: Generate category pages
+        run: npm run generate:categories
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update search index and category pages"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"

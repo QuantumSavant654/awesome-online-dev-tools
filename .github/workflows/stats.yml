@@ -1,0 +1,36 @@
+name: Update Statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Weekly on Sunday
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    name: Generate Statistics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate statistics
+        run: npm run stats
+
+      - name: Check for dead links
+        run: npm run check:links
+
+      - name: Generate README
+        run: npm run generate:readme
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update statistics and fix dead links"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"

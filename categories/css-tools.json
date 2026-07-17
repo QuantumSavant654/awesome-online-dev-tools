@@ -18,6 +18,46 @@
       "opensource": true
     },
     {
+      "name": "Autoprefixer CSS Online",
+      "url": "https://autoprefixer.github.io",
+      "description": "Add vendor prefixes to CSS for cross-browser support.",
+      "tags": [
+        "css",
+        "autoprefixer",
+        "prefixes"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Blob Maker",
+      "url": "https://blobmaker.app",
+      "description": "Generate organic SVG blob shapes for CSS backgrounds.",
+      "tags": [
+        "css",
+        "svg",
+        "blob",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Can I Use",
+      "url": "https://caniuse.com",
+      "description": "Check CSS and HTML browser support across all major browsers.",
+      "tags": [
+        "css",
+        "browser",
+        "compatibility"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Code Beautify CSS Tools",
       "url": "https://codebeautify.org/css-tools",
       "description": "CSS formatters, generators, and validators.",
@@ -76,6 +116,19 @@
       "tags": [
         "css",
         "gradient",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "CSS Grid Generator",
+      "url": "https://cssgridgenerator.io",
+      "description": "Generate CSS Grid layouts visually.",
+      "tags": [
+        "css",
+        "grid",
         "generator"
       ],
       "license": "Proprietary",
@@ -150,6 +203,19 @@
       "opensource": false
     },
     {
+      "name": "CSS Stats",
+      "url": "https://cssstats.com",
+      "description": "Analyze and visualize CSS stylesheets.",
+      "tags": [
+        "css",
+        "analytics",
+        "stats"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "CSS Tools Hub",
       "url": "https://langstop.com/tools/css",
       "description": "Browse all CSS tools.",
@@ -189,6 +255,46 @@
       "opensource": false
     },
     {
+      "name": "Fancy Border Radius",
+      "url": "https://9elements.github.io/fancy-border-radius",
+      "description": "Create organic border-radius shapes visually.",
+      "tags": [
+        "css",
+        "border-radius",
+        "generator"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
+      "name": "Get Waves",
+      "url": "https://getwaves.io",
+      "description": "Create SVG waves for CSS layouts and section dividers.",
+      "tags": [
+        "css",
+        "svg",
+        "waves",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Glassmorphism",
+      "url": "https://glassmorphism.com",
+      "description": "Generate glassmorphism CSS effects for modern UI design.",
+      "tags": [
+        "css",
+        "glassmorphism",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "LESS Formatter",
       "url": "https://langstop.com/less-formatter",
       "description": "Format and beautify LESS code.",
@@ -209,6 +315,19 @@
         "less",
         "css",
         "compiler"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Neumorphism",
+      "url": "https://neumorphism.io",
+      "description": "Generate soft-ui CSS code with neumorphic design.",
+      "tags": [
+        "css",
+        "neumorphism",
+        "generator"
       ],
       "license": "Proprietary",
       "pricing": "free",

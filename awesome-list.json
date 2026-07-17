@@ -762,6 +762,48 @@
           ]
         },
         {
+          "name": "Configu",
+          "url": "https://configu.com",
+          "description": "Config management platform for JSON, YAML, XML, and env files.",
+          "category": "config-tools",
+          "tags": [
+            "config",
+            "management",
+            "yaml",
+            "json"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Dotenv Editor",
+          "url": "https://dotenvx.com",
+          "description": "Manage and validate .env configuration files.",
+          "category": "config-tools",
+          "tags": [
+            "env",
+            "dotenv",
+            "configuration"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
           "name": "ENV to JSON",
           "url": "https://langstop.com/env-to-json",
           "description": "Convert .env to JSON.",
@@ -879,6 +921,27 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Crack",
+          "url": "https://jsoncrack.com",
+          "description": "Visualize JSON and config structures as interactive graphs.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "visualizer",
+            "graph"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         },
         {
@@ -1140,6 +1203,75 @@
           ]
         },
         {
+          "name": "Autoprefixer CSS Online",
+          "url": "https://autoprefixer.github.io",
+          "description": "Add vendor prefixes to CSS for cross-browser support.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "autoprefixer",
+            "prefixes"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Blob Maker",
+          "url": "https://blobmaker.app",
+          "description": "Generate organic SVG blob shapes for CSS backgrounds.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "svg",
+            "blob",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "Can I Use",
+          "url": "https://caniuse.com",
+          "description": "Check CSS and HTML browser support across all major browsers.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "browser",
+            "compatibility"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Browser support tables",
+            "Usage stats"
+          ],
+          "useCases": [
+            "CSS compatibility checking"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "Code Beautify CSS Tools",
           "url": "https://codebeautify.org/css-tools",
           "description": "CSS formatters, generators, and validators.",
@@ -1250,6 +1382,27 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "CSS Grid Generator",
+          "url": "https://cssgridgenerator.io",
+          "description": "Generate CSS Grid layouts visually.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "grid",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         },
         {
@@ -1377,6 +1530,26 @@
           ]
         },
         {
+          "name": "CSS Stats",
+          "url": "https://cssstats.com",
+          "description": "Analyze and visualize CSS stylesheets.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "analytics",
+            "stats"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "CSS Tools Hub",
           "url": "https://langstop.com/tools/css",
           "description": "Browse all CSS tools.",
@@ -1450,6 +1623,70 @@
           ]
         },
         {
+          "name": "Fancy Border Radius",
+          "url": "https://9elements.github.io/fancy-border-radius",
+          "description": "Create organic border-radius shapes visually.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "border-radius",
+            "generator"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "open-source"
+          ]
+        },
+        {
+          "name": "Get Waves",
+          "url": "https://getwaves.io",
+          "description": "Create SVG waves for CSS layouts and section dividers.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "svg",
+            "waves",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
+          "name": "Glassmorphism",
+          "url": "https://glassmorphism.com",
+          "description": "Generate glassmorphism CSS effects for modern UI design.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "glassmorphism",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "LESS Formatter",
           "url": "https://langstop.com/less-formatter",
           "description": "Format and beautify LESS code.",
@@ -1495,6 +1732,27 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "Neumorphism",
+          "url": "https://neumorphism.io",
+          "description": "Generate soft-ui CSS code with neumorphic design.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "neumorphism",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         },
         {
@@ -2269,6 +2527,27 @@
           ]
         },
         {
+          "name": "Code Formatter",
+          "url": "https://codeformatter.com",
+          "description": "Multi-language online code formatter and beautifier.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "beautifier",
+            "code"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "Dart Formatter",
           "url": "https://langstop.com/formatters/dart-formatter",
           "description": "Format Dart code.",
@@ -2474,6 +2753,27 @@
           ]
         },
         {
+          "name": "Online Formatter",
+          "url": "https://format.kelvin.mu",
+          "description": "Simple multi-language code formatter with offline support.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "beautifier",
+            "offline"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "PHP Formatter",
           "url": "https://langstop.com/formatters/php-formatter",
           "description": "Format PHP code.",
@@ -2517,6 +2817,29 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "Prettier Playground",
+          "url": "https://prettier.io/playground",
+          "description": "Opinionated code formatter supporting JavaScript, TypeScript, CSS, and more.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "javascript",
+            "typescript",
+            "css"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
           ]
         },
         {
@@ -2632,6 +2955,27 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
+          ]
+        },
+        {
+          "name": "TutorialsPoint Online Code Formatter",
+          "url": "https://www.tutorialspoint.com/online_code_formatter.php",
+          "description": "Online code formatter for multiple programming languages.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "code",
+            "multi-language"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
           ]
         }
       ]

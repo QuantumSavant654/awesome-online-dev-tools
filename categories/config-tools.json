@@ -31,6 +31,33 @@
       "opensource": false
     },
     {
+      "name": "Configu",
+      "url": "https://configu.com",
+      "description": "Config management platform for JSON, YAML, XML, and env files.",
+      "tags": [
+        "config",
+        "management",
+        "yaml",
+        "json"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Dotenv Editor",
+      "url": "https://dotenvx.com",
+      "description": "Manage and validate .env configuration files.",
+      "tags": [
+        "env",
+        "dotenv",
+        "configuration"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
+    },
+    {
       "name": "ENV to JSON",
       "url": "https://langstop.com/env-to-json",
       "description": "Convert .env to JSON.",
@@ -103,6 +130,19 @@
         "java",
         "properties",
         "yaml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Crack",
+      "url": "https://jsoncrack.com",
+      "description": "Visualize JSON and config structures as interactive graphs.",
+      "tags": [
+        "json",
+        "visualizer",
+        "graph"
       ],
       "license": "Proprietary",
       "pricing": "free",

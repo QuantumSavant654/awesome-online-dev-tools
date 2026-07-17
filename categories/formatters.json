@@ -41,6 +41,19 @@
       "opensource": false
     },
     {
+      "name": "Code Formatter",
+      "url": "https://codeformatter.com",
+      "description": "Multi-language online code formatter and beautifier.",
+      "tags": [
+        "formatter",
+        "beautifier",
+        "code"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Dart Formatter",
       "url": "https://langstop.com/formatters/dart-formatter",
       "description": "Format Dart code.",
@@ -151,6 +164,19 @@
       "opensource": false
     },
     {
+      "name": "Online Formatter",
+      "url": "https://format.kelvin.mu",
+      "description": "Simple multi-language code formatter with offline support.",
+      "tags": [
+        "formatter",
+        "beautifier",
+        "offline"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "PHP Formatter",
       "url": "https://langstop.com/formatters/php-formatter",
       "description": "Format PHP code.",
@@ -173,6 +199,20 @@
       "license": "Proprietary",
       "pricing": "free",
       "opensource": false
+    },
+    {
+      "name": "Prettier Playground",
+      "url": "https://prettier.io/playground",
+      "description": "Opinionated code formatter supporting JavaScript, TypeScript, CSS, and more.",
+      "tags": [
+        "formatter",
+        "javascript",
+        "typescript",
+        "css"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
     },
     {
       "name": "Python Formatter",
@@ -229,6 +269,19 @@
       "tags": [
         "swift",
         "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "TutorialsPoint Online Code Formatter",
+      "url": "https://www.tutorialspoint.com/online_code_formatter.php",
+      "description": "Online code formatter for multiple programming languages.",
+      "tags": [
+        "formatter",
+        "code",
+        "multi-language"
       ],
       "license": "Proprietary",
       "pricing": "free",

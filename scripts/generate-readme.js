@@ -18,12 +18,13 @@ const slugify = (str) =>
 
 const now = new Date().toISOString().slice(0, 10);
 
-// Compute stats from data
+// Compute stats and per-category tool counts
 let totalTools = 0;
 let openSourceCount = 0;
 let privacyFirstCount = 0;
 let aiToolsCount = 0;
 let offlineCount = 0;
+const catToolCounts = {};
 for (const cat of Object.values(categories)) {
   if (!cat.tools) continue;
   for (const tool of cat.tools) {
@@ -36,6 +37,12 @@ for (const cat of Object.values(categories)) {
 }
 const openSourcePct = totalTools > 0 ? Math.round((openSourceCount / totalTools) * 100) : 0;
 const privacyFirstPct = totalTools > 0 ? Math.round((privacyFirstCount / totalTools) * 100) : 0;
+
+// Per-category tool counts
+for (const key of catKeys) {
+  const cat = categories[key];
+  catToolCounts[key] = cat.tools ? cat.tools.length : 0;
+}
 
 function progressBar(pct, size = 16) {
   const filled = Math.round((pct / 100) * size);
@@ -97,7 +104,8 @@ for (const letter of letters) {
   for (const { key, name } of grouped[letter]) {
     const icon = categoryIcon(key);
     const anchor = slugify(name);
-    md += `- ${icon} [${name}](#${anchor})\n`;
+    const count = catToolCounts[key] || 0;
+    md += `- ${icon} [${name}](#${anchor}) — ${count} tool${count !== 1 ? "s" : ""}\n`;
   }
   md += `\n`;
 }
@@ -145,7 +153,17 @@ for (const key of catKeys) {
     if (t.pricing && t.pricing !== "free")
       badges.push(`\`${t.pricing}\``);
     const badgeStr = badges.length ? " " + badges.join(" ") : "";
-    md += `- 🌐 [**${t.name}**](${t.url}) — ${t.description}${badgeStr}\n`;
+    // Show tags as inline code snippets (up to 3)
+    const tagStr =
+      t.tags && t.tags.length > 0
+        ? " " + t.tags.slice(0, 3).map((tag) => `\`${tag}\``).join(" ")
+        : "";
+    // Show features when available (up to 2)
+    const featureStr =
+      t.features && t.features.length > 0
+        ? " ✦ " + t.features.slice(0, 2).join(", ")
+        : "";
+    md += `- 🌐 [**${t.name}**](${t.url}) — ${t.description}${featureStr}${tagStr}${badgeStr}\n`;
   }
   md += `\n⬆️ [Back to Top](#table-of-contents)\n\n---\n\n`;
 }

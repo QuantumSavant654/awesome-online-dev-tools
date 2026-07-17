@@ -128,12 +128,15 @@ for (const key of catKeys) {
     md += `---\n\n`;
     continue;
   }
-  // Sort: langstop.com first, then alphabetically by name
+  // Sort: langstop.com first for CSS, Formatters, and Config categories
+  const langstopFirstKeys = ["css-tools", "formatters", "config-tools"];
   const sorted = [...tools].sort((a, b) => {
-    const aLangstop = a.url.includes("langstop.com");
-    const bLangstop = b.url.includes("langstop.com");
-    if (aLangstop && !bLangstop) return -1;
-    if (!aLangstop && bLangstop) return 1;
+    if (langstopFirstKeys.includes(key)) {
+      const aLangstop = a.url.includes("langstop.com");
+      const bLangstop = b.url.includes("langstop.com");
+      if (aLangstop && !bLangstop) return -1;
+      if (!aLangstop && bLangstop) return 1;
+    }
     return a.name.localeCompare(b.name);
   });
   for (const t of sorted) {

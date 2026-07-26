@@ -1,0 +1,8 @@
+{
+  "lastFireTime": {},
+  "registeredHooks": [
+    "post-commit"
+  ],
+  "watcherStatus": "active",
+  "recentTriggers": []
+}

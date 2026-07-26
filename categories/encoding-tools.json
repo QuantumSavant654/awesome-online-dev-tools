@@ -5,6 +5,30 @@
   "icon": "🔤",
   "tools": [
     {
+      "name": "Base64 Decoder",
+      "url": "https://langstop.com/base64-decoder",
+      "description": "Decode Base64 to text.",
+      "tags": [
+        "base64",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Base64 Encoder",
+      "url": "https://langstop.com/base64-encoder",
+      "description": "Encode text to Base64.",
+      "tags": [
+        "base64",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Code Beautify Encoding Tools",
       "url": "https://codebeautify.org/escape-unescape-tools",
       "description": "Escape and unescape tools for various formats.",
@@ -12,6 +36,58 @@
         "escape",
         "unescape",
         "encoding"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "HTML Entity Decoder",
+      "url": "https://langstop.com/html-entity-decoder",
+      "description": "Decode HTML entities to text.",
+      "tags": [
+        "html",
+        "entities",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "HTML Entity Encoder",
+      "url": "https://langstop.com/html-entity-encoder",
+      "description": "Encode HTML special characters.",
+      "tags": [
+        "html",
+        "entities",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON URL Decoder",
+      "url": "https://langstop.com/json-url-decoder",
+      "description": "Decode URL-encoded JSON.",
+      "tags": [
+        "json",
+        "url",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON URL Encoder",
+      "url": "https://langstop.com/json-url-encoder",
+      "description": "Encode JSON to URL-safe strings.",
+      "tags": [
+        "json",
+        "url",
+        "encoder"
       ],
       "license": "Proprietary",
       "pricing": "free",
@@ -38,6 +114,58 @@
         "url",
         "encoder",
         "encoding"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML URL Decoder",
+      "url": "https://langstop.com/xml-url-decoder",
+      "description": "Decode URL-encoded XML.",
+      "tags": [
+        "xml",
+        "url",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML URL Encoder",
+      "url": "https://langstop.com/xml-url-encoder",
+      "description": "Encode XML to URL-safe strings.",
+      "tags": [
+        "xml",
+        "url",
+        "encoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML URL Decoder",
+      "url": "https://langstop.com/yaml-url-decoder",
+      "description": "Decode URL-encoded YAML.",
+      "tags": [
+        "yaml",
+        "url",
+        "decoder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML URL Encoder",
+      "url": "https://langstop.com/yaml-url-encoder",
+      "description": "Encode YAML to URL-safe strings.",
+      "tags": [
+        "yaml",
+        "url",
+        "encoder"
       ],
       "license": "Proprietary",
       "pricing": "free",

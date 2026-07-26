@@ -4,7 +4,7 @@
     "title": "Awesome Online Dev Tools",
     "description": "A curated collection of the best browser-based developer tools",
     "url": "https://github.com/langstop/awesome-online-dev-tools",
-    "totalTools": 423,
+    "totalTools": 437,
     "totalCategories": 48,
     "lastUpdated": "2026-07-16",
     "maintainer": "LangStop"
@@ -265,6 +265,57 @@
           ]
         },
         {
+          "name": "OpenAPI Diff",
+          "url": "https://langstop.com/openapi-diff",
+          "description": "Compare OpenAPI specifications.",
+          "category": "api-tools",
+          "tags": [
+            "openapi",
+            "diff",
+            "compare"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Schema diff",
+            "Breaking changes"
+          ],
+          "useCases": [
+            "Version comparison"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "OpenAPI Editor",
+          "url": "https://langstop.com/openapi-editor",
+          "description": "Design OpenAPI 3.x specs with live preview.",
+          "category": "api-tools",
+          "tags": [
+            "openapi",
+            "editor",
+            "api-spec"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Validation",
+            "YAML/JSON",
+            "Preview"
+          ],
+          "useCases": [
+            "API design"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Postman",
           "url": "https://www.postman.com",
           "description": "API platform for building and testing APIs.",
@@ -283,6 +334,60 @@
           "badges": [
             "browser-based",
             "popular"
+          ]
+        },
+        {
+          "name": "REST API Client",
+          "url": "https://langstop.com/rest-api-client",
+          "description": "Full-featured REST API client in the browser.",
+          "category": "api-tools",
+          "tags": [
+            "api",
+            "client",
+            "rest"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Methods",
+            "Headers",
+            "Body",
+            "Auth"
+          ],
+          "useCases": [
+            "API testing",
+            "Development"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "privacy-first"
+          ]
+        },
+        {
+          "name": "WebSocket Client",
+          "url": "https://langstop.com/websocket-client",
+          "description": "Test WebSocket connections.",
+          "category": "api-tools",
+          "tags": [
+            "websocket",
+            "client",
+            "realtime"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Messages",
+            "Logging"
+          ],
+          "useCases": [
+            "WebSocket testing"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         }
       ]
@@ -549,6 +654,54 @@
             "open-source",
             "offline"
           ]
+        },
+        {
+          "name": "Linux Command Builders",
+          "url": "https://langstop.com/linux-tools",
+          "description": "Visual builders for 25+ Linux commands.",
+          "category": "cli-tools",
+          "tags": [
+            "linux",
+            "command",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Interactive builders",
+            "Copy-ready output"
+          ],
+          "useCases": [
+            "Learning Linux",
+            "Command generation"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "tldr",
+          "url": "https://tldr.sh",
+          "description": "Simplified man pages.",
+          "category": "cli-tools",
+          "tags": [
+            "cheatsheet",
+            "command",
+            "reference"
+          ],
+          "license": "MIT",
+          "pricing": "free",
+          "opensource": true,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "open-source",
+            "popular"
+          ]
         }
       ]
     },
@@ -762,15 +915,13 @@
           ]
         },
         {
-          "name": "Configu",
-          "url": "https://configu.com",
-          "description": "Config management platform for JSON, YAML, XML, and env files.",
+          "name": "Connection String Builder",
+          "url": "https://langstop.com/connection-string-builder",
+          "description": "Build database connection strings.",
           "category": "config-tools",
           "tags": [
-            "config",
-            "management",
-            "yaml",
-            "json"
+            "database",
+            "connection-string"
           ],
           "license": "Proprietary",
           "pricing": "free",
@@ -780,27 +931,6 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
-          ]
-        },
-        {
-          "name": "Dotenv Editor",
-          "url": "https://dotenvx.com",
-          "description": "Manage and validate .env configuration files.",
-          "category": "config-tools",
-          "tags": [
-            "env",
-            "dotenv",
-            "configuration"
-          ],
-          "license": "MIT",
-          "pricing": "free",
-          "opensource": true,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "open-source"
           ]
         },
         {
@@ -924,14 +1054,14 @@
           ]
         },
         {
-          "name": "JSON Crack",
-          "url": "https://jsoncrack.com",
-          "description": "Visualize JSON and config structures as interactive graphs.",
+          "name": "JSON to .env",
+          "url": "https://langstop.com/json-to-env",
+          "description": "Convert JSON to .env format.",
           "category": "config-tools",
           "tags": [
             "json",
-            "visualizer",
-            "graph"
+            "env",
+            "dotenv"
           ],
           "license": "Proprietary",
           "pricing": "free",
@@ -940,8 +1070,127 @@
           "useCases": [],
           "lastUpdated": "2026-07-01",
           "badges": [
-            "browser-based",
-            "popular"
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Bash",
+          "url": "https://langstop.com/json-to-bash",
+          "description": "Convert JSON to Bash exports.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "bash",
+            "shell"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to INI (Python)",
+          "url": "https://langstop.com/json-to-ini",
+          "description": "Convert JSON to Python INI.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "ini",
+            "configparser"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Java Properties",
+          "url": "https://langstop.com/json-to-java-properties",
+          "description": "Convert JSON to Java .properties.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "java",
+            "properties"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to PHP Array",
+          "url": "https://langstop.com/json-to-php-array",
+          "description": "Convert JSON to PHP array.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "php",
+            "array"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to PHP INI",
+          "url": "https://langstop.com/json-to-php-ini",
+          "description": "Convert JSON to PHP INI.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "php",
+            "ini"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Python Dict",
+          "url": "https://langstop.com/json-to-python-dict",
+          "description": "Convert JSON to Python dict.",
+          "category": "config-tools",
+          "tags": [
+            "json",
+            "python",
+            "dict"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         },
         {
@@ -1063,6 +1312,146 @@
           "badges": [
             "browser-based"
           ]
+        },
+        {
+          "name": "YAML to .env",
+          "url": "https://langstop.com/yaml-to-env",
+          "description": "Convert YAML to .env format.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "env",
+            "dotenv"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to Bash",
+          "url": "https://langstop.com/yaml-to-bash",
+          "description": "Convert YAML to Bash exports.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "bash",
+            "shell"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to INI (Python)",
+          "url": "https://langstop.com/yaml-to-ini",
+          "description": "Convert YAML to Python INI.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "ini",
+            "configparser"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to Java Properties",
+          "url": "https://langstop.com/yaml-to-java-properties",
+          "description": "Convert YAML to Java .properties.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "java",
+            "properties"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to PHP Array",
+          "url": "https://langstop.com/yaml-to-php-array",
+          "description": "Convert YAML to PHP array.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "php",
+            "array"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to PHP INI",
+          "url": "https://langstop.com/yaml-to-php-ini",
+          "description": "Convert YAML to PHP INI.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "php",
+            "ini"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to Python Dict",
+          "url": "https://langstop.com/yaml-to-python-dict",
+          "description": "Convert YAML to Python dict.",
+          "category": "config-tools",
+          "tags": [
+            "yaml",
+            "python",
+            "dict"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
         }
       ]
     },
@@ -1091,6 +1480,224 @@
             "browser-based",
             "open-source",
             "popular"
+          ]
+        },
+        {
+          "name": "CSV to JSON",
+          "url": "https://langstop.com/csv-to-json",
+          "description": "Convert CSV to JSON.",
+          "category": "converters",
+          "tags": [
+            "csv",
+            "json",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "CSV to YAML",
+          "url": "https://langstop.com/csv-to-yaml",
+          "description": "Convert CSV to YAML.",
+          "category": "converters",
+          "tags": [
+            "csv",
+            "yaml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to .env",
+          "url": "https://langstop.com/json-to-env",
+          "description": "Convert JSON to .env format.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "env"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Bash",
+          "url": "https://langstop.com/json-to-bash",
+          "description": "Convert JSON to Bash export statements.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "bash"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Code",
+          "url": "https://langstop.com/json-to-code",
+          "description": "Convert JSON to code for 22+ languages.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "code-gen"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "ai-powered"
+          ]
+        },
+        {
+          "name": "JSON to CSV",
+          "url": "https://langstop.com/json-to-csv",
+          "description": "Convert JSON to CSV.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "csv",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Java Properties",
+          "url": "https://langstop.com/json-to-java-properties",
+          "description": "Convert JSON to Java .properties.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "java",
+            "properties"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to Python Dict",
+          "url": "https://langstop.com/json-to-python-dict",
+          "description": "Convert JSON to Python dict.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "python",
+            "dict"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to TOML",
+          "url": "https://langstop.com/json-to-toml",
+          "description": "Convert JSON to TOML.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "toml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to XML",
+          "url": "https://langstop.com/json-to-xml",
+          "description": "Convert JSON to XML.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "xml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON to YAML",
+          "url": "https://langstop.com/json-to-yaml",
+          "description": "Convert JSON to YAML.",
+          "category": "converters",
+          "tags": [
+            "json",
+            "yaml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         },
         {
@@ -1173,6 +1780,126 @@
             "browser-based",
             "open-source"
           ]
+        },
+        {
+          "name": "XML to Code",
+          "url": "https://langstop.com/xml-to-code",
+          "description": "Convert XML to code for 22+ languages.",
+          "category": "converters",
+          "tags": [
+            "xml",
+            "code-gen"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "ai-powered"
+          ]
+        },
+        {
+          "name": "XML to JSON",
+          "url": "https://langstop.com/xml-to-json",
+          "description": "Convert XML to JSON.",
+          "category": "converters",
+          "tags": [
+            "xml",
+            "json",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML to YAML",
+          "url": "https://langstop.com/xml-to-yaml",
+          "description": "Convert XML to YAML.",
+          "category": "converters",
+          "tags": [
+            "xml",
+            "yaml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to Code",
+          "url": "https://langstop.com/yaml-to-code",
+          "description": "Convert YAML to code for 22+ languages.",
+          "category": "converters",
+          "tags": [
+            "yaml",
+            "code-gen"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "ai-powered"
+          ]
+        },
+        {
+          "name": "YAML to JSON",
+          "url": "https://langstop.com/yaml-to-json",
+          "description": "Convert YAML to JSON.",
+          "category": "converters",
+          "tags": [
+            "yaml",
+            "json",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to XML",
+          "url": "https://langstop.com/yaml-to-xml",
+          "description": "Convert YAML to XML.",
+          "category": "converters",
+          "tags": [
+            "yaml",
+            "xml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
         }
       ]
     },
@@ -1200,75 +1927,6 @@
           "badges": [
             "browser-based",
             "open-source"
-          ]
-        },
-        {
-          "name": "Autoprefixer CSS Online",
-          "url": "https://autoprefixer.github.io",
-          "description": "Add vendor prefixes to CSS for cross-browser support.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "autoprefixer",
-            "prefixes"
-          ],
-          "license": "MIT",
-          "pricing": "free",
-          "opensource": true,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "open-source"
-          ]
-        },
-        {
-          "name": "Blob Maker",
-          "url": "https://blobmaker.app",
-          "description": "Generate organic SVG blob shapes for CSS backgrounds.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "svg",
-            "blob",
-            "generator"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
-          ]
-        },
-        {
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "Check CSS and HTML browser support across all major browsers.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "browser",
-            "compatibility"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [
-            "Browser support tables",
-            "Usage stats"
-          ],
-          "useCases": [
-            "CSS compatibility checking"
-          ],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
           ]
         },
         {
@@ -1365,6 +2023,30 @@
           ]
         },
         {
+          "name": "CSS Formatter",
+          "url": "https://langstop.com/css-formatter",
+          "description": "CSS beautifier and formatter.",
+          "category": "css-tools",
+          "tags": [
+            "css",
+            "formatter",
+            "beautifier"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Custom indentation"
+          ],
+          "useCases": [
+            "CSS cleanup"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "CSS Gradient",
           "url": "https://cssgradient.io",
           "description": "CSS gradient generator.",
@@ -1382,27 +2064,6 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
-          ]
-        },
-        {
-          "name": "CSS Grid Generator",
-          "url": "https://cssgridgenerator.io",
-          "description": "Generate CSS Grid layouts visually.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "grid",
-            "generator"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
           ]
         },
         {
@@ -1530,26 +2191,6 @@
           ]
         },
         {
-          "name": "CSS Stats",
-          "url": "https://cssstats.com",
-          "description": "Analyze and visualize CSS stylesheets.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "analytics",
-            "stats"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based"
-          ]
-        },
-        {
           "name": "CSS Tools Hub",
           "url": "https://langstop.com/tools/css",
           "description": "Browse all CSS tools.",
@@ -1623,70 +2264,6 @@
           ]
         },
         {
-          "name": "Fancy Border Radius",
-          "url": "https://9elements.github.io/fancy-border-radius",
-          "description": "Create organic border-radius shapes visually.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "border-radius",
-            "generator"
-          ],
-          "license": "MIT",
-          "pricing": "free",
-          "opensource": true,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "open-source"
-          ]
-        },
-        {
-          "name": "Get Waves",
-          "url": "https://getwaves.io",
-          "description": "Create SVG waves for CSS layouts and section dividers.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "svg",
-            "waves",
-            "generator"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
-          ]
-        },
-        {
-          "name": "Glassmorphism",
-          "url": "https://glassmorphism.com",
-          "description": "Generate glassmorphism CSS effects for modern UI design.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "glassmorphism",
-            "generator"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
-          ]
-        },
-        {
           "name": "LESS Formatter",
           "url": "https://langstop.com/less-formatter",
           "description": "Format and beautify LESS code.",
@@ -1732,27 +2309,6 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
-          ]
-        },
-        {
-          "name": "Neumorphism",
-          "url": "https://neumorphism.io",
-          "description": "Generate soft-ui CSS code with neumorphic design.",
-          "category": "css-tools",
-          "tags": [
-            "css",
-            "neumorphism",
-            "generator"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
           ]
         },
         {
@@ -2020,6 +2576,30 @@
           ]
         },
         {
+          "name": "JSON to CSV",
+          "url": "https://langstop.com/json-to-csv",
+          "description": "Convert JSON arrays to CSV.",
+          "category": "csv-tools",
+          "tags": [
+            "json",
+            "csv",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Field mapping"
+          ],
+          "useCases": [
+            "Spreadsheet export"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "TableConvert",
           "url": "https://tableconvert.com",
           "description": "Convert CSV to various table formats.",
@@ -2242,6 +2822,26 @@
           ]
         },
         {
+          "name": "CSS Diff",
+          "url": "https://langstop.com/css-diff",
+          "description": "Compare CSS blocks.",
+          "category": "diff-tools",
+          "tags": [
+            "css",
+            "diff",
+            "compare"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "DiffNow",
           "url": "https://www.diffnow.com",
           "description": "Text and file comparison.",
@@ -2250,6 +2850,26 @@
             "diff",
             "comparison",
             "text"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Diff",
+          "url": "https://langstop.com/json-diff",
+          "description": "Compare two JSON objects structurally.",
+          "category": "diff-tools",
+          "tags": [
+            "json",
+            "diff",
+            "compare"
           ],
           "license": "Proprietary",
           "pricing": "free",
@@ -2280,6 +2900,46 @@
           "badges": [
             "browser-based",
             "open-source"
+          ]
+        },
+        {
+          "name": "OpenAPI Diff",
+          "url": "https://langstop.com/openapi-diff",
+          "description": "Compare OpenAPI specifications.",
+          "category": "diff-tools",
+          "tags": [
+            "openapi",
+            "diff",
+            "compare"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Text Diff",
+          "url": "https://langstop.com/text-diff",
+          "description": "Compare text documents.",
+          "category": "diff-tools",
+          "tags": [
+            "text",
+            "diff",
+            "comparison"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         }
       ]
@@ -2387,6 +3047,52 @@
       "icon": "🔤",
       "tools": [
         {
+          "name": "Base64 Decoder",
+          "url": "https://langstop.com/base64-decoder",
+          "description": "Decode Base64 to text.",
+          "category": "encoding-tools",
+          "tags": [
+            "base64",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Base64 to text"
+          ],
+          "useCases": [
+            "Data decoding"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Base64 Encoder",
+          "url": "https://langstop.com/base64-encoder",
+          "description": "Encode text to Base64.",
+          "category": "encoding-tools",
+          "tags": [
+            "base64",
+            "encoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Text to Base64"
+          ],
+          "useCases": [
+            "Data encoding"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Code Beautify Encoding Tools",
           "url": "https://codebeautify.org/escape-unescape-tools",
           "description": "Escape and unescape tools for various formats.",
@@ -2401,6 +3107,102 @@
           "opensource": false,
           "features": [],
           "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "HTML Entity Decoder",
+          "url": "https://langstop.com/html-entity-decoder",
+          "description": "Decode HTML entities to text.",
+          "category": "encoding-tools",
+          "tags": [
+            "html",
+            "entities",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "All entities"
+          ],
+          "useCases": [
+            "HTML cleanup"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "HTML Entity Encoder",
+          "url": "https://langstop.com/html-entity-encoder",
+          "description": "Encode HTML special characters.",
+          "category": "encoding-tools",
+          "tags": [
+            "html",
+            "entities",
+            "encoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "All entities"
+          ],
+          "useCases": [
+            "XSS prevention"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON URL Decoder",
+          "url": "https://langstop.com/json-url-decoder",
+          "description": "Decode URL-encoded JSON.",
+          "category": "encoding-tools",
+          "tags": [
+            "json",
+            "url",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "URL decoding"
+          ],
+          "useCases": [
+            "Data extraction"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON URL Encoder",
+          "url": "https://langstop.com/json-url-encoder",
+          "description": "Encode JSON to URL-safe strings.",
+          "category": "encoding-tools",
+          "tags": [
+            "json",
+            "url",
+            "encoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Compact encoding"
+          ],
+          "useCases": [
+            "URL parameters"
+          ],
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
@@ -2448,6 +3250,102 @@
           ],
           "useCases": [
             "URL preparation"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML URL Decoder",
+          "url": "https://langstop.com/xml-url-decoder",
+          "description": "Decode URL-encoded XML.",
+          "category": "encoding-tools",
+          "tags": [
+            "xml",
+            "url",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "URL decoding"
+          ],
+          "useCases": [
+            "XML extraction"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML URL Encoder",
+          "url": "https://langstop.com/xml-url-encoder",
+          "description": "Encode XML to URL-safe strings.",
+          "category": "encoding-tools",
+          "tags": [
+            "xml",
+            "url",
+            "encoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "XML encoding"
+          ],
+          "useCases": [
+            "URL embedding"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML URL Decoder",
+          "url": "https://langstop.com/yaml-url-decoder",
+          "description": "Decode URL-encoded YAML.",
+          "category": "encoding-tools",
+          "tags": [
+            "yaml",
+            "url",
+            "decoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "URL decoding"
+          ],
+          "useCases": [
+            "YAML extraction"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML URL Encoder",
+          "url": "https://langstop.com/yaml-url-encoder",
+          "description": "Encode YAML to URL-safe strings.",
+          "category": "encoding-tools",
+          "tags": [
+            "yaml",
+            "url",
+            "encoder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "YAML encoding"
+          ],
+          "useCases": [
+            "URL embedding"
           ],
           "lastUpdated": "2026-07-01",
           "badges": [
@@ -2524,27 +3422,6 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
-          ]
-        },
-        {
-          "name": "Code Formatter",
-          "url": "https://codeformatter.com",
-          "description": "Multi-language online code formatter and beautifier.",
-          "category": "formatters",
-          "tags": [
-            "formatter",
-            "beautifier",
-            "code"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
           ]
         },
         {
@@ -2707,6 +3584,50 @@
           ]
         },
         {
+          "name": "JavaScript Formatter",
+          "url": "https://langstop.com/formatters/javascript-formatter",
+          "description": "Format JavaScript code.",
+          "category": "formatters",
+          "tags": [
+            "javascript",
+            "formatter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "AST-based"
+          ],
+          "useCases": [
+            "Code formatting"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "Multi-language online formatter and beautifier.",
+          "category": "formatters",
+          "tags": [
+            "formatter",
+            "beautifier",
+            "multi-language"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "popular"
+          ]
+        },
+        {
           "name": "Kotlin Formatter",
           "url": "https://langstop.com/formatters/kotlin-formatter",
           "description": "Format Kotlin code.",
@@ -2753,27 +3674,6 @@
           ]
         },
         {
-          "name": "Online Formatter",
-          "url": "https://format.kelvin.mu",
-          "description": "Simple multi-language code formatter with offline support.",
-          "category": "formatters",
-          "tags": [
-            "formatter",
-            "beautifier",
-            "offline"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "popular"
-          ]
-        },
-        {
           "name": "PHP Formatter",
           "url": "https://langstop.com/formatters/php-formatter",
           "description": "Format PHP code.",
@@ -2817,29 +3717,6 @@
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
-          ]
-        },
-        {
-          "name": "Prettier Playground",
-          "url": "https://prettier.io/playground",
-          "description": "Opinionated code formatter supporting JavaScript, TypeScript, CSS, and more.",
-          "category": "formatters",
-          "tags": [
-            "formatter",
-            "javascript",
-            "typescript",
-            "css"
-          ],
-          "license": "MIT",
-          "pricing": "free",
-          "opensource": true,
-          "features": [],
-          "useCases": [],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based",
-            "open-source",
-            "popular"
           ]
         },
         {
@@ -2958,24 +3835,26 @@
           ]
         },
         {
-          "name": "TutorialsPoint Online Code Formatter",
-          "url": "https://www.tutorialspoint.com/online_code_formatter.php",
-          "description": "Online code formatter for multiple programming languages.",
+          "name": "TypeScript Formatter",
+          "url": "https://langstop.com/formatters/typescript-formatter",
+          "description": "Format TypeScript code.",
           "category": "formatters",
           "tags": [
-            "formatter",
-            "code",
-            "multi-language"
+            "typescript",
+            "formatter"
           ],
           "license": "Proprietary",
           "pricing": "free",
           "opensource": false,
-          "features": [],
-          "useCases": [],
+          "features": [
+            "TypeScript support"
+          ],
+          "useCases": [
+            "TS formatting"
+          ],
           "lastUpdated": "2026-07-01",
           "badges": [
-            "browser-based",
-            "popular"
+            "browser-based"
           ]
         }
       ]
@@ -2985,6 +3864,47 @@
       "description": "Code, data, and content generators",
       "icon": "⚙️",
       "tools": [
+        {
+          "name": "AI Prompt Generator",
+          "url": "https://langstop.com/ai-prompt-generator",
+          "description": "Generate AI prompts from templates.",
+          "category": "generators",
+          "tags": [
+            "ai",
+            "prompt",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "ai-powered"
+          ]
+        },
+        {
+          "name": "Code Beautify Password Generator",
+          "url": "https://codebeautify.org/password-generator",
+          "description": "Secure password and random string generator.",
+          "category": "generators",
+          "tags": [
+            "password",
+            "generator",
+            "random"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
         {
           "name": "Code Beautify Random Tools",
           "url": "https://codebeautify.org/random-tools",
@@ -3026,6 +3946,106 @@
           ]
         },
         {
+          "name": "CSV Mock Data Generator",
+          "url": "https://langstop.com/csv-mock-data-generator",
+          "description": "Generate CSV test data.",
+          "category": "generators",
+          "tags": [
+            "csv",
+            "mock",
+            "data"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Mock Data Generator",
+          "url": "https://langstop.com/json-mock-data-generator",
+          "description": "Generate realistic JSON test data.",
+          "category": "generators",
+          "tags": [
+            "json",
+            "mock",
+            "data"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Schema GUI Builder",
+          "url": "https://langstop.com/json-schema-gui-builder",
+          "description": "Build JSON Schema visually.",
+          "category": "generators",
+          "tags": [
+            "json",
+            "schema",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Password Generator",
+          "url": "https://langstop.com/password-generator",
+          "description": "Generate strong passwords.",
+          "category": "generators",
+          "tags": [
+            "password",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "UUID/ULID Generator",
+          "url": "https://langstop.com/uuid-generator",
+          "description": "Generate UUIDs v1-v7, GUIDs, and ULIDs.",
+          "category": "generators",
+          "tags": [
+            "uuid",
+            "ulid",
+            "guid",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "VS Code Snippet Generator",
           "url": "https://langstop.com/vscode-snippet-generator",
           "description": "Create VS Code snippets visually.",
@@ -3046,6 +4066,26 @@
           "useCases": [
             "VS Code snippets"
           ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML Mock Data Generator",
+          "url": "https://langstop.com/xml-mock-data-generator",
+          "description": "Generate XML test data.",
+          "category": "generators",
+          "tags": [
+            "xml",
+            "mock",
+            "data"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
@@ -5007,6 +6047,31 @@
           ]
         },
         {
+          "name": "Chmod Command Builder",
+          "url": "https://langstop.com/linux-tools/chmod-command-builder",
+          "description": "Build chmod permission commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "chmod",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Permission modes",
+            "Recursive"
+          ],
+          "useCases": [
+            "File permissions"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Common Cron Expressions",
           "url": "https://langstop.com/cron-expressions",
           "description": "Browse common cron schedule patterns.",
@@ -5025,6 +6090,31 @@
           ],
           "useCases": [
             "Cron reference"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Cp Command Builder",
+          "url": "https://langstop.com/linux-tools/cp-command-builder",
+          "description": "Build cp file copy commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "cp",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Recursive",
+            "Preserve"
+          ],
+          "useCases": [
+            "File copying"
           ],
           "lastUpdated": "2026-07-01",
           "badges": [
@@ -5060,6 +6150,57 @@
           ]
         },
         {
+          "name": "Crontab Command Builder",
+          "url": "https://langstop.com/linux-tools/crontab-command-builder",
+          "description": "Build crontab scheduling commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "crontab",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Schedule editor",
+            "User"
+          ],
+          "useCases": [
+            "Task scheduling"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Curl Command Builder",
+          "url": "https://langstop.com/linux-tools/curl-command-builder",
+          "description": "Build curl HTTP request commands.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "curl",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Methods",
+            "Headers",
+            "Auth"
+          ],
+          "useCases": [
+            "API testing"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Cut Command Builder",
           "url": "https://langstop.com/linux-tools/cut-command-builder",
           "description": "Build cut field extraction commands.",
@@ -5085,6 +6226,56 @@
           ]
         },
         {
+          "name": "Df Command Builder",
+          "url": "https://langstop.com/linux-tools/df-command-builder",
+          "description": "Build df disk space commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "df",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Human-readable",
+            "Inode"
+          ],
+          "useCases": [
+            "Disk monitoring"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Du Command Builder",
+          "url": "https://langstop.com/linux-tools/du-command-builder",
+          "description": "Build du disk usage commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "du",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Summary",
+            "Human-readable"
+          ],
+          "useCases": [
+            "Disk usage analysis"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "ExplainShell",
           "url": "https://explainshell.com",
           "description": "Explain shell commands.",
@@ -5103,6 +6294,31 @@
           "badges": [
             "browser-based",
             "open-source"
+          ]
+        },
+        {
+          "name": "File Command Builder",
+          "url": "https://langstop.com/linux-tools/file-command-builder",
+          "description": "Build file type detection commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "file",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "MIME type",
+            "Magic numbers"
+          ],
+          "useCases": [
+            "File identification"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         },
         {
@@ -5154,6 +6370,31 @@
           ]
         },
         {
+          "name": "Kill Command Builder",
+          "url": "https://langstop.com/linux-tools/kill-command-builder",
+          "description": "Build kill process commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "kill",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Signals",
+            "Process selection"
+          ],
+          "useCases": [
+            "Process management"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Linux Tools Hub",
           "url": "https://langstop.com/linux-tools",
           "description": "All Linux command builders.",
@@ -5171,30 +6412,6 @@
           ],
           "useCases": [
             "Linux reference"
-          ],
-          "lastUpdated": "2026-07-01",
-          "badges": [
-            "browser-based"
-          ]
-        },
-        {
-          "name": "Locate Command Builder",
-          "url": "https://langstop.com/linux-tools/locate-command-builder",
-          "description": "Build locate file search commands.",
-          "category": "linux-tools",
-          "tags": [
-            "linux",
-            "locate",
-            "builder"
-          ],
-          "license": "Proprietary",
-          "pricing": "free",
-          "opensource": false,
-          "features": [
-            "Pattern search"
-          ],
-          "useCases": [
-            "File finding"
           ],
           "lastUpdated": "2026-07-01",
           "badges": [
@@ -5220,6 +6437,56 @@
           ],
           "useCases": [
             "Linux learning"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Mkdir Command Builder",
+          "url": "https://langstop.com/linux-tools/mkdir-command-builder",
+          "description": "Build mkdir directory commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "mkdir",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Parent creation",
+            "Permissions"
+          ],
+          "useCases": [
+            "Directory creation"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Mv Command Builder",
+          "url": "https://langstop.com/linux-tools/mv-command-builder",
+          "description": "Build mv move/rename commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "mv",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Interactive",
+            "Backup"
+          ],
+          "useCases": [
+            "File moving"
           ],
           "lastUpdated": "2026-07-01",
           "badges": [
@@ -5294,6 +6561,55 @@
           ],
           "useCases": [
             "Process monitoring"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Rm Command Builder",
+          "url": "https://langstop.com/linux-tools/rm-command-builder",
+          "description": "Build rm removal commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "rm",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Recursive",
+            "Force"
+          ],
+          "useCases": [
+            "File deletion"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Rmdir Command Builder",
+          "url": "https://langstop.com/linux-tools/rmdir-command-builder",
+          "description": "Build rmdir directory removal commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "rmdir",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Parent removal"
+          ],
+          "useCases": [
+            "Directory deletion"
           ],
           "lastUpdated": "2026-07-01",
           "badges": [
@@ -5398,6 +6714,31 @@
           ]
         },
         {
+          "name": "Stat Command Builder",
+          "url": "https://langstop.com/linux-tools/stat-command-builder",
+          "description": "Build stat file info commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "stat",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "File info",
+            "Format"
+          ],
+          "useCases": [
+            "File inspection"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Tar Command Builder",
           "url": "https://langstop.com/linux-tools/tar-command-builder",
           "description": "Build tar archive commands.",
@@ -5441,6 +6782,81 @@
             "browser-based",
             "open-source",
             "popular"
+          ]
+        },
+        {
+          "name": "Touch Command Builder",
+          "url": "https://langstop.com/linux-tools/touch-command-builder",
+          "description": "Build touch file creation commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "touch",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Timestamp",
+            "Create"
+          ],
+          "useCases": [
+            "File creation"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Tree Command Builder",
+          "url": "https://langstop.com/linux-tools/tree-command-builder",
+          "description": "Build tree directory listing commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "tree",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Depth control",
+            "Patterns"
+          ],
+          "useCases": [
+            "Directory visualization"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Wget Command Builder",
+          "url": "https://langstop.com/linux-tools/wget-command-builder",
+          "description": "Build wget download commands visually.",
+          "category": "linux-tools",
+          "tags": [
+            "linux",
+            "wget",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Recursive",
+            "Resume"
+          ],
+          "useCases": [
+            "File downloading"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         }
       ]
@@ -5546,6 +6962,26 @@
       "icon": "🎭",
       "tools": [
         {
+          "name": "CSV Mock Data Generator",
+          "url": "https://langstop.com/csv-mock-data-generator",
+          "description": "Generate CSV test data.",
+          "category": "mock-data",
+          "tags": [
+            "csv",
+            "mock",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "JSON Generator",
           "url": "https://www.json-generator.com",
           "description": "Generate JSON from templates.",
@@ -5554,6 +6990,26 @@
             "json",
             "generator",
             "mock"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Mock Data Generator",
+          "url": "https://langstop.com/json-mock-data-generator",
+          "description": "Generate realistic JSON test data.",
+          "category": "mock-data",
+          "tags": [
+            "json",
+            "mock",
+            "generator"
           ],
           "license": "Proprietary",
           "pricing": "free",
@@ -5605,6 +7061,26 @@
           "badges": [
             "desktop",
             "open-source"
+          ]
+        },
+        {
+          "name": "XML Mock Data Generator",
+          "url": "https://langstop.com/xml-mock-data-generator",
+          "description": "Generate XML test data.",
+          "category": "mock-data",
+          "tags": [
+            "xml",
+            "mock",
+            "generator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         }
       ]
@@ -5841,6 +7317,47 @@
       "icon": "📖",
       "tools": [
         {
+          "name": "OpenAPI Diff",
+          "url": "https://langstop.com/openapi-diff",
+          "description": "Compare OpenAPI specifications.",
+          "category": "openapi",
+          "tags": [
+            "openapi",
+            "diff",
+            "compare"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "OpenAPI Editor",
+          "url": "https://langstop.com/openapi-editor",
+          "description": "Design OpenAPI 3.x specs with live preview.",
+          "category": "openapi",
+          "tags": [
+            "openapi",
+            "swagger",
+            "editor"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based",
+            "privacy-first"
+          ]
+        },
+        {
           "name": "Redocly",
           "url": "https://redocly.com/redoc",
           "description": "OpenAPI documentation generator.",
@@ -5933,6 +7450,26 @@
           ]
         },
         {
+          "name": "Markdown Editor",
+          "url": "https://langstop.com/markdown-editor",
+          "description": "Write Markdown with live preview.",
+          "category": "productivity",
+          "tags": [
+            "markdown",
+            "editor",
+            "writing"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Replit",
           "url": "https://replit.com",
           "description": "Online IDE with collaboration.",
@@ -5994,6 +7531,32 @@
           "opensource": false,
           "features": [],
           "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "VS Code Snippet Generator",
+          "url": "https://langstop.com/vscode-snippet-generator",
+          "description": "Create VS Code snippets visually.",
+          "category": "productivity",
+          "tags": [
+            "vscode",
+            "snippet",
+            "productivity"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Visual builder",
+            "Collections",
+            "Export"
+          ],
+          "useCases": [
+            "Snippet management"
+          ],
           "lastUpdated": "2026-07-01",
           "badges": [
             "browser-based"
@@ -6482,6 +8045,25 @@
       "icon": "🧪",
       "tools": [
         {
+          "name": "JSON Validator",
+          "url": "https://langstop.com/json-validator",
+          "description": "Validate JSON documents.",
+          "category": "testing-tools",
+          "tags": [
+            "json",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Lighthouse",
           "url": "https://developer.chrome.com/docs/lighthouse",
           "description": "Web page auditing tool.",
@@ -6522,6 +8104,65 @@
           "badges": [
             "browser-based",
             "popular"
+          ]
+        },
+        {
+          "name": "Regex Tester",
+          "url": "https://langstop.com/regex-tester",
+          "description": "Test and debug regular expressions.",
+          "category": "testing-tools",
+          "tags": [
+            "regex",
+            "testing",
+            "debugger"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "REST API Client",
+          "url": "https://langstop.com/rest-api-client",
+          "description": "Test REST APIs from the browser.",
+          "category": "testing-tools",
+          "tags": [
+            "api",
+            "testing",
+            "rest"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "WebSocket Client",
+          "url": "https://langstop.com/websocket-client",
+          "description": "Test WebSocket connections.",
+          "category": "testing-tools",
+          "tags": [
+            "websocket",
+            "testing"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
           ]
         }
       ]
@@ -6887,6 +8528,55 @@
           ]
         },
         {
+          "name": "Common Cron Expressions",
+          "url": "https://langstop.com/cron-expressions",
+          "description": "Reference for common cron schedules.",
+          "category": "time-tools",
+          "tags": [
+            "cron",
+            "expressions",
+            "reference"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "30+ patterns"
+          ],
+          "useCases": [
+            "Cron reference"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "Cron Helper",
+          "url": "https://langstop.com/cron-helper",
+          "description": "Build and validate cron expressions visually.",
+          "category": "time-tools",
+          "tags": [
+            "cron",
+            "scheduler",
+            "builder"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Next run preview",
+            "Explain"
+          ],
+          "useCases": [
+            "Cron scheduling"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Time Hub",
           "url": "https://langstop.com/tools/time",
           "description": "All time and date tools.",
@@ -6941,6 +8631,26 @@
       "icon": "🔧",
       "tools": [
         {
+          "name": "JSON to TOML",
+          "url": "https://langstop.com/json-to-toml",
+          "description": "Convert JSON to TOML.",
+          "category": "toml-tools",
+          "tags": [
+            "json",
+            "toml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "TOML Formatter",
           "url": "https://jsonformatter.org/toml",
           "description": "Online TOML formatter and validator.",
@@ -6970,6 +8680,106 @@
             "toml",
             "tools",
             "hub"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "TOML to JSON",
+          "url": "https://langstop.com/toml-to-json",
+          "description": "Convert TOML to JSON.",
+          "category": "toml-tools",
+          "tags": [
+            "toml",
+            "json",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "TOML to XML",
+          "url": "https://langstop.com/toml-to-xml",
+          "description": "Convert TOML to XML.",
+          "category": "toml-tools",
+          "tags": [
+            "toml",
+            "xml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "TOML to YAML",
+          "url": "https://langstop.com/toml-to-yaml",
+          "description": "Convert TOML to YAML.",
+          "category": "toml-tools",
+          "tags": [
+            "toml",
+            "yaml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "XML to TOML",
+          "url": "https://langstop.com/xml-to-toml",
+          "description": "Convert XML to TOML.",
+          "category": "toml-tools",
+          "tags": [
+            "xml",
+            "toml",
+            "converter"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML to TOML",
+          "url": "https://langstop.com/yaml-to-toml",
+          "description": "Convert YAML to TOML.",
+          "category": "toml-tools",
+          "tags": [
+            "yaml",
+            "toml",
+            "converter"
           ],
           "license": "Proprietary",
           "pricing": "free",
@@ -7401,6 +9211,44 @@
           ]
         },
         {
+          "name": "CSS Validator",
+          "url": "https://langstop.com/css-validator",
+          "description": "Validate CSS syntax.",
+          "category": "validators",
+          "tags": [
+            "css",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "JSON Validator",
+          "url": "https://langstop.com/json-validator",
+          "description": "Validate JSON syntax in real-time.",
+          "category": "validators",
+          "tags": [
+            "json",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "W3C Validator",
           "url": "https://validator.w3.org",
           "description": "Official W3C HTML validator.",
@@ -7421,6 +9269,44 @@
             "open-source",
             "popular"
           ]
+        },
+        {
+          "name": "XML Validator",
+          "url": "https://langstop.com/xml-validator",
+          "description": "Validate XML well-formedness.",
+          "category": "validators",
+          "tags": [
+            "xml",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "YAML Validator",
+          "url": "https://langstop.com/yaml-validator",
+          "description": "Validate YAML syntax.",
+          "category": "validators",
+          "tags": [
+            "yaml",
+            "validator"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
         }
       ]
     },
@@ -7429,6 +9315,31 @@
       "description": "MCP config generators, data pipelines, and automation tools",
       "icon": "🔧",
       "tools": [
+        {
+          "name": "JSON Pipeline Builder",
+          "url": "https://langstop.com/pipeline-builder",
+          "description": "Compose JSON processing pipelines.",
+          "category": "workflow-tools",
+          "tags": [
+            "json",
+            "pipeline",
+            "workflow"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Multi-step",
+            "Reusable"
+          ],
+          "useCases": [
+            "Data processing"
+          ],
+          "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
         {
           "name": "MCP Config Generator",
           "url": "https://langstop.com/mcp-generator",

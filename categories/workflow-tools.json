@@ -5,6 +5,19 @@
   "icon": "🔧",
   "tools": [
     {
+      "name": "JSON Pipeline Builder",
+      "url": "https://langstop.com/pipeline-builder",
+      "description": "Compose JSON processing pipelines.",
+      "tags": [
+        "json",
+        "pipeline",
+        "workflow"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "MCP Config Generator",
       "url": "https://langstop.com/mcp-generator",
       "description": "Generate MCP server configuration files.",

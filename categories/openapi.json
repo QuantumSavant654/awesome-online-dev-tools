@@ -5,6 +5,32 @@
   "icon": "📖",
   "tools": [
     {
+      "name": "OpenAPI Diff",
+      "url": "https://langstop.com/openapi-diff",
+      "description": "Compare OpenAPI specifications.",
+      "tags": [
+        "openapi",
+        "diff",
+        "compare"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "OpenAPI Editor",
+      "url": "https://langstop.com/openapi-editor",
+      "description": "Design OpenAPI 3.x specs with live preview.",
+      "tags": [
+        "openapi",
+        "swagger",
+        "editor"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Redocly",
       "url": "https://redocly.com/redoc",
       "description": "OpenAPI documentation generator.",

@@ -16,6 +16,32 @@
       "license": "MIT",
       "pricing": "free",
       "opensource": true
+    },
+    {
+      "name": "Linux Command Builders",
+      "url": "https://langstop.com/linux-tools",
+      "description": "Visual builders for 25+ Linux commands.",
+      "tags": [
+        "linux",
+        "command",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "tldr",
+      "url": "https://tldr.sh",
+      "description": "Simplified man pages.",
+      "tags": [
+        "cheatsheet",
+        "command",
+        "reference"
+      ],
+      "license": "MIT",
+      "pricing": "free",
+      "opensource": true
     }
   ]
 }

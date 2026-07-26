@@ -9,12 +9,12 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/QuantumSavant654/awesome-online-dev-tools)](https://github.com/QuantumSavant654/awesome-online-dev-tools/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/QuantumSavant654/awesome-online-dev-tools?style=social)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Tools](https://img.shields.io/badge/tools-349-blue)](#statistics)
+[![Tools](https://img.shields.io/badge/tools-437-blue)](#statistics)
 [![Categories](https://img.shields.io/badge/categories-48-green)](#statistics)
-[![Open Source](https://img.shields.io/badge/open_source-15%25-success)](#statistics)
+[![Open Source](https://img.shields.io/badge/open_source-11%25-success)](#statistics)
 [![Validate](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml/badge.svg)](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml)
 
-🔍 **Tip:** Use <kbd>Ctrl+F</kbd> to search across all **349** tools, or browse the [search index](search-index.json).
+🔍 **Tip:** Use <kbd>Ctrl+F</kbd> to search across all **437** tools, or browse the [search index](search-index.json).
 
 </div>
 
@@ -48,7 +48,7 @@
 ### A
 
 - 🤖 [AI Tools](#ai-tools) — 6 tools
-- 🔌 [API Tools](#api-tools) — 5 tools
+- 🔌 [API Tools](#api-tools) — 9 tools
 
 ### B
 
@@ -57,34 +57,34 @@
 ### C
 
 - 🔄 [CI/CD Tools](#ci-cd-tools) — 3 tools
-- 💻 [CLI Tools](#cli-tools) — 1 tool
+- 💻 [CLI Tools](#cli-tools) — 3 tools
 - ☁️ [Cloud Tools](#cloud-tools) — 3 tools
 - 🎨 [Color Tools](#color-tools) — 4 tools
-- ⚙️ [Configuration Tools](#configuration-tools) — 17 tools
-- 🔄 [Converters](#converters) — 5 tools
-- 💅 [CSS Tools](#css-tools) — 29 tools
-- 📊 [CSV Tools](#csv-tools) — 8 tools
+- ⚙️ [Configuration Tools](#configuration-tools) — 29 tools
+- 🔄 [Converters](#converters) — 22 tools
+- 💅 [CSS Tools](#css-tools) — 21 tools
+- 📊 [CSV Tools](#csv-tools) — 9 tools
 
 ### D
 
 - 🗄️ [Database Tools](#database-tools) — 5 tools
 - 🔄 [DevOps Tools](#devops-tools) — 2 tools
-- 🔀 [Diff Tools](#diff-tools) — 3 tools
+- 🔀 [Diff Tools](#diff-tools) — 7 tools
 - 🐳 [Docker Tools](#docker-tools) — 1 tool
 - 📚 [Documentation Tools](#documentation-tools) — 3 tools
-- ⚡ [Developer Productivity](#developer-productivity) — 4 tools
+- ⚡ [Developer Productivity](#developer-productivity) — 6 tools
 
 ### E
 
-- 🔤 [Encoding Tools](#encoding-tools) — 3 tools
+- 🔤 [Encoding Tools](#encoding-tools) — 13 tools
 
 ### F
 
-- ✨ [Formatters](#formatters) — 23 tools
+- ✨ [Formatters](#formatters) — 22 tools
 
 ### G
 
-- ⚙️ [Generators](#generators) — 3 tools
+- ⚙️ [Generators](#generators) — 11 tools
 - 🔀 [Git Tools](#git-tools) — 3 tools
 - ◈ [GraphQL Tools](#graphql-tools) — 3 tools
 
@@ -109,12 +109,12 @@
 
 ### L
 
-- 🐧 [Linux Tools](#linux-tools) — 20 tools
+- 🐧 [Linux Tools](#linux-tools) — 35 tools
 
 ### M
 
 - 📝 [Markdown Tools](#markdown-tools) — 4 tools
-- 🎭 [Mock Data Generators](#mock-data-generators) — 3 tools
+- 🎭 [Mock Data Generators](#mock-data-generators) — 6 tools
 
 ### N
 
@@ -122,7 +122,7 @@
 
 ### O
 
-- 📖 [OpenAPI Tools](#openapi-tools) — 3 tools
+- 📖 [OpenAPI Tools](#openapi-tools) — 5 tools
 
 ### R
 
@@ -136,10 +136,10 @@
 
 ### T
 
-- 🧪 [Testing Tools](#testing-tools) — 2 tools
+- 🧪 [Testing Tools](#testing-tools) — 6 tools
 - ✏️ [Text Tools](#text-tools) — 14 tools
-- ⏰ [Time & Date Tools](#time-date-tools) — 3 tools
-- 🔧 [TOML Tools](#toml-tools) — 2 tools
+- ⏰ [Time & Date Tools](#time-date-tools) — 5 tools
+- 🔧 [TOML Tools](#toml-tools) — 8 tools
 - 📘 [TypeScript Tools](#typescript-tools) — 6 tools
 
 ### U
@@ -148,11 +148,11 @@
 
 ### V
 
-- ✅ [Validators](#validators) — 2 tools
+- ✅ [Validators](#validators) — 6 tools
 
 ### W
 
-- 🔧 [Workflow & Pipeline Tools](#workflow-pipeline-tools) — 2 tools
+- 🔧 [Workflow & Pipeline Tools](#workflow-pipeline-tools) — 3 tools
 
 ### X
 
@@ -189,7 +189,11 @@ API clients, testers, and builders
 - 🌐 [**Beeceptor**](https://beeceptor.com) — API mock server and inspector. `api` `mock` `inspect`
 - 🌐 [**Hoppscotch**](https://hoppscotch.io) — Open source API development tool. `api` `testing` `open-source` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**Insomnia**](https://insomnia.rest) — API client with GraphQL support. `api` `client` `graphql` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**OpenAPI Diff**](https://langstop.com/openapi-diff) — Compare OpenAPI specifications. ✦ Schema diff, Breaking changes `openapi` `diff` `compare`
+- 🌐 [**OpenAPI Editor**](https://langstop.com/openapi-editor) — Design OpenAPI 3.x specs with live preview. ✦ Validation, YAML/JSON `openapi` `editor` `api-spec`
 - 🌐 [**Postman**](https://www.postman.com) — API platform for building and testing APIs. `api` `testing` `client` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**REST API Client**](https://langstop.com/rest-api-client) — Full-featured REST API client in the browser. ✦ Methods, Headers `api` `client` `rest` [![Privacy First](https://img.shields.io/badge/-privacy--first-1E90FF)](https://en.wikipedia.org/wiki/Privacy_by_design)
+- 🌐 [**WebSocket Client**](https://langstop.com/websocket-client) — Test WebSocket connections. ✦ Messages, Logging `websocket` `client` `realtime`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -228,6 +232,8 @@ Continuous integration and deployment platforms
 Online terminal emulators and command references
 
 - 🌐 [**JSLinux**](https://bellard.org/jslinux) — Linux emulator in browser. `linux` `emulator` `terminal` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+- 🌐 [**Linux Command Builders**](https://langstop.com/linux-tools) — Visual builders for 25+ Linux commands. ✦ Interactive builders, Copy-ready output `linux` `command` `builder`
+- 🌐 [**tldr**](https://tldr.sh) — Simplified man pages. `cheatsheet` `command` `reference` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -264,21 +270,33 @@ Config format converters between JSON, YAML, XML, TOML, .env, and more
 
 - 🌐 [**Bash Properties to JSON**](https://langstop.com/bash-properties-to-json) — Convert Bash exports to JSON. `bash` `json` `converter`
 - 🌐 [**Bash Properties to YAML**](https://langstop.com/bash-properties-to-yaml) — Convert Bash exports to YAML. `bash` `yaml` `converter`
+- 🌐 [**Connection String Builder**](https://langstop.com/connection-string-builder) — Build database connection strings. `database` `connection-string`
 - 🌐 [**ENV to JSON**](https://langstop.com/env-to-json) — Convert .env to JSON. `env` `json` `converter`
 - 🌐 [**ENV to YAML**](https://langstop.com/env-to-yaml) — Convert .env to YAML. `env` `yaml` `converter`
 - 🌐 [**INI (Python) to JSON**](https://langstop.com/ini-to-json) — Convert INI to JSON. `ini` `json` `converter`
 - 🌐 [**INI (Python) to YAML**](https://langstop.com/ini-to-yaml) — Convert INI to YAML. `ini` `yaml` `converter`
 - 🌐 [**Java Properties to JSON**](https://langstop.com/java-properties-to-json) — Convert .properties to JSON. `java` `properties` `json`
 - 🌐 [**Java Properties to YAML**](https://langstop.com/java-properties-to-yaml) — Convert .properties to YAML. `java` `properties` `yaml`
+- 🌐 [**JSON to .env**](https://langstop.com/json-to-env) — Convert JSON to .env format. `json` `env` `dotenv`
+- 🌐 [**JSON to Bash**](https://langstop.com/json-to-bash) — Convert JSON to Bash exports. `json` `bash` `shell`
+- 🌐 [**JSON to INI (Python)**](https://langstop.com/json-to-ini) — Convert JSON to Python INI. `json` `ini` `configparser`
+- 🌐 [**JSON to Java Properties**](https://langstop.com/json-to-java-properties) — Convert JSON to Java .properties. `json` `java` `properties`
+- 🌐 [**JSON to PHP Array**](https://langstop.com/json-to-php-array) — Convert JSON to PHP array. `json` `php` `array`
+- 🌐 [**JSON to PHP INI**](https://langstop.com/json-to-php-ini) — Convert JSON to PHP INI. `json` `php` `ini`
+- 🌐 [**JSON to Python Dict**](https://langstop.com/json-to-python-dict) — Convert JSON to Python dict. `json` `python` `dict`
 - 🌐 [**PHP Array to JSON**](https://langstop.com/php-array-to-json) — Convert PHP array to JSON. `php` `array` `json`
 - 🌐 [**PHP Array to YAML**](https://langstop.com/php-array-to-yaml) — Convert PHP array to YAML. `php` `array` `yaml`
 - 🌐 [**PHP INI to JSON**](https://langstop.com/php-ini-to-json) — Convert PHP INI to JSON. `php` `ini` `json`
 - 🌐 [**PHP INI to YAML**](https://langstop.com/php-ini-to-yaml) — Convert PHP INI to YAML. `php` `ini` `yaml`
 - 🌐 [**Python Dict to JSON**](https://langstop.com/python-dict-to-json) — Convert Python dict to JSON. `python` `dict` `json`
 - 🌐 [**Python Dict to YAML**](https://langstop.com/python-dict-to-yaml) — Convert Python dict to YAML. `python` `dict` `yaml`
-- 🌐 [**Configu**](https://configu.com) — Config management platform for JSON, YAML, XML, and env files. `config` `management` `yaml`
-- 🌐 [**Dotenv Editor**](https://dotenvx.com) — Manage and validate .env configuration files. `env` `dotenv` `configuration` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-- 🌐 [**JSON Crack**](https://jsoncrack.com) — Visualize JSON and config structures as interactive graphs. `json` `visualizer` `graph` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**YAML to .env**](https://langstop.com/yaml-to-env) — Convert YAML to .env format. `yaml` `env` `dotenv`
+- 🌐 [**YAML to Bash**](https://langstop.com/yaml-to-bash) — Convert YAML to Bash exports. `yaml` `bash` `shell`
+- 🌐 [**YAML to INI (Python)**](https://langstop.com/yaml-to-ini) — Convert YAML to Python INI. `yaml` `ini` `configparser`
+- 🌐 [**YAML to Java Properties**](https://langstop.com/yaml-to-java-properties) — Convert YAML to Java .properties. `yaml` `java` `properties`
+- 🌐 [**YAML to PHP Array**](https://langstop.com/yaml-to-php-array) — Convert YAML to PHP array. `yaml` `php` `array`
+- 🌐 [**YAML to PHP INI**](https://langstop.com/yaml-to-php-ini) — Convert YAML to PHP INI. `yaml` `php` `ini`
+- 🌐 [**YAML to Python Dict**](https://langstop.com/yaml-to-python-dict) — Convert YAML to Python dict. `yaml` `python` `dict`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -289,10 +307,27 @@ Config format converters between JSON, YAML, XML, TOML, .env, and more
 Data format and code converters
 
 - 🌐 [**Compiler Explorer**](https://godbolt.org) — Compiler exploration tool. `compiler` `explorer` `assembly` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/BSL-1.0) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**CSV to JSON**](https://langstop.com/csv-to-json) — Convert CSV to JSON. `csv` `json` `converter`
+- 🌐 [**CSV to YAML**](https://langstop.com/csv-to-yaml) — Convert CSV to YAML. `csv` `yaml` `converter`
+- 🌐 [**JSON to .env**](https://langstop.com/json-to-env) — Convert JSON to .env format. `json` `env`
+- 🌐 [**JSON to Bash**](https://langstop.com/json-to-bash) — Convert JSON to Bash export statements. `json` `bash`
+- 🌐 [**JSON to Code**](https://langstop.com/json-to-code) — Convert JSON to code for 22+ languages. `json` `code-gen`
+- 🌐 [**JSON to CSV**](https://langstop.com/json-to-csv) — Convert JSON to CSV. `json` `csv` `converter`
+- 🌐 [**JSON to Java Properties**](https://langstop.com/json-to-java-properties) — Convert JSON to Java .properties. `json` `java` `properties`
+- 🌐 [**JSON to Python Dict**](https://langstop.com/json-to-python-dict) — Convert JSON to Python dict. `json` `python` `dict`
+- 🌐 [**JSON to TOML**](https://langstop.com/json-to-toml) — Convert JSON to TOML. `json` `toml` `converter`
+- 🌐 [**JSON to XML**](https://langstop.com/json-to-xml) — Convert JSON to XML. `json` `xml` `converter`
+- 🌐 [**JSON to YAML**](https://langstop.com/json-to-yaml) — Convert JSON to YAML. `json` `yaml` `converter`
 - 🌐 [**TOML to JSON**](https://langstop.com/toml-to-json) — Convert TOML to JSON. `toml` `json` `converter`
 - 🌐 [**TOML to XML**](https://langstop.com/toml-to-xml) — Convert TOML to XML. `toml` `xml` `converter`
 - 🌐 [**TOML to YAML**](https://langstop.com/toml-to-yaml) — Convert TOML to YAML. `toml` `yaml` `converter`
 - 🌐 [**Transform**](https://transform.tools) — Code converter between languages. `converter` `code` `transpiler` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+- 🌐 [**XML to Code**](https://langstop.com/xml-to-code) — Convert XML to code for 22+ languages. `xml` `code-gen`
+- 🌐 [**XML to JSON**](https://langstop.com/xml-to-json) — Convert XML to JSON. `xml` `json` `converter`
+- 🌐 [**XML to YAML**](https://langstop.com/xml-to-yaml) — Convert XML to YAML. `xml` `yaml` `converter`
+- 🌐 [**YAML to Code**](https://langstop.com/yaml-to-code) — Convert YAML to code for 22+ languages. `yaml` `code-gen`
+- 🌐 [**YAML to JSON**](https://langstop.com/yaml-to-json) — Convert YAML to JSON. `yaml` `json` `converter`
+- 🌐 [**YAML to XML**](https://langstop.com/yaml-to-xml) — Convert YAML to XML. `yaml` `xml` `converter`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -305,6 +340,7 @@ CSS formatters, validators, and preprocessor tools
 - 🌐 [**CSS Color Extractor**](https://langstop.com/css-colors) — Extract all colors from CSS. ✦ HEX/RGB/HSL `css` `colors` `extractor`
 - 🌐 [**CSS Diff**](https://langstop.com/css-diff) — Compare two CSS blocks side by side. ✦ Highlighted differences `css` `diff` `compare`
 - 🌐 [**CSS Formatter**](https://langstop.com/css-formatter) — Format and beautify CSS code. ✦ Indentation, Minification `css` `formatter` `beautifier`
+- 🌐 [**CSS Formatter**](https://langstop.com/css-formatter) — CSS beautifier and formatter. ✦ Custom indentation `css` `formatter` `beautifier`
 - 🌐 [**CSS Minifier**](https://langstop.com/css-minifier) — Compress CSS with size statistics. ✦ Compression stats, Byte savings `css` `minifier` `compress`
 - 🌐 [**CSS Preprocessor Converters**](https://langstop.com/css-to-scss) — Convert between CSS, SCSS, SASS, LESS, and Stylus. ✦ Bidirectional conversion `css` `scss` `sass`
 - 🌐 [**CSS Pretty Print**](https://langstop.com/css-pretty-print) — Pretty print CSS with customizable formatting. ✦ Custom formatting `css` `pretty-print` `beautifier`
@@ -320,17 +356,8 @@ CSS formatters, validators, and preprocessor tools
 - 🌐 [**SCSS to CSS Compiler**](https://langstop.com/scss-to-css) — Compile SCSS to browser-ready CSS. ✦ Nested syntax, Variables `scss` `css` `compiler`
 - 🌐 [**Stylus to CSS Converter**](https://langstop.com/stylus-to-css) — Compile Stylus to CSS. ✦ Stylus syntax `stylus` `css` `compiler`
 - 🌐 [**Animista**](https://animista.net) — CSS animation library. `css` `animation` `library` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-- 🌐 [**Autoprefixer CSS Online**](https://autoprefixer.github.io) — Add vendor prefixes to CSS for cross-browser support. `css` `autoprefixer` `prefixes` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-- 🌐 [**Blob Maker**](https://blobmaker.app) — Generate organic SVG blob shapes for CSS backgrounds. `css` `svg` `blob` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
-- 🌐 [**Can I Use**](https://caniuse.com) — Check CSS and HTML browser support across all major browsers. ✦ Browser support tables, Usage stats `css` `browser` `compatibility` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**Code Beautify CSS Tools**](https://codebeautify.org/css-tools) — CSS formatters, generators, and validators. `css` `formatter` `generator`
 - 🌐 [**CSS Gradient**](https://cssgradient.io) — CSS gradient generator. `css` `gradient` `generator`
-- 🌐 [**CSS Grid Generator**](https://cssgridgenerator.io) — Generate CSS Grid layouts visually. `css` `grid` `generator` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
-- 🌐 [**CSS Stats**](https://cssstats.com) — Analyze and visualize CSS stylesheets. `css` `analytics` `stats`
-- 🌐 [**Fancy Border Radius**](https://9elements.github.io/fancy-border-radius) — Create organic border-radius shapes visually. `css` `border-radius` `generator` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
-- 🌐 [**Get Waves**](https://getwaves.io) — Create SVG waves for CSS layouts and section dividers. `css` `svg` `waves` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
-- 🌐 [**Glassmorphism**](https://glassmorphism.com) — Generate glassmorphism CSS effects for modern UI design. `css` `glassmorphism` `generator` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
-- 🌐 [**Neumorphism**](https://neumorphism.io) — Generate soft-ui CSS code with neumorphic design. `css` `neumorphism` `generator` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -347,6 +374,7 @@ CSV editors, converters, and generators
 - 🌐 [**CSV to XML**](https://langstop.com/csv-to-xml) — Convert CSV to structured XML. ✦ Root element, Rows `csv` `xml` `converter`
 - 🌐 [**CSV to YAML**](https://langstop.com/csv-to-yaml) — Convert CSV to clean YAML. ✦ Nested output `csv` `yaml` `converter`
 - 🌐 [**CSV Viewer**](https://csvviewer.com) — Online CSV viewer and editor. `csv` `viewer` `editor`
+- 🌐 [**JSON to CSV**](https://langstop.com/json-to-csv) — Convert JSON arrays to CSV. ✦ Field mapping `json` `csv` `converter`
 - 🌐 [**TableConvert**](https://tableconvert.com) — Convert CSV to various table formats. `csv` `table` `converter`
 
 ⬆️ [Back to Top](#table-of-contents)
@@ -383,8 +411,12 @@ Monitoring, incident management, and automation
 Text, code, and data comparison tools
 
 - 🌐 [**Code Beautify File Diff**](https://codebeautify.org/file-diff) — File and text comparison tool. `diff` `file` `comparison`
+- 🌐 [**CSS Diff**](https://langstop.com/css-diff) — Compare CSS blocks. `css` `diff` `compare`
 - 🌐 [**DiffNow**](https://www.diffnow.com) — Text and file comparison. `diff` `comparison` `text`
+- 🌐 [**JSON Diff**](https://langstop.com/json-diff) — Compare two JSON objects structurally. `json` `diff` `compare`
 - 🌐 [**Mergely**](https://mergely.com) — Online diff and merge editor. `diff` `merge` `editor` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+- 🌐 [**OpenAPI Diff**](https://langstop.com/openapi-diff) — Compare OpenAPI specifications. `openapi` `diff` `compare`
+- 🌐 [**Text Diff**](https://langstop.com/text-diff) — Compare text documents. `text` `diff` `comparison`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -416,9 +448,19 @@ Documentation generators and hosting platforms
 
 URL, HTML, and various encoding/decoding tools
 
+- 🌐 [**Base64 Decoder**](https://langstop.com/base64-decoder) — Decode Base64 to text. ✦ Base64 to text `base64` `decoder`
+- 🌐 [**Base64 Encoder**](https://langstop.com/base64-encoder) — Encode text to Base64. ✦ Text to Base64 `base64` `encoder`
 - 🌐 [**Code Beautify Encoding Tools**](https://codebeautify.org/escape-unescape-tools) — Escape and unescape tools for various formats. `escape` `unescape` `encoding`
+- 🌐 [**HTML Entity Decoder**](https://langstop.com/html-entity-decoder) — Decode HTML entities to text. ✦ All entities `html` `entities` `decoder`
+- 🌐 [**HTML Entity Encoder**](https://langstop.com/html-entity-encoder) — Encode HTML special characters. ✦ All entities `html` `entities` `encoder`
+- 🌐 [**JSON URL Decoder**](https://langstop.com/json-url-decoder) — Decode URL-encoded JSON. ✦ URL decoding `json` `url` `decoder`
+- 🌐 [**JSON URL Encoder**](https://langstop.com/json-url-encoder) — Encode JSON to URL-safe strings. ✦ Compact encoding `json` `url` `encoder`
 - 🌐 [**URL Decoder**](https://langstop.com/url-decoder) — Decode URL-encoded strings. ✦ Percent decoding `url` `decoder` `decoding`
 - 🌐 [**URL Encoder**](https://langstop.com/url-encoder) — Encode URLs to URL-safe format. ✦ Percent encoding `url` `encoder` `encoding`
+- 🌐 [**XML URL Decoder**](https://langstop.com/xml-url-decoder) — Decode URL-encoded XML. ✦ URL decoding `xml` `url` `decoder`
+- 🌐 [**XML URL Encoder**](https://langstop.com/xml-url-encoder) — Encode XML to URL-safe strings. ✦ XML encoding `xml` `url` `encoder`
+- 🌐 [**YAML URL Decoder**](https://langstop.com/yaml-url-decoder) — Decode URL-encoded YAML. ✦ URL decoding `yaml` `url` `decoder`
+- 🌐 [**YAML URL Encoder**](https://langstop.com/yaml-url-encoder) — Encode YAML to URL-safe strings. ✦ YAML encoding `yaml` `url` `encoder`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -436,6 +478,7 @@ Multi-language code formatters and beautifiers
 - 🌐 [**Go Formatter**](https://langstop.com/formatters/go-formatter) — Format Go code. ✦ Go syntax `go` `formatter` `golang`
 - 🌐 [**Haskell Formatter**](https://langstop.com/formatters/haskell-formatter) — Format Haskell code. ✦ Haskell syntax `haskell` `formatter`
 - 🌐 [**Java Formatter**](https://langstop.com/formatters/java-formatter) — Format Java code. ✦ Java syntax `java` `formatter`
+- 🌐 [**JavaScript Formatter**](https://langstop.com/formatters/javascript-formatter) — Format JavaScript code. ✦ AST-based `javascript` `formatter`
 - 🌐 [**Kotlin Formatter**](https://langstop.com/formatters/kotlin-formatter) — Format Kotlin code. ✦ Kotlin syntax `kotlin` `formatter`
 - 🌐 [**Objective-C Formatter**](https://langstop.com/formatters/objective-c-formatter) — Format Objective-C code. ✦ ObjC syntax `objective-c` `formatter`
 - 🌐 [**PHP Formatter**](https://langstop.com/formatters/php-formatter) — Format PHP code. ✦ PHP syntax `php` `formatter`
@@ -445,12 +488,10 @@ Multi-language code formatters and beautifiers
 - 🌐 [**Rust Formatter**](https://langstop.com/formatters/rust-formatter) — Format Rust code. ✦ Rust syntax `rust` `formatter`
 - 🌐 [**Scala Formatter**](https://langstop.com/formatters/scala-formatter) — Format Scala code. ✦ Scala syntax `scala` `formatter`
 - 🌐 [**Swift Formatter**](https://langstop.com/formatters/swift-formatter) — Format Swift code. ✦ Swift syntax `swift` `formatter`
+- 🌐 [**TypeScript Formatter**](https://langstop.com/formatters/typescript-formatter) — Format TypeScript code. ✦ TypeScript support `typescript` `formatter`
 - 🌐 [**Code Beautify**](https://codebeautify.org/formatters-and-beautifiers) — Code formatters and beautifiers. `formatter` `beautifier`
-- 🌐 [**Code Formatter**](https://codeformatter.com) — Multi-language online code formatter and beautifier. `formatter` `beautifier` `code` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**FreeFormatter**](https://www.freeformatter.com) — Multi-language code formatter. `formatter` `code` `beautifier`
-- 🌐 [**Online Formatter**](https://format.kelvin.mu) — Simple multi-language code formatter with offline support. `formatter` `beautifier` `offline` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
-- 🌐 [**Prettier Playground**](https://prettier.io/playground) — Opinionated code formatter supporting JavaScript, TypeScript, CSS, and more. `formatter` `javascript` `typescript` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
-- 🌐 [**TutorialsPoint Online Code Formatter**](https://www.tutorialspoint.com/online_code_formatter.php) — Online code formatter for multiple programming languages. `formatter` `code` `multi-language` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**JSON Formatter**](https://jsonformatter.org) — Multi-language online formatter and beautifier. `formatter` `beautifier` `multi-language` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -460,9 +501,17 @@ Multi-language code formatters and beautifiers
 
 Code, data, and content generators
 
+- 🌐 [**AI Prompt Generator**](https://langstop.com/ai-prompt-generator) — Generate AI prompts from templates. `ai` `prompt` `generator`
+- 🌐 [**Code Beautify Password Generator**](https://codebeautify.org/password-generator) — Secure password and random string generator. `password` `generator` `random`
 - 🌐 [**Code Beautify Random Tools**](https://codebeautify.org/random-tools) — Random generators for various data types. `random` `generator`
 - 🌐 [**Create New App**](https://creatnewapp.com) — Project scaffolding generator. `generator` `boilerplate` `scaffolding` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+- 🌐 [**CSV Mock Data Generator**](https://langstop.com/csv-mock-data-generator) — Generate CSV test data. `csv` `mock` `data`
+- 🌐 [**JSON Mock Data Generator**](https://langstop.com/json-mock-data-generator) — Generate realistic JSON test data. `json` `mock` `data`
+- 🌐 [**JSON Schema GUI Builder**](https://langstop.com/json-schema-gui-builder) — Build JSON Schema visually. `json` `schema` `builder`
+- 🌐 [**Password Generator**](https://langstop.com/password-generator) — Generate strong passwords. `password` `generator`
+- 🌐 [**UUID/ULID Generator**](https://langstop.com/uuid-generator) — Generate UUIDs v1-v7, GUIDs, and ULIDs. `uuid` `ulid` `guid`
 - 🌐 [**VS Code Snippet Generator**](https://langstop.com/vscode-snippet-generator) — Create VS Code snippets visually. ✦ Visual builder, Variables `vscode` `snippet` `generator`
+- 🌐 [**XML Mock Data Generator**](https://langstop.com/xml-mock-data-generator) — Generate XML test data. `xml` `mock` `data`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -632,24 +681,39 @@ Linux command builders and references
 
 - 🌐 [**Awk Command Builder**](https://langstop.com/linux-tools/awk-command-builder) — Build awk commands for text processing. ✦ Field processing `linux` `awk` `builder`
 - 🌐 [**Cheat.sh**](https://cheat.sh) — Community-driven cheatsheets. `cheatsheet` `command` `reference` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**Chmod Command Builder**](https://langstop.com/linux-tools/chmod-command-builder) — Build chmod permission commands visually. ✦ Permission modes, Recursive `linux` `chmod` `builder`
 - 🌐 [**Common Cron Expressions**](https://langstop.com/cron-expressions) — Browse common cron schedule patterns. ✦ 30+ patterns, Explanations `cron` `expressions` `reference`
+- 🌐 [**Cp Command Builder**](https://langstop.com/linux-tools/cp-command-builder) — Build cp file copy commands visually. ✦ Recursive, Preserve `linux` `cp` `builder`
 - 🌐 [**Cron Helper**](https://langstop.com/cron-helper) — Build and validate cron expressions visually. ✦ Next run preview, Validation `cron` `scheduler` `builder` [![Privacy First](https://img.shields.io/badge/-privacy--first-1E90FF)](https://en.wikipedia.org/wiki/Privacy_by_design)
+- 🌐 [**Crontab Command Builder**](https://langstop.com/linux-tools/crontab-command-builder) — Build crontab scheduling commands visually. ✦ Schedule editor, User `linux` `crontab` `builder`
+- 🌐 [**Curl Command Builder**](https://langstop.com/linux-tools/curl-command-builder) — Build curl HTTP request commands. ✦ Methods, Headers `linux` `curl` `builder`
 - 🌐 [**Cut Command Builder**](https://langstop.com/linux-tools/cut-command-builder) — Build cut field extraction commands. ✦ Delimiter, Fields `linux` `cut` `builder`
+- 🌐 [**Df Command Builder**](https://langstop.com/linux-tools/df-command-builder) — Build df disk space commands visually. ✦ Human-readable, Inode `linux` `df` `builder`
+- 🌐 [**Du Command Builder**](https://langstop.com/linux-tools/du-command-builder) — Build du disk usage commands visually. ✦ Summary, Human-readable `linux` `du` `builder`
 - 🌐 [**ExplainShell**](https://explainshell.com) — Explain shell commands. `shell` `command` `explainer` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+- 🌐 [**File Command Builder**](https://langstop.com/linux-tools/file-command-builder) — Build file type detection commands visually. ✦ MIME type, Magic numbers `linux` `file` `builder`
 - 🌐 [**Find Command Builder**](https://langstop.com/linux-tools/find-command-builder) — Build find commands visually. ✦ Expression builder `linux` `find` `builder`
 - 🌐 [**Grep Command Builder**](https://langstop.com/linux-tools/grep-command-builder) — Build grep commands for text search. ✦ Pattern builder `linux` `grep` `builder`
+- 🌐 [**Kill Command Builder**](https://langstop.com/linux-tools/kill-command-builder) — Build kill process commands visually. ✦ Signals, Process selection `linux` `kill` `builder`
 - 🌐 [**Linux Tools Hub**](https://langstop.com/linux-tools) — All Linux command builders. ✦ All commands `linux` `tools` `hub`
-- 🌐 [**Locate Command Builder**](https://langstop.com/linux-tools/locate-command-builder) — Build locate file search commands. ✦ Pattern search `linux` `locate` `builder`
 - 🌐 [**Ls Command Builder**](https://langstop.com/linux-tools/ls-command-builder) — Build ls commands visually. ✦ Visual flags, Preview `linux` `ls` `builder`
+- 🌐 [**Mkdir Command Builder**](https://langstop.com/linux-tools/mkdir-command-builder) — Build mkdir directory commands visually. ✦ Parent creation, Permissions `linux` `mkdir` `builder`
+- 🌐 [**Mv Command Builder**](https://langstop.com/linux-tools/mv-command-builder) — Build mv move/rename commands visually. ✦ Interactive, Backup `linux` `mv` `builder`
 - 🌐 [**Nmap Command Builder**](https://langstop.com/linux-tools/nmap-command-builder) — Build nmap network scanning commands. ✦ Scan types, Port ranges `linux` `nmap` `builder`
 - 🌐 [**Ping Command Builder**](https://langstop.com/linux-tools/ping-command-builder) — Build ping test commands. ✦ Count, Interval `linux` `ping` `builder`
 - 🌐 [**PS Command Builder**](https://langstop.com/linux-tools/ps-command-builder) — Build ps process listing commands. ✦ Process filters `linux` `ps` `builder`
+- 🌐 [**Rm Command Builder**](https://langstop.com/linux-tools/rm-command-builder) — Build rm removal commands visually. ✦ Recursive, Force `linux` `rm` `builder`
+- 🌐 [**Rmdir Command Builder**](https://langstop.com/linux-tools/rmdir-command-builder) — Build rmdir directory removal commands visually. ✦ Parent removal `linux` `rmdir` `builder`
 - 🌐 [**Sed Command Builder**](https://langstop.com/linux-tools/sed-command-builder) — Build sed commands for stream editing. ✦ Substitution builder `linux` `sed` `builder`
 - 🌐 [**Sort Command Builder**](https://langstop.com/linux-tools/sort-command-builder) — Build sort commands. ✦ Key selection `linux` `sort` `builder`
 - 🌐 [**SS Command Builder**](https://langstop.com/linux-tools/ss-command-builder) — Build ss socket statistics commands. ✦ Socket filters `linux` `ss` `builder`
 - 🌐 [**SSH Command Builder**](https://langstop.com/linux-tools/ssh-command-builder) — Build SSH connection commands. ✦ Port forwarding, Jump hosts `linux` `ssh` `builder`
+- 🌐 [**Stat Command Builder**](https://langstop.com/linux-tools/stat-command-builder) — Build stat file info commands visually. ✦ File info, Format `linux` `stat` `builder`
 - 🌐 [**Tar Command Builder**](https://langstop.com/linux-tools/tar-command-builder) — Build tar archive commands. ✦ Compression options `linux` `tar` `builder`
 - 🌐 [**TLDR Pages**](https://tldr.sh) — Simplified man pages with examples. `linux` `command` `reference` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**Touch Command Builder**](https://langstop.com/linux-tools/touch-command-builder) — Build touch file creation commands visually. ✦ Timestamp, Create `linux` `touch` `builder`
+- 🌐 [**Tree Command Builder**](https://langstop.com/linux-tools/tree-command-builder) — Build tree directory listing commands visually. ✦ Depth control, Patterns `linux` `tree` `builder`
+- 🌐 [**Wget Command Builder**](https://langstop.com/linux-tools/wget-command-builder) — Build wget download commands visually. ✦ Recursive, Resume `linux` `wget` `builder`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -672,9 +736,12 @@ Markdown editors and previewers
 
 Fake data generators for development and testing
 
+- 🌐 [**CSV Mock Data Generator**](https://langstop.com/csv-mock-data-generator) — Generate CSV test data. `csv` `mock` `generator`
 - 🌐 [**JSON Generator**](https://www.json-generator.com) — Generate JSON from templates. `json` `generator` `mock`
+- 🌐 [**JSON Mock Data Generator**](https://langstop.com/json-mock-data-generator) — Generate realistic JSON test data. `json` `mock` `generator`
 - 🌐 [**Mockaroo**](https://www.mockaroo.com) — Realistic data generator. `mock` `data` `generator` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**Mockoon**](https://mockoon.com) — Mock API server. `mock` `api` `server` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+- 🌐 [**XML Mock Data Generator**](https://langstop.com/xml-mock-data-generator) — Generate XML test data. `xml` `mock` `generator`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -702,6 +769,8 @@ Network diagnostic, DNS, and IP tools
 
 OpenAPI/Swagger specification editors and viewers
 
+- 🌐 [**OpenAPI Diff**](https://langstop.com/openapi-diff) — Compare OpenAPI specifications. `openapi` `diff` `compare`
+- 🌐 [**OpenAPI Editor**](https://langstop.com/openapi-editor) — Design OpenAPI 3.x specs with live preview. `openapi` `swagger` `editor` [![Privacy First](https://img.shields.io/badge/-privacy--first-1E90FF)](https://en.wikipedia.org/wiki/Privacy_by_design)
 - 🌐 [**Redocly**](https://redocly.com/redoc) — OpenAPI documentation generator. `openapi` `documentation` `redoc` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 - 🌐 [**Swagger Editor**](https://editor.swagger.io) — Official Swagger/OpenAPI editor. `openapi` `swagger` `editor` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/Apache-2.0) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**SwaggerHub**](https://swagger.io/tools/swaggerhub) — API design platform. `openapi` `api` `design`
@@ -715,9 +784,11 @@ OpenAPI/Swagger specification editors and viewers
 Online IDEs, editors, and productivity tools
 
 - 🌐 [**Gitpod**](https://www.gitpod.io) — Cloud development environment. `ide` `cloud` `development` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**Markdown Editor**](https://langstop.com/markdown-editor) — Write Markdown with live preview. `markdown` `editor` `writing`
 - 🌐 [**Replit**](https://replit.com) — Online IDE with collaboration. `ide` `collaboration` `deployment` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**Resume Builder**](https://langstop.com/resume-builder) — Build your developer resume online. ✦ Templates, Export `resume` `builder` `career`
 - 🌐 [**StackBlitz**](https://stackblitz.com) — Online IDE for web apps. `ide` `web` `angular`
+- 🌐 [**VS Code Snippet Generator**](https://langstop.com/vscode-snippet-generator) — Create VS Code snippets visually. ✦ Visual builder, Collections `vscode` `snippet` `productivity`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -783,8 +854,12 @@ Architecture and system design diagram tools
 
 Testing utilities, playgrounds, and auditing tools
 
+- 🌐 [**JSON Validator**](https://langstop.com/json-validator) — Validate JSON documents. `json` `validator`
 - 🌐 [**Lighthouse**](https://developer.chrome.com/docs/lighthouse) — Web page auditing tool. `testing` `performance` `seo` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/Apache-2.0) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**PageSpeed Insights**](https://pagespeed.web.dev) — Page speed analysis. `performance` `speed` `analysis` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**Regex Tester**](https://langstop.com/regex-tester) — Test and debug regular expressions. `regex` `testing` `debugger`
+- 🌐 [**REST API Client**](https://langstop.com/rest-api-client) — Test REST APIs from the browser. `api` `testing` `rest`
+- 🌐 [**WebSocket Client**](https://langstop.com/websocket-client) — Test WebSocket connections. `websocket` `testing`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -818,6 +893,8 @@ Text utilities, counters, and manipulators
 Timestamp converters, cron helpers, and date utilities
 
 - 🌐 [**Age Calculator**](https://langstop.com/age-calculator) — Calculate age in years, months, and days. ✦ Precise calculation `age` `calculator` `date`
+- 🌐 [**Common Cron Expressions**](https://langstop.com/cron-expressions) — Reference for common cron schedules. ✦ 30+ patterns `cron` `expressions` `reference`
+- 🌐 [**Cron Helper**](https://langstop.com/cron-helper) — Build and validate cron expressions visually. ✦ Next run preview, Explain `cron` `scheduler` `builder`
 - 🌐 [**Time Hub**](https://langstop.com/tools/time) — All time and date tools. `time` `date` `tools`
 - 🌐 [**Timestamp Converter**](https://langstop.com/epoch-timestamp-converter) — Convert UNIX timestamps to human-readable dates. ✦ Bidirectional, Millisecond support `timestamp` `unix` `epoch`
 
@@ -829,8 +906,14 @@ Timestamp converters, cron helpers, and date utilities
 
 TOML parsers, converters, and validators
 
+- 🌐 [**JSON to TOML**](https://langstop.com/json-to-toml) — Convert JSON to TOML. `json` `toml` `converter`
 - 🌐 [**TOML Formatter**](https://jsonformatter.org/toml) — Online TOML formatter and validator. `toml` `formatter` `validator` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**TOML Hub**](https://langstop.com/tools/toml) — All TOML tools. `toml` `tools` `hub`
+- 🌐 [**TOML to JSON**](https://langstop.com/toml-to-json) — Convert TOML to JSON. `toml` `json` `converter`
+- 🌐 [**TOML to XML**](https://langstop.com/toml-to-xml) — Convert TOML to XML. `toml` `xml` `converter`
+- 🌐 [**TOML to YAML**](https://langstop.com/toml-to-yaml) — Convert TOML to YAML. `toml` `yaml` `converter`
+- 🌐 [**XML to TOML**](https://langstop.com/xml-to-toml) — Convert XML to TOML. `xml` `toml` `converter`
+- 🌐 [**YAML to TOML**](https://langstop.com/yaml-to-toml) — Convert YAML to TOML. `yaml` `toml` `converter`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -875,7 +958,11 @@ UUID/GUID/ULID generators for all versions
 Code and data validators for multiple formats
 
 - 🌐 [**Code Beautify Validators**](https://codebeautify.org/validator-tools) — Code validation tools for multiple formats. `validator` `checker`
+- 🌐 [**CSS Validator**](https://langstop.com/css-validator) — Validate CSS syntax. `css` `validator`
+- 🌐 [**JSON Validator**](https://langstop.com/json-validator) — Validate JSON syntax in real-time. `json` `validator`
 - 🌐 [**W3C Validator**](https://validator.w3.org) — Official W3C HTML validator. `html` `validator` `w3c` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**XML Validator**](https://langstop.com/xml-validator) — Validate XML well-formedness. `xml` `validator`
+- 🌐 [**YAML Validator**](https://langstop.com/yaml-validator) — Validate YAML syntax. `yaml` `validator`
 
 ⬆️ [Back to Top](#table-of-contents)
 
@@ -885,6 +972,7 @@ Code and data validators for multiple formats
 
 MCP config generators, data pipelines, and automation tools
 
+- 🌐 [**JSON Pipeline Builder**](https://langstop.com/pipeline-builder) — Compose JSON processing pipelines. ✦ Multi-step, Reusable `json` `pipeline` `workflow`
 - 🌐 [**MCP Config Generator**](https://langstop.com/mcp-generator) — Generate MCP server configuration files. ✦ Template-based, Server config `mcp` `config` `generator`
 - 🌐 [**Workflow Hub**](https://langstop.com/tools/workflow) — All workflow and pipeline tools. `workflow` `pipeline` `tools`
 
@@ -953,13 +1041,13 @@ YAML parsers, validators, converters, and code generators
 
 | Metric | Value |
 |--------|-------|
-| 🛠 **Total Tools** | **349** |
+| 🛠 **Total Tools** | **437** |
 | 📂 **Categories** | **48** |
-| ⭐ **Open Source** | ██░░░░░░░░░░░░░░ 15% (53 tools) |
-| 🔒 **Privacy-First** | █░░░░░░░░░░░░░░░ 5% (16 tools) |
-| 🤖 **AI Tools** | 8 |
+| ⭐ **Open Source** | ██░░░░░░░░░░░░░░ 11% (50 tools) |
+| 🔒 **Privacy-First** | █░░░░░░░░░░░░░░░ 4% (18 tools) |
+| 🤖 **AI Tools** | 12 |
 | 📴 **Offline Capable** | 3 |
-| 🌐 **Last Updated** | 2026-07-17 |
+| 🌐 **Last Updated** | 2026-07-26 |
 | 👥 **Contributors** | [Join us!](CONTRIBUTING.md) |
 
 </div>

@@ -17,6 +17,30 @@
       "opensource": false
     },
     {
+      "name": "CSS Validator",
+      "url": "https://langstop.com/css-validator",
+      "description": "Validate CSS syntax.",
+      "tags": [
+        "css",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Validator",
+      "url": "https://langstop.com/json-validator",
+      "description": "Validate JSON syntax in real-time.",
+      "tags": [
+        "json",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "W3C Validator",
       "url": "https://validator.w3.org",
       "description": "Official W3C HTML validator.",
@@ -28,6 +52,30 @@
       "license": "MIT",
       "pricing": "free",
       "opensource": true
+    },
+    {
+      "name": "XML Validator",
+      "url": "https://langstop.com/xml-validator",
+      "description": "Validate XML well-formedness.",
+      "tags": [
+        "xml",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML Validator",
+      "url": "https://langstop.com/yaml-validator",
+      "description": "Validate YAML syntax.",
+      "tags": [
+        "yaml",
+        "validator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
     }
   ]
 }

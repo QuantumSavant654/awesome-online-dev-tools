@@ -18,6 +18,19 @@
       "opensource": true
     },
     {
+      "name": "Markdown Editor",
+      "url": "https://langstop.com/markdown-editor",
+      "description": "Write Markdown with live preview.",
+      "tags": [
+        "markdown",
+        "editor",
+        "writing"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Replit",
       "url": "https://replit.com",
       "description": "Online IDE with collaboration.",
@@ -52,6 +65,19 @@
         "web",
         "angular",
         "react"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "VS Code Snippet Generator",
+      "url": "https://langstop.com/vscode-snippet-generator",
+      "description": "Create VS Code snippets visually.",
+      "tags": [
+        "vscode",
+        "snippet",
+        "productivity"
       ],
       "license": "Proprietary",
       "pricing": "free",

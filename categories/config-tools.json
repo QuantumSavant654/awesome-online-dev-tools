@@ -31,31 +31,16 @@
       "opensource": false
     },
     {
-      "name": "Configu",
-      "url": "https://configu.com",
-      "description": "Config management platform for JSON, YAML, XML, and env files.",
+      "name": "Connection String Builder",
+      "url": "https://langstop.com/connection-string-builder",
+      "description": "Build database connection strings.",
       "tags": [
-        "config",
-        "management",
-        "yaml",
-        "json"
+        "database",
+        "connection-string"
       ],
       "license": "Proprietary",
       "pricing": "free",
       "opensource": false
-    },
-    {
-      "name": "Dotenv Editor",
-      "url": "https://dotenvx.com",
-      "description": "Manage and validate .env configuration files.",
-      "tags": [
-        "env",
-        "dotenv",
-        "configuration"
-      ],
-      "license": "MIT",
-      "pricing": "free",
-      "opensource": true
     },
     {
       "name": "ENV to JSON",
@@ -136,13 +121,91 @@
       "opensource": false
     },
     {
-      "name": "JSON Crack",
-      "url": "https://jsoncrack.com",
-      "description": "Visualize JSON and config structures as interactive graphs.",
+      "name": "JSON to .env",
+      "url": "https://langstop.com/json-to-env",
+      "description": "Convert JSON to .env format.",
       "tags": [
         "json",
-        "visualizer",
-        "graph"
+        "env",
+        "dotenv"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Bash",
+      "url": "https://langstop.com/json-to-bash",
+      "description": "Convert JSON to Bash exports.",
+      "tags": [
+        "json",
+        "bash",
+        "shell"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to INI (Python)",
+      "url": "https://langstop.com/json-to-ini",
+      "description": "Convert JSON to Python INI.",
+      "tags": [
+        "json",
+        "ini",
+        "configparser"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Java Properties",
+      "url": "https://langstop.com/json-to-java-properties",
+      "description": "Convert JSON to Java .properties.",
+      "tags": [
+        "json",
+        "java",
+        "properties"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to PHP Array",
+      "url": "https://langstop.com/json-to-php-array",
+      "description": "Convert JSON to PHP array.",
+      "tags": [
+        "json",
+        "php",
+        "array"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to PHP INI",
+      "url": "https://langstop.com/json-to-php-ini",
+      "description": "Convert JSON to PHP INI.",
+      "tags": [
+        "json",
+        "php",
+        "ini"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON to Python Dict",
+      "url": "https://langstop.com/json-to-python-dict",
+      "description": "Convert JSON to Python dict.",
+      "tags": [
+        "json",
+        "python",
+        "dict"
       ],
       "license": "Proprietary",
       "pricing": "free",
@@ -221,6 +284,97 @@
         "python",
         "dict",
         "yaml"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to .env",
+      "url": "https://langstop.com/yaml-to-env",
+      "description": "Convert YAML to .env format.",
+      "tags": [
+        "yaml",
+        "env",
+        "dotenv"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Bash",
+      "url": "https://langstop.com/yaml-to-bash",
+      "description": "Convert YAML to Bash exports.",
+      "tags": [
+        "yaml",
+        "bash",
+        "shell"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to INI (Python)",
+      "url": "https://langstop.com/yaml-to-ini",
+      "description": "Convert YAML to Python INI.",
+      "tags": [
+        "yaml",
+        "ini",
+        "configparser"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Java Properties",
+      "url": "https://langstop.com/yaml-to-java-properties",
+      "description": "Convert YAML to Java .properties.",
+      "tags": [
+        "yaml",
+        "java",
+        "properties"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to PHP Array",
+      "url": "https://langstop.com/yaml-to-php-array",
+      "description": "Convert YAML to PHP array.",
+      "tags": [
+        "yaml",
+        "php",
+        "array"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to PHP INI",
+      "url": "https://langstop.com/yaml-to-php-ini",
+      "description": "Convert YAML to PHP INI.",
+      "tags": [
+        "yaml",
+        "php",
+        "ini"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "YAML to Python Dict",
+      "url": "https://langstop.com/yaml-to-python-dict",
+      "description": "Convert YAML to Python dict.",
+      "tags": [
+        "yaml",
+        "python",
+        "dict"
       ],
       "license": "Proprietary",
       "pricing": "free",

@@ -96,6 +96,19 @@
       "opensource": false
     },
     {
+      "name": "JSON to CSV",
+      "url": "https://langstop.com/json-to-csv",
+      "description": "Convert JSON arrays to CSV.",
+      "tags": [
+        "json",
+        "csv",
+        "converter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "TableConvert",
       "url": "https://tableconvert.com",
       "description": "Convert CSV to various table formats.",

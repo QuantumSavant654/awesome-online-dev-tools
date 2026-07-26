@@ -5,6 +5,19 @@
   "icon": "🎭",
   "tools": [
     {
+      "name": "CSV Mock Data Generator",
+      "url": "https://langstop.com/csv-mock-data-generator",
+      "description": "Generate CSV test data.",
+      "tags": [
+        "csv",
+        "mock",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "JSON Generator",
       "url": "https://www.json-generator.com",
       "description": "Generate JSON from templates.",
@@ -12,6 +25,19 @@
         "json",
         "generator",
         "mock"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Mock Data Generator",
+      "url": "https://langstop.com/json-mock-data-generator",
+      "description": "Generate realistic JSON test data.",
+      "tags": [
+        "json",
+        "mock",
+        "generator"
       ],
       "license": "Proprietary",
       "pricing": "free",
@@ -42,6 +68,19 @@
       "license": "MIT",
       "pricing": "free",
       "opensource": true
+    },
+    {
+      "name": "XML Mock Data Generator",
+      "url": "https://langstop.com/xml-mock-data-generator",
+      "description": "Generate XML test data.",
+      "tags": [
+        "xml",
+        "mock",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
     }
   ]
 }

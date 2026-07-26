@@ -57,6 +57,32 @@
       "opensource": true
     },
     {
+      "name": "OpenAPI Diff",
+      "url": "https://langstop.com/openapi-diff",
+      "description": "Compare OpenAPI specifications.",
+      "tags": [
+        "openapi",
+        "diff",
+        "compare"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "OpenAPI Editor",
+      "url": "https://langstop.com/openapi-editor",
+      "description": "Design OpenAPI 3.x specs with live preview.",
+      "tags": [
+        "openapi",
+        "editor",
+        "api-spec"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Postman",
       "url": "https://www.postman.com",
       "description": "API platform for building and testing APIs.",
@@ -64,6 +90,32 @@
         "api",
         "testing",
         "client"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "REST API Client",
+      "url": "https://langstop.com/rest-api-client",
+      "description": "Full-featured REST API client in the browser.",
+      "tags": [
+        "api",
+        "client",
+        "rest"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "WebSocket Client",
+      "url": "https://langstop.com/websocket-client",
+      "description": "Test WebSocket connections.",
+      "tags": [
+        "websocket",
+        "client",
+        "realtime"
       ],
       "license": "Proprietary",
       "pricing": "free",

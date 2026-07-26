@@ -31,6 +31,19 @@
       "opensource": true
     },
     {
+      "name": "Chmod Command Builder",
+      "url": "https://langstop.com/linux-tools/chmod-command-builder",
+      "description": "Build chmod permission commands visually.",
+      "tags": [
+        "linux",
+        "chmod",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Common Cron Expressions",
       "url": "https://langstop.com/cron-expressions",
       "description": "Browse common cron schedule patterns.",
@@ -44,12 +57,51 @@
       "opensource": false
     },
     {
+      "name": "Cp Command Builder",
+      "url": "https://langstop.com/linux-tools/cp-command-builder",
+      "description": "Build cp file copy commands visually.",
+      "tags": [
+        "linux",
+        "cp",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Cron Helper",
       "url": "https://langstop.com/cron-helper",
       "description": "Build and validate cron expressions visually.",
       "tags": [
         "cron",
         "scheduler",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Crontab Command Builder",
+      "url": "https://langstop.com/linux-tools/crontab-command-builder",
+      "description": "Build crontab scheduling commands visually.",
+      "tags": [
+        "linux",
+        "crontab",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Curl Command Builder",
+      "url": "https://langstop.com/linux-tools/curl-command-builder",
+      "description": "Build curl HTTP request commands.",
+      "tags": [
+        "linux",
+        "curl",
         "builder"
       ],
       "license": "Proprietary",
@@ -70,6 +122,32 @@
       "opensource": false
     },
     {
+      "name": "Df Command Builder",
+      "url": "https://langstop.com/linux-tools/df-command-builder",
+      "description": "Build df disk space commands visually.",
+      "tags": [
+        "linux",
+        "df",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Du Command Builder",
+      "url": "https://langstop.com/linux-tools/du-command-builder",
+      "description": "Build du disk usage commands visually.",
+      "tags": [
+        "linux",
+        "du",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "ExplainShell",
       "url": "https://explainshell.com",
       "description": "Explain shell commands.",
@@ -81,6 +159,19 @@
       "license": "MIT",
       "pricing": "free",
       "opensource": true
+    },
+    {
+      "name": "File Command Builder",
+      "url": "https://langstop.com/linux-tools/file-command-builder",
+      "description": "Build file type detection commands visually.",
+      "tags": [
+        "linux",
+        "file",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
     },
     {
       "name": "Find Command Builder",
@@ -109,6 +200,19 @@
       "opensource": false
     },
     {
+      "name": "Kill Command Builder",
+      "url": "https://langstop.com/linux-tools/kill-command-builder",
+      "description": "Build kill process commands visually.",
+      "tags": [
+        "linux",
+        "kill",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Linux Tools Hub",
       "url": "https://langstop.com/linux-tools",
       "description": "All Linux command builders.",
@@ -122,12 +226,12 @@
       "opensource": false
     },
     {
-      "name": "Locate Command Builder",
-      "url": "https://langstop.com/linux-tools/locate-command-builder",
-      "description": "Build locate file search commands.",
+      "name": "Ls Command Builder",
+      "url": "https://langstop.com/linux-tools/ls-command-builder",
+      "description": "Build ls commands visually.",
       "tags": [
         "linux",
-        "locate",
+        "ls",
         "builder"
       ],
       "license": "Proprietary",
@@ -135,12 +239,25 @@
       "opensource": false
     },
     {
-      "name": "Ls Command Builder",
-      "url": "https://langstop.com/linux-tools/ls-command-builder",
-      "description": "Build ls commands visually.",
+      "name": "Mkdir Command Builder",
+      "url": "https://langstop.com/linux-tools/mkdir-command-builder",
+      "description": "Build mkdir directory commands visually.",
       "tags": [
         "linux",
-        "ls",
+        "mkdir",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Mv Command Builder",
+      "url": "https://langstop.com/linux-tools/mv-command-builder",
+      "description": "Build mv move/rename commands visually.",
+      "tags": [
+        "linux",
+        "mv",
         "builder"
       ],
       "license": "Proprietary",
@@ -180,6 +297,32 @@
       "tags": [
         "linux",
         "ps",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Rm Command Builder",
+      "url": "https://langstop.com/linux-tools/rm-command-builder",
+      "description": "Build rm removal commands visually.",
+      "tags": [
+        "linux",
+        "rm",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Rmdir Command Builder",
+      "url": "https://langstop.com/linux-tools/rmdir-command-builder",
+      "description": "Build rmdir directory removal commands visually.",
+      "tags": [
+        "linux",
+        "rmdir",
         "builder"
       ],
       "license": "Proprietary",
@@ -239,6 +382,19 @@
       "opensource": false
     },
     {
+      "name": "Stat Command Builder",
+      "url": "https://langstop.com/linux-tools/stat-command-builder",
+      "description": "Build stat file info commands visually.",
+      "tags": [
+        "linux",
+        "stat",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Tar Command Builder",
       "url": "https://langstop.com/linux-tools/tar-command-builder",
       "description": "Build tar archive commands.",
@@ -263,6 +419,45 @@
       "license": "MIT",
       "pricing": "free",
       "opensource": true
+    },
+    {
+      "name": "Touch Command Builder",
+      "url": "https://langstop.com/linux-tools/touch-command-builder",
+      "description": "Build touch file creation commands visually.",
+      "tags": [
+        "linux",
+        "touch",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Tree Command Builder",
+      "url": "https://langstop.com/linux-tools/tree-command-builder",
+      "description": "Build tree directory listing commands visually.",
+      "tags": [
+        "linux",
+        "tree",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Wget Command Builder",
+      "url": "https://langstop.com/linux-tools/wget-command-builder",
+      "description": "Build wget download commands visually.",
+      "tags": [
+        "linux",
+        "wget",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
     }
   ]
 }

@@ -5,6 +5,32 @@
   "icon": "⚙️",
   "tools": [
     {
+      "name": "AI Prompt Generator",
+      "url": "https://langstop.com/ai-prompt-generator",
+      "description": "Generate AI prompts from templates.",
+      "tags": [
+        "ai",
+        "prompt",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Code Beautify Password Generator",
+      "url": "https://codebeautify.org/password-generator",
+      "description": "Secure password and random string generator.",
+      "tags": [
+        "password",
+        "generator",
+        "random"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Code Beautify Random Tools",
       "url": "https://codebeautify.org/random-tools",
       "description": "Random generators for various data types.",
@@ -30,6 +56,71 @@
       "opensource": true
     },
     {
+      "name": "CSV Mock Data Generator",
+      "url": "https://langstop.com/csv-mock-data-generator",
+      "description": "Generate CSV test data.",
+      "tags": [
+        "csv",
+        "mock",
+        "data"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Mock Data Generator",
+      "url": "https://langstop.com/json-mock-data-generator",
+      "description": "Generate realistic JSON test data.",
+      "tags": [
+        "json",
+        "mock",
+        "data"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Schema GUI Builder",
+      "url": "https://langstop.com/json-schema-gui-builder",
+      "description": "Build JSON Schema visually.",
+      "tags": [
+        "json",
+        "schema",
+        "builder"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "Password Generator",
+      "url": "https://langstop.com/password-generator",
+      "description": "Generate strong passwords.",
+      "tags": [
+        "password",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "UUID/ULID Generator",
+      "url": "https://langstop.com/uuid-generator",
+      "description": "Generate UUIDs v1-v7, GUIDs, and ULIDs.",
+      "tags": [
+        "uuid",
+        "ulid",
+        "guid",
+        "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "VS Code Snippet Generator",
       "url": "https://langstop.com/vscode-snippet-generator",
       "description": "Create VS Code snippets visually.",
@@ -37,6 +128,19 @@
         "vscode",
         "snippet",
         "generator"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "XML Mock Data Generator",
+      "url": "https://langstop.com/xml-mock-data-generator",
+      "description": "Generate XML test data.",
+      "tags": [
+        "xml",
+        "mock",
+        "data"
       ],
       "license": "Proprietary",
       "pricing": "free",

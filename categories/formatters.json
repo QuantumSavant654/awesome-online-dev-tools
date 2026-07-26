@@ -41,19 +41,6 @@
       "opensource": false
     },
     {
-      "name": "Code Formatter",
-      "url": "https://codeformatter.com",
-      "description": "Multi-language online code formatter and beautifier.",
-      "tags": [
-        "formatter",
-        "beautifier",
-        "code"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "Dart Formatter",
       "url": "https://langstop.com/formatters/dart-formatter",
       "description": "Format Dart code.",
@@ -140,6 +127,31 @@
       "opensource": false
     },
     {
+      "name": "JavaScript Formatter",
+      "url": "https://langstop.com/formatters/javascript-formatter",
+      "description": "Format JavaScript code.",
+      "tags": [
+        "javascript",
+        "formatter"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
+      "name": "JSON Formatter",
+      "url": "https://jsonformatter.org",
+      "description": "Multi-language online formatter and beautifier.",
+      "tags": [
+        "formatter",
+        "beautifier",
+        "multi-language"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Kotlin Formatter",
       "url": "https://langstop.com/formatters/kotlin-formatter",
       "description": "Format Kotlin code.",
@@ -158,19 +170,6 @@
       "tags": [
         "objective-c",
         "formatter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "Online Formatter",
-      "url": "https://format.kelvin.mu",
-      "description": "Simple multi-language code formatter with offline support.",
-      "tags": [
-        "formatter",
-        "beautifier",
-        "offline"
       ],
       "license": "Proprietary",
       "pricing": "free",
@@ -199,20 +198,6 @@
       "license": "Proprietary",
       "pricing": "free",
       "opensource": false
-    },
-    {
-      "name": "Prettier Playground",
-      "url": "https://prettier.io/playground",
-      "description": "Opinionated code formatter supporting JavaScript, TypeScript, CSS, and more.",
-      "tags": [
-        "formatter",
-        "javascript",
-        "typescript",
-        "css"
-      ],
-      "license": "MIT",
-      "pricing": "free",
-      "opensource": true
     },
     {
       "name": "Python Formatter",
@@ -275,13 +260,12 @@
       "opensource": false
     },
     {
-      "name": "TutorialsPoint Online Code Formatter",
-      "url": "https://www.tutorialspoint.com/online_code_formatter.php",
-      "description": "Online code formatter for multiple programming languages.",
+      "name": "TypeScript Formatter",
+      "url": "https://langstop.com/formatters/typescript-formatter",
+      "description": "Format TypeScript code.",
       "tags": [
-        "formatter",
-        "code",
-        "multi-language"
+        "typescript",
+        "formatter"
       ],
       "license": "Proprietary",
       "pricing": "free",

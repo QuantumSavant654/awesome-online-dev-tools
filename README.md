@@ -253,6 +253,7 @@ Color pickers, palettes, and workbenches
 - 🌐 [**Code Beautify Color Tools**](https://codebeautify.org/color-tools) — Color converters and palette tools. `color` `converter` `palette`
 - 🌐 [**Color Workbench**](https://langstop.com/color-workbench) — Interactive color palette and harmony workbench. ✦ Color harmonies, Contrast checker `color` `palette` `harmony`
 - 🌐 [**Coolors**](https://coolors.co) — Color palette generator. `color` `palette` `generator` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
+- 🌐 [**Codex Theme Builder**](https://codextheme.tools) — Browser theme builder for OpenAI Codex with live preview and CSS token export. `theme` `css` `tokens`
 
 ⬆️ [Back to Top](#table-of-contents)
 

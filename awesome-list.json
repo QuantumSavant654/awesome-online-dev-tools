@@ -5998,6 +5998,32 @@
           "badges": [
             "browser-based"
           ]
+        },
+        {
+          "name": "NextReset",
+          "url": "https://nextreset.ai/",
+          "description": "Track observed Codex reset history and official incident sources.",
+          "category": "productivity",
+          "tags": [
+            "codex",
+            "reset-history",
+            "monitoring"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [
+            "Source-linked incident history",
+            "Browser-local personal timer"
+          ],
+          "useCases": [
+            "Review Codex reset context before planning work"
+          ],
+          "lastUpdated": "2026-09-19",
+          "badges": [
+            "browser-based",
+            "no-signup"
+          ]
         }
       ]
     },

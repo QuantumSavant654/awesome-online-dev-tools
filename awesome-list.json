@@ -3443,6 +3443,27 @@
           ]
         },
         {
+          "name": "FileOnTap",
+          "url": "https://fileontap.com/heic-to-png/",
+          "description": "Free browser-based HEIC to PNG converter, files never uploaded",
+          "category": "image-tools",
+          "tags": [
+            "image",
+            "converter",
+            "heic",
+            "png"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-09-28",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
           "name": "Photopea",
           "url": "https://www.photopea.com",
           "description": "Advanced online image editor.",

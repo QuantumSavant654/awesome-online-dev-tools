@@ -6,7 +6,7 @@
     "url": "https://github.com/langstop/awesome-online-dev-tools",
     "totalTools": 423,
     "totalCategories": 48,
-    "lastUpdated": "2026-07-16",
+    "lastUpdated": "2026-10-27",
     "maintainer": "LangStop"
   },
   "categories": {
@@ -3438,6 +3438,29 @@
           "features": [],
           "useCases": [],
           "lastUpdated": "2026-07-01",
+          "badges": [
+            "browser-based"
+          ]
+        },
+        {
+          "name": "ImgFlow",
+          "url": "https://imgflow.taoliapp.com/",
+          "description": "Browser image compressor/converter (PNG/JPG/HEIC/WebP/AVIF); core processing stays on-device.",
+          "category": "image-tools",
+          "tags": [
+            "image",
+            "compression",
+            "converter",
+            "webp",
+            "heic",
+            "privacy"
+          ],
+          "license": "Proprietary",
+          "pricing": "free",
+          "opensource": false,
+          "features": [],
+          "useCases": [],
+          "lastUpdated": "2026-10-27",
           "badges": [
             "browser-based"
           ]

@@ -18,6 +18,22 @@
       "opensource": false
     },
     {
+      "name": "ImgFlow",
+      "url": "https://imgflow.taoliapp.com/",
+      "description": "Browser image compressor/converter (PNG/JPG/HEIC/WebP/AVIF); core processing stays on-device.",
+      "tags": [
+        "image",
+        "compression",
+        "converter",
+        "webp",
+        "heic",
+        "privacy"
+      ],
+      "license": "Proprietary",
+      "pricing": "free",
+      "opensource": false
+    },
+    {
       "name": "Photopea",
       "url": "https://www.photopea.com",
       "description": "Advanced online image editor.",

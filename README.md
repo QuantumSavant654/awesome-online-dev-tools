@@ -9,12 +9,12 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/QuantumSavant654/awesome-online-dev-tools)](https://github.com/QuantumSavant654/awesome-online-dev-tools/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/QuantumSavant654/awesome-online-dev-tools?style=social)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Tools](https://img.shields.io/badge/tools-349-blue)](#statistics)
+[![Tools](https://img.shields.io/badge/tools-350-blue)](#statistics)
 [![Categories](https://img.shields.io/badge/categories-48-green)](#statistics)
 [![Open Source](https://img.shields.io/badge/open_source-15%25-success)](#statistics)
 [![Validate](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml/badge.svg)](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml)
 
-🔍 **Tip:** Use <kbd>Ctrl+F</kbd> to search across all **349** tools, or browse the [search index](search-index.json).
+🔍 **Tip:** Use <kbd>Ctrl+F</kbd> to search across all **350** tools, or browse the [search index](search-index.json).
 
 </div>
 
@@ -95,7 +95,7 @@
 
 ### I
 
-- 🖼️ [Image Tools](#image-tools) — 5 tools
+- 🖼️ [Image Tools](#image-tools) — 6 tools
 
 ### J
 
@@ -524,6 +524,7 @@ HTML editors, formatters, and validators
 Image editors, optimizers, and converters
 
 - 🌐 [**Code Beautify Image Tools**](https://codebeautify.org/image-converter-tools) — Image conversion and optimization tools. `image` `converter` `optimizer`
+- 🌐 [**ImgFlow**](https://imgflow.taoliapp.com/) — Browser image compressor/converter (PNG/JPG/HEIC/WebP/AVIF); core processing stays on-device. `image` `compression` `converter`
 - 🌐 [**Photopea**](https://www.photopea.com) — Advanced online image editor. `image` `editor` `psd` [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**Squoosh**](https://squoosh.app) — Google's image optimizer. `image` `optimizer` `compression` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/Apache-2.0) [![Popular](https://img.shields.io/badge/-popular-FF6B35)](https://github.com/QuantumSavant654/awesome-online-dev-tools)
 - 🌐 [**SVGOMG**](https://jakearchibald.github.io/svgomg) — SVG optimizer. `svg` `optimizer` `minifier` [![Open Source](https://img.shields.io/badge/-open--source-3EAA3E?logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
@@ -953,13 +954,13 @@ YAML parsers, validators, converters, and code generators
 
 | Metric | Value |
 |--------|-------|
-| 🛠 **Total Tools** | **349** |
+| 🛠 **Total Tools** | **350** |
 | 📂 **Categories** | **48** |
 | ⭐ **Open Source** | ██░░░░░░░░░░░░░░ 15% (53 tools) |
 | 🔒 **Privacy-First** | █░░░░░░░░░░░░░░░ 5% (16 tools) |
 | 🤖 **AI Tools** | 8 |
 | 📴 **Offline Capable** | 3 |
-| 🌐 **Last Updated** | 2026-07-17 |
+| 🌐 **Last Updated** | 2026-10-27 |
 | 👥 **Contributors** | [Join us!](CONTRIBUTING.md) |
 
 </div>

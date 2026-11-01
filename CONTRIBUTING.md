@@ -58,6 +58,7 @@ Refer to [SCHEMA.md](SCHEMA.md) for the full schema specification.
 - ❌ Add tools requiring phone verification
 - ❌ Submit malicious or deceptive tools
 - ❌ Add the same tool in multiple categories
+- ❌ Add a second LangStop tool to a category (limit is one per category)
 
 ## Categories
 
@@ -137,7 +138,7 @@ Your PR will be reviewed within 48 hours.
 
 ## Getting Help
 
-Open a [discussion](https://github.com/langstop/awesome-online-dev-tools/discussions)
+Open a [discussion](https://github.com/QuantumSavant654/awesome-online-dev-tools/discussions)
 if you have questions.
 
 ## Recognition

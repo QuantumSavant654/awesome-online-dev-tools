@@ -11,8 +11,7 @@ const data = {
     url: "https://github.com/langstop/awesome-online-dev-tools",
     totalTools: 0,
     totalCategories: 0,
-    lastUpdated: "2026-07-16",
-    maintainer: "LangStop"
+    lastUpdated: "2026-07-16"
   },
   categories: {}
 };

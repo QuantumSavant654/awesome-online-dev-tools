@@ -5,19 +5,6 @@
   "icon": "🔍",
   "tools": [
     {
-      "name": "Common Regex Patterns",
-      "url": "https://langstop.com/regex-patterns",
-      "description": "Browse 30+ common regex patterns with examples.",
-      "tags": [
-        "regex",
-        "patterns",
-        "reference"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "Debuggex",
       "url": "https://www.debuggex.com",
       "description": "Regex visual debugger with railroad diagrams.",

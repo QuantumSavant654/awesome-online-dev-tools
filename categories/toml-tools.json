@@ -5,19 +5,6 @@
   "icon": "🔧",
   "tools": [
     {
-      "name": "JSON to TOML",
-      "url": "https://langstop.com/json-to-toml",
-      "description": "Convert JSON to TOML.",
-      "tags": [
-        "json",
-        "toml",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "TOML Formatter",
       "url": "https://jsonformatter.org/toml",
       "description": "Online TOML formatter and validator.",
@@ -31,77 +18,12 @@
       "opensource": false
     },
     {
-      "name": "TOML Hub",
-      "url": "https://langstop.com/tools/toml",
-      "description": "All TOML tools.",
-      "tags": [
-        "toml",
-        "tools",
-        "hub"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "TOML to JSON",
       "url": "https://langstop.com/toml-to-json",
       "description": "Convert TOML to JSON.",
       "tags": [
         "toml",
         "json",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "TOML to XML",
-      "url": "https://langstop.com/toml-to-xml",
-      "description": "Convert TOML to XML.",
-      "tags": [
-        "toml",
-        "xml",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "TOML to YAML",
-      "url": "https://langstop.com/toml-to-yaml",
-      "description": "Convert TOML to YAML.",
-      "tags": [
-        "toml",
-        "yaml",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "XML to TOML",
-      "url": "https://langstop.com/xml-to-toml",
-      "description": "Convert XML to TOML.",
-      "tags": [
-        "xml",
-        "toml",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "YAML to TOML",
-      "url": "https://langstop.com/yaml-to-toml",
-      "description": "Convert YAML to TOML.",
-      "tags": [
-        "yaml",
-        "toml",
         "converter"
       ],
       "license": "Proprietary",

@@ -50,9 +50,10 @@
 4. Create GitHub release with changelog
 5. Announce on social media
 
-## Backlink Strategy
+## Affiliated Listings
 
-- LangStop links appear only where LangStop provides the tool
+- The README discloses that the maintainers are affiliated with some listed tools
+- At most one LangStop tool per category (`scripts/curate-langstop.js`, enforced by `npm run validate`)
 - No promotional or affiliate links
 - Focus on quality and usefulness first
 - Natural discovery through genuine value

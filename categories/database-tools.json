@@ -5,19 +5,6 @@
   "icon": "🗄️",
   "tools": [
     {
-      "name": "Connection String Builder",
-      "url": "https://langstop.com/connection-string-builder",
-      "description": "Build database connection strings for 14+ databases.",
-      "tags": [
-        "database",
-        "connection-string",
-        "url"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "dbdiagram.io",
       "url": "https://dbdiagram.io",
       "description": "Database diagram designer.",
@@ -52,19 +39,6 @@
         "database",
         "diagram",
         "schema"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "SchemaCode ER Diagram",
-      "url": "https://langstop.com/schemacode/erd-generator",
-      "description": "Generate ER diagrams from SchemaCode.",
-      "tags": [
-        "erd",
-        "schemacode",
-        "diagram"
       ],
       "license": "Proprietary",
       "pricing": "free",

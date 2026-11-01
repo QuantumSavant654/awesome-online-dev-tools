@@ -18,19 +18,6 @@
       "opensource": false
     },
     {
-      "name": "JWT Encoder",
-      "url": "https://langstop.com/jwt-encoder",
-      "description": "Create and sign JWTs with algorithm support.",
-      "tags": [
-        "jwt",
-        "encoder",
-        "sign"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "JWT.io",
       "url": "https://jwt.io",
       "description": "JWT debugger with algorithm support.",

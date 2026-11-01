@@ -57,8 +57,7 @@ let md = "";
 // ─────────────────────────────────────────────
 md += `<div align="center">\n\n`;
 md += `# 🛠 Awesome Online Dev Tools\n\n`;
-md += `## <br> A curated, community-driven collection of the best browser-based developer tools\n\n`;
-md += `[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n`;
+md += `## <br> A curated collection of browser-based developer tools\n\n`;
 md += `[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)\n`;
 md += `[![GitHub contributors](https://img.shields.io/github/contributors/QuantumSavant654/awesome-online-dev-tools)](https://github.com/QuantumSavant654/awesome-online-dev-tools/graphs/contributors)\n`;
 md += `[![GitHub stars](https://img.shields.io/github/stars/QuantumSavant654/awesome-online-dev-tools?style=social)](https://github.com/QuantumSavant654/awesome-online-dev-tools)\n`;
@@ -68,7 +67,9 @@ md += `[![Categories](https://img.shields.io/badge/categories-${catKeys.length}-
 md += `[![Open Source](https://img.shields.io/badge/open_source-${openSourcePct}%25-success)](#statistics)\n`;
 md += `[![Validate](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml/badge.svg)](https://github.com/QuantumSavant654/awesome-online-dev-tools/actions/workflows/validate.yml)\n\n`;
 md += `🔍 **Tip:** Use <kbd>Ctrl+F</kbd> to search across all **${totalTools}** tools, or browse the [search index](search-index.json).\n\n`;
-md += `</div>\n\n---\n\n`;
+md += `</div>\n\n`;
+md += `> **Disclosure:** The maintainers of this list are affiliated with some of the tools listed.\n\n`;
+md += `---\n\n`;
 
 // ─────────────────────────────────────────────
 // Why Browser-Based Developer Tools?
@@ -128,17 +129,7 @@ for (const key of catKeys) {
     md += `---\n\n`;
     continue;
   }
-  // Sort: langstop.com first for CSS, Formatters, and Config categories
-  const langstopFirstKeys = ["css-tools", "formatters", "config-tools"];
-  const sorted = [...tools].sort((a, b) => {
-    if (langstopFirstKeys.includes(key)) {
-      const aLangstop = a.url.includes("langstop.com");
-      const bLangstop = b.url.includes("langstop.com");
-      if (aLangstop && !bLangstop) return -1;
-      if (!aLangstop && bLangstop) return 1;
-    }
-    return a.name.localeCompare(b.name);
-  });
+  const sorted = [...tools].sort((a, b) => a.name.localeCompare(b.name));
   for (const t of sorted) {
     const badges = [];
     if (t.opensource)
@@ -196,7 +187,7 @@ md += `</div>\n\n---\n\n`;
 // Contributing
 // ─────────────────────────────────────────────
 md += `## Contributing\n\n`;
-md += `This is a community resource. Contributions are what make it valuable — every tool suggestion, category addition, or improvement helps thousands of developers.\n\n`;
+md += `Contributions are welcome: tool suggestions, new categories, and corrections all help.\n\n`;
 md += `**Quick start:** Add your tool to \`awesome-list.json\` and submit a PR. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.\n\n`;
 md += `<div align="center">\n\n`;
 md += `[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)\n`;
@@ -209,7 +200,7 @@ md += `</div>\n\n---\n\n`;
 // ─────────────────────────────────────────────
 md += `## License\n\n`;
 md += `This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.\n\n`;
-md += `The tools listed in this repository are the property of their respective owners. Listing here does not imply endorsement by or affiliation with any tool's operator.\n\n`;
+md += `The tools listed in this repository are the property of their respective owners. Listing here does not imply endorsement by any tool's operator.\n\n`;
 md += `<div align="center">\n\n`;
 md += `### Made with ❤️ for the developer community\n\n`;
 md += `[![GitHub stars](https://img.shields.io/github/stars/QuantumSavant654/awesome-online-dev-tools?style=social)](https://github.com/QuantumSavant654/awesome-online-dev-tools)\n`;

@@ -31,51 +31,12 @@
       "opensource": false
     },
     {
-      "name": "CSV Mock Data Generator",
-      "url": "https://langstop.com/csv-mock-data-generator",
-      "description": "Generate realistic CSV mock data.",
-      "tags": [
-        "csv",
-        "mock",
-        "generator"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "CSV to JSON",
       "url": "https://langstop.com/csv-to-json",
       "description": "Convert CSV rows to structured JSON.",
       "tags": [
         "csv",
         "json",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "CSV to XML",
-      "url": "https://langstop.com/csv-to-xml",
-      "description": "Convert CSV to structured XML.",
-      "tags": [
-        "csv",
-        "xml",
-        "converter"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "CSV to YAML",
-      "url": "https://langstop.com/csv-to-yaml",
-      "description": "Convert CSV to clean YAML.",
-      "tags": [
-        "csv",
-        "yaml",
         "converter"
       ],
       "license": "Proprietary",
@@ -90,19 +51,6 @@
         "csv",
         "viewer",
         "editor"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "JSON to CSV",
-      "url": "https://langstop.com/json-to-csv",
-      "description": "Convert JSON arrays to CSV.",
-      "tags": [
-        "json",
-        "csv",
-        "converter"
       ],
       "license": "Proprietary",
       "pricing": "free",

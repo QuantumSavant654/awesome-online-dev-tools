@@ -68,59 +68,6 @@
       "license": "Proprietary",
       "pricing": "free",
       "opensource": false
-    },
-    {
-      "name": "OpenAPI Diff",
-      "url": "https://langstop.com/openapi-diff",
-      "description": "Compare two OpenAPI specs side by side.",
-      "tags": [
-        "openapi",
-        "diff",
-        "compare"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "OpenAPI Editor",
-      "url": "https://langstop.com/openapi-editor",
-      "description": "Design and validate OpenAPI 3.x specs.",
-      "tags": [
-        "openapi",
-        "swagger",
-        "editor"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "REST API Client",
-      "url": "https://langstop.com/rest-api-client",
-      "description": "Send HTTP requests directly from your browser.",
-      "tags": [
-        "api",
-        "client",
-        "rest",
-        "http"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "WebSocket Client",
-      "url": "https://langstop.com/websocket-client",
-      "description": "Test WebSocket connections from your browser.",
-      "tags": [
-        "websocket",
-        "client",
-        "realtime"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
     }
   ]
 }

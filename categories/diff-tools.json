@@ -18,19 +18,6 @@
       "opensource": false
     },
     {
-      "name": "CSS Diff",
-      "url": "https://langstop.com/css-diff",
-      "description": "Compare CSS blocks.",
-      "tags": [
-        "css",
-        "diff",
-        "compare"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "DiffNow",
       "url": "https://www.diffnow.com",
       "description": "Text and file comparison.",
@@ -68,32 +55,6 @@
       "license": "MIT",
       "pricing": "free",
       "opensource": true
-    },
-    {
-      "name": "OpenAPI Diff",
-      "url": "https://langstop.com/openapi-diff",
-      "description": "Compare OpenAPI specifications.",
-      "tags": [
-        "openapi",
-        "diff",
-        "compare"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "Text Diff",
-      "url": "https://langstop.com/text-diff",
-      "description": "Compare text documents.",
-      "tags": [
-        "text",
-        "diff",
-        "comparison"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
     }
   ]
 }

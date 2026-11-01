@@ -60,6 +60,13 @@ function validate() {
       const errors = validateEntry(tool, catKey);
       allErrors.push(...errors);
     }
+
+    const maintainerTools = catValue.tools.filter((tool) =>
+      /^https:\/\/([a-z0-9-]+\.)?langstop\.com(\/|$)/.test(tool.url || "")
+    );
+    if (maintainerTools.length > 1) {
+      allErrors.push(`Category "${catKey}" has ${maintainerTools.length} LangStop tools (limit is 1)`);
+    }
   }
 
   if (allErrors.length > 0) {

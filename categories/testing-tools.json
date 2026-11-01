@@ -41,44 +41,6 @@
       "license": "Proprietary",
       "pricing": "free",
       "opensource": false
-    },
-    {
-      "name": "Regex Tester",
-      "url": "https://langstop.com/regex-tester",
-      "description": "Test and debug regular expressions.",
-      "tags": [
-        "regex",
-        "testing",
-        "debugger"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "REST API Client",
-      "url": "https://langstop.com/rest-api-client",
-      "description": "Test REST APIs from the browser.",
-      "tags": [
-        "api",
-        "testing",
-        "rest"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "WebSocket Client",
-      "url": "https://langstop.com/websocket-client",
-      "description": "Test WebSocket connections.",
-      "tags": [
-        "websocket",
-        "testing"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
     }
   ]
 }

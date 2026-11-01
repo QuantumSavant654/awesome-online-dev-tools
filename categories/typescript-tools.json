@@ -18,32 +18,6 @@
       "opensource": false
     },
     {
-      "name": "JSON to TypeScript Effect Schema",
-      "url": "https://langstop.com/json-to-typescript-effect-schema",
-      "description": "Generate Effect TS schemas from JSON.",
-      "tags": [
-        "typescript",
-        "effect",
-        "schema"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "JSON to TypeScript Zod",
-      "url": "https://langstop.com/json-to-typescript-zod",
-      "description": "Generate Zod schemas from JSON.",
-      "tags": [
-        "typescript",
-        "zod",
-        "json"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
       "name": "Total TypeScript Playground",
       "url": "https://www.totaltypescript.com/playground",
       "description": "TypeScript type challenges.",
@@ -51,19 +25,6 @@
         "typescript",
         "playground",
         "types"
-      ],
-      "license": "Proprietary",
-      "pricing": "free",
-      "opensource": false
-    },
-    {
-      "name": "TypeScript Formatter",
-      "url": "https://langstop.com/formatters/typescript-formatter",
-      "description": "Format TypeScript code.",
-      "tags": [
-        "typescript",
-        "formatter",
-        "beautifier"
       ],
       "license": "Proprietary",
       "pricing": "free",
